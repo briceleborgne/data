@@ -1,1 +1,5 @@
+Fichiers csv reprenant les données publiées par le Ministère de l'Education nationale, chaque vendredi.
 
+Le fichier "data_national" reprend les chiffres à l'échelle nationale, présentés dans la 1ère partie des communiqués du Ministère.
+Le fichier "data_academies_ecoles" reprend les données de fermetures d'écoles par académie.
+Le fichier "data_academies_classes" reprend les données de fermetures de classe par académie.
