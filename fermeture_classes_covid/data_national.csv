@@ -1,0 +1,5 @@
+date,source,structures_scolaires_fermees,ecoles_fermees,colleges_fermes,lycees_fermes,classes_fermees,cas_confirm_eleves,cas_confirm_personnel
+5 mars 2021,https://www.education.gouv.fr/sites/default/files/2021-03/point-de-situation---vendredi-5-mars-2021-74928_1.jpg,14,11,3,0,430,3941,491
+12 mars 2021,https://www.education.gouv.fr/sites/default/files/2021-03/point-de-situation---vendredi-12-mars-2021-87668.jpg,30,25,4,1,833,9221,1106
+19 mars 2021,https://www.education.gouv.fr/sites/default/files/2021-03/point-de-situation---vendredi-19-mars-2021-87865.jpg,80,63,11,6,2018,15484,1809
+26 mars 2021,https://www.education.gouv.fr/sites/default/files/2021-03/covid19---point-de-situation---vendredi-26-mars-2021-88055.jpg,148,116,22,10,3256,21183,2515
