@@ -104,13 +104,13 @@ kobe-goossens,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-d
 kobe-goossens,04.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2023/startlist
 kobe-goossens,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 kobe-goossens,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-lenny-martinez,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 lenny-martinez,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 lenny-martinez,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 lenny-martinez,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
 lenny-martinez,30.05,Mercan'Tour Classic Alpes-Maritimes,https://www.procyclingstats.com/race/mercan-tour-classic-alpes-maritimes/2023/startlist
 lenny-martinez,04.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2023/startlist
 lenny-martinez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
+jonathan-milan,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 jonathan-milan,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 oscar-onley,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 paul-penhoet,06.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2023/startlist
@@ -121,12 +121,10 @@ lennert-van-eetvelt,25.04,Tour de Romandie,https://www.procyclingstats.com/race/
 aleksandr-vlasov,17.04,Tour of the Alps,https://www.procyclingstats.com/race/tour-of-the-alps/2023/startlist
 aleksandr-vlasov,23.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2023/startlist
 aleksandr-vlasov,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
-richard-carapaz,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 richard-carapaz,23.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2023/startlist
 richard-carapaz,04.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2023/startlist
 richard-carapaz,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 richard-carapaz,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-ben-o-connor,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 ben-o-connor,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 ben-o-connor,23.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2023/startlist
 ben-o-connor,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -136,7 +134,6 @@ sepp-kuss,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia
 sepp-kuss,11.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-suisse/2023/startlist
 sepp-kuss,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 sepp-kuss,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-thibaut-pinot,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 thibaut-pinot,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 thibaut-pinot,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 thibaut-pinot,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
@@ -144,7 +141,6 @@ thibaut-pinot,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-it
 thibaut-pinot,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 thibaut-pinot,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 davide-ballerini,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
-victor-lafay,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 victor-lafay,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 victor-lafay,19.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2023/startlist
 victor-lafay,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
@@ -225,6 +221,7 @@ lewis-askey,06.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp
 pierre-gautherat,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 pierre-gautherat,06.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2023/startlist
 jay-vine,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
+gijs-leemreize,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 gijs-leemreize,19.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2023/startlist
 gijs-leemreize,26.05,Tour of Norway,https://www.procyclingstats.com/race/tour-of-norway/2023/startlist
 gijs-leemreize,11.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-suisse/2023/startlist
@@ -279,10 +276,7 @@ emanuel-buchmann,01.07,Tour de France,https://www.procyclingstats.com/race/tour-
 stan-dewulf,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 stan-dewulf,06.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2023/startlist
 felix-grossschartner,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
-andres-camilo-ardila,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
-andres-camilo-ardila,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 andres-camilo-ardila,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
-reuben-thompson,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 reuben-thompson,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 reuben-thompson,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 mathias-vacek,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
@@ -336,7 +330,6 @@ simone-velasco,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amste
 simone-velasco,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 joao-almeida,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 joao-almeida,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-pello-bilbao,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 pello-bilbao,19.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2023/startlist
 pello-bilbao,23.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2023/startlist
 pello-bilbao,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -351,7 +344,6 @@ kevin-geniets,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel
 kevin-geniets,04.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2023/startlist
 kevin-geniets,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 nelson-oliveira,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-cristian-rodriguez,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 cristian-rodriguez,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 cristian-rodriguez,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
 cristian-rodriguez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -390,8 +382,6 @@ maxim-van-gils,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.
 maxim-van-gils,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 fausto-masnada,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
 fausto-masnada,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
-remy-rochas,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
-remy-rochas,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 remy-rochas,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 remy-rochas,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
 mike-teunissen,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -428,7 +418,6 @@ tobias-foss,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/r
 nick-schultz,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 nick-schultz,19.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2023/startlist
 nick-schultz,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
-guillaume-martin,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 guillaume-martin,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 guillaume-martin,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 guillaume-martin,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -440,6 +429,7 @@ benjamin-thomas-2,16.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,ht
 benjamin-thomas-2,04.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2023/startlist
 benjamin-thomas-2,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 hugh-carthy,17.04,Tour of the Alps,https://www.procyclingstats.com/race/tour-of-the-alps/2023/startlist
+hugh-carthy,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 hugh-carthy,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 anthony-perez,19.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2023/startlist
 anthony-perez,23.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2023/startlist
@@ -462,11 +452,11 @@ fernando-gaviria,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tou
 fernando-gaviria,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 pascal-ackermann,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 sam-oomen,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
-clement-berthet,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 clement-berthet,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 clement-berthet,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 clement-berthet,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
 fran-miholjevic,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
+ben-healy,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 ben-healy,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 einer-augusto-rubio-reyes,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 alec-segaert,15.04,Liège - Bastogne - Liège U23,https://www.procyclingstats.com/race/liege-bastogne-liege-u23/2023/startlist
@@ -505,14 +495,13 @@ jefferson-alexander-cepeda,06.05,Giro d'Italia,https://www.procyclingstats.com/r
 harm-vanhoucke,17.04,Tour of the Alps,https://www.procyclingstats.com/race/tour-of-the-alps/2023/startlist
 harm-vanhoucke,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
 harm-vanhoucke,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
+guillaume-boivin,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 guillaume-boivin,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
 embret-svestad-bardseng,16.04,Giro della Città Metropolitana di Reggio Calabria,https://www.procyclingstats.com/race/giro-di-reggio-calabria/2023/startlist
 hugo-hofstetter,06.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2023/startlist
 hugo-hofstetter,07.05,Tro-Bro Léon,https://www.procyclingstats.com/race/tro-bro-leon/2023/startlist
-thomas-champion,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 thomas-champion,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 thomas-champion,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
-enzo-paleni,14.04,Classic Grand Besançon Doubs,https://www.procyclingstats.com/race/classic-grand-besancon-doubs/2023/startlist
 enzo-paleni,15.04,Tour du Jura Cycliste,https://www.procyclingstats.com/race/tour-du-jura-cycliste/2023/startlist
 enzo-paleni,16.04,Tour du Doubs,https://www.procyclingstats.com/race/tour-du-doubs/2023/startlist
 enzo-paleni,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
@@ -540,4 +529,5 @@ bastien-tronchon,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/rac
 louis-vervaeke,19.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2023/startlist
 louis-vervaeke,23.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2023/startlist
 louis-vervaeke,06.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2023/startlist
+martin-svrcek,16.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2023/startlist
 martin-svrcek,25.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2023/startlist
