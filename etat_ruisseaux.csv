@@ -1,35 +1,248 @@
 "code_station","libelle_station","libelle_reseau","date_observation","code_ecoulement","libelle_ecoulement","latitude","longitude"
 "Y5106615","L'Issole à Cabasse","Onde OFB",2023-05-26,"3","Assec",43.4434633307527,6.2215238147662
-"Y5520001","La Camandre à Seillans","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.6458269850482,6.66211486574564
+"Y5106614","Le Caramy entre Brignoles et Tourves","Onde OFB",2023-05-26,"3","Assec",43.4059716067857,5.98161830918086
+"Y5106611","L'Issole à Besse","Onde OFB",2023-05-26,"3","Assec",43.3426543986816,6.17282611531966
+"Y5106612","L'Issole à Flassans","Onde OFB",2023-05-26,"3","Assec",43.3691996430982,6.22196145440037
+"Y4615024","Le Meïge pan à Cuers","Onde OFB",2023-05-26,"3","Assec",43.2404199953873,6.06858098404392
+"H4240002","La Meuvette à Revercourt","Onde OFB",2023-05-25,"3","Assec",48.7202491918303,1.08602261771923
+"H4170001","Ruisseau de Saint-Cyr à Louvilliers-Les-Perche","Onde OFB",2023-05-25,"3","Assec",48.6054679122935,1.06254618962631
+"M1060001","La Conie à Nottonville","Onde OFB",2023-05-25,"3","Assec",48.1200146488787,1.51639993127461
+"M1050001","La connie à la Bazoche-en-Dunois","Onde OFB",2023-05-25,"3","Assec",48.0813028077462,1.55535949619079
+"V2910001","L'Albarine à Champdor","Onde OFB",2023-05-25,"3","Assec",46.0181566534458,5.59060618233286
+"Y0030001","La Llavanera à Palau de Cerdagne","Onde OFB",2023-05-25,"3","Assec",42.4113656586859,1.95907020846903
+"Y0466007","Le St Julia à Corbere las Cabanes","Onde OFB",2023-05-25,"3","Assec",42.6538539994328,2.67739685965664
+"Y0475611","Le Castelnou au Soler","Onde OFB",2023-05-25,"3","Assec",42.6755930094491,2.76829743879515
+"Y0255021","L'Ample à Reynes","Onde OFB",2023-05-25,"3","Assec",42.4983301239255,2.67759093006406
+"Y0274011","La Rome à La Cluse Basse","Onde OFB",2023-05-25,"3","Assec",42.4887089944573,2.83024089305902
+"V3410001","Les Eydoches à Faramans","Onde OFB",2023-05-25,"3","Assec",45.3961711423795,5.181934938435
+"V3425611","Les Orons à Pajay","Onde OFB",2023-05-25,"3","Assec",45.3424049334171,5.11713636857736
+"N4204011","Le Lambon à Vouillé","Onde OFB",2023-05-25,"3","Assec",46.3208742849512,-0.388221612517691
+"V3009111","Le Cotey à Faramans","Onde OFB",2023-05-25,"3","Assec",45.9186994273971,5.12501412278863
+"P6450001","La Beauronne de Chancelade à Agonac","Onde OFB",2023-05-25,"3","Assec",45.2873306631856,0.746903265973343
+"O1160001","Les Cabanettes à Siguer","Onde OFB",2023-05-24,"3","Assec",42.7398198263898,1.55920693298322
+"Y2440001","Le Libron à Vias","Onde OFB",2023-05-24,"3","Assec",43.3114047133714,3.40108200463663
+"L7000611","LE REVEILLON A DRACHE","Onde OFB",2023-05-24,"3","Assec",47.0542104655673,0.625405053765455
+"X2700001","Le Colostre à Roumoules","Onde OFB",2023-05-24,"3","Assec",43.8275319281372,6.1297049512126
+"Y4306511","Le Gaudre de Malaga à Mouriès","Onde OFB",2023-05-24,"3","Assec",43.7000399247002,4.84977941455704
+"F3060002","Ruisseau De La Janosse à Neuilly","Onde OFB",2023-05-23,"3","Assec",47.2390381401586,3.50062402993817
+"K3570811","Ruisseau de Beaumont à Livry","Onde OFB",2023-05-23,"3","Assec",46.7519855390014,3.06279529743277
+"Y2140021","Le ruisseau de Gassac à Aniane","Onde OFB",2023-05-23,"3","Assec",43.6602048663043,3.58966727779794
+"Y2100023","L'Alzon à Saint-Bauzille-de-Putois","Onde OFB",2023-05-23,"3","Assec",43.9121163278272,3.77379561361399
+"Y2140022","le ruisseau de l'Aurelle à Popian","Onde OFB",2023-05-23,"3","Assec",43.618852998361,3.53415837078435
+"H6056413","Val Logé","Onde OFB",2023-05-23,"3","Assec",48.898204200876,0.738791399226747
+"B5160001","Le Donjon à Omont","Onde OFB",2023-05-23,"3","Assec",49.6178045247145,4.7384325830571
+"X0710001","Le torrent de la Combe au Caire","Onde OFB",2023-05-23,"3","Assec",44.369637170313,6.06024250214306
+"X1335011","Le Lauzon à Montlaux","Onde OFB",2023-05-23,"3","Assec",44.0416044969354,5.81423150878566
+"X1510002","La Laye à St Etienne les Orgues","Onde OFB",2023-05-23,"3","Assec",44.0290573584599,5.78658408893054
+"O9100001","L'Avance à La Réunion","Onde OFB",2023-05-23,"3","Assec",44.2896719775092,0.0651464951218918
+"Y3200031","Le Lirou à Prades-le-Lez","Onde OFB",2023-05-23,"3","Assec",43.7123368322668,3.86511497190451
+"V7156221","L'Alzon à Saint-Jean-du-Pin","Onde OFB",2023-05-16,"3","Assec",44.1138128764881,4.04873020765368
+"V7124016","Le ruisseau de Roquefeuil à Mialet","Onde OFB",2023-05-16,"3","Assec",44.109401707114,3.94675620998209
+"V7135036","Le Valat de Fontlongue à Corbes","Onde OFB",2023-05-16,"3","Assec",44.0789808822417,3.9567002290937
+"V5064014","Le ruisseau de Valbonne à Saint-Paulet-de-Caisson","Onde OFB",2023-05-16,"3","Assec",44.2657809089701,4.57982914620218
+"V5474020","Le ruisseau de Rodières à Cornillon","Onde OFB",2023-05-16,"3","Assec",44.2119676103048,4.51647883572747
+"Y3414014","Le ruisseau de Russargues (Graniers) à Monoblet","Onde OFB",2023-05-16,"3","Assec",43.9850608874578,3.89882653547337
+"Y2100022","Le Recodier à Sumène","Onde OFB",2023-05-16,"3","Assec",43.9815629899227,3.71556248207251
+"V7170006","Le Bourdic à Sainte-Anastasie","Onde OFB",2023-05-16,"3","Assec",43.9384469994664,4.30509826013702
+"V7185013","Le Merlançon à Saint-Hippolyte-de-Montaigu","Onde OFB",2023-05-16,"3","Assec",44.0266599866622,4.45971802261033
+"V7185015","Les Seynes à Serviers-et-Labaume","Onde OFB",2023-05-16,"3","Assec",44.0526035461398,4.36038856823323
+"V7170007","L'Esquielle à Saint-Genies-de-Malgoires","Onde OFB",2023-05-16,"3","Assec",43.9459412561793,4.22117773589243
+"Y5202011","La Florieye à Flayosc","Onde OFB",2023-05-26,"2","Ecoulement non visible",43.5534782058393,6.3578999433678
+"Y5305032","L'Endre à St Paul en forêt","Onde OFB",2023-05-26,"2","Ecoulement non visible",43.5712277710827,6.66924105881689
+"H4240001","La Meuvette aux Chatelets","Onde OFB",2023-05-25,"2","Ecoulement non visible",48.6628085997938,1.02250898343431
+"M1114013","l'Yerre à Langey","Onde OFB",2023-05-25,"2","Ecoulement non visible",48.0681463116389,1.18751534035178
+"N6014011","La Courance à Marigny","Onde OFB",2023-05-25,"2","Ecoulement non visible",46.2137277696758,-0.441638362579753
+"U4405025","La Glenne à Saint-Etienne-sur-Chalaronne","Onde OFB",2023-05-25,"2","Ecoulement non visible",46.1497622513636,4.88416966756927
+"M1233041","LA GRAVELLE A CELLE","Onde OFB",2023-05-24,"2","Ecoulement non visible",47.8297774488659,0.784688863963684
+"M1124815","L'AIGRE A VERDES","Onde OFB",2023-05-24,"2","Ecoulement non visible",47.9564413749401,1.42704030681339
+"Y4306514","Le Gaudre d'Aureille à Mouriès","Onde OFB",2023-05-24,"2","Ecoulement non visible",43.6879644833589,4.87990113651784
+"Y1612051","La Nazoure à Cruzy","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.3546064980901,2.94097113611382
+"Y3454023","La Bénovie à Boisseron","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.7616087006703,4.08505262462328
+"Y2520021","La Mare à Castanet-le-Haut","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.6671737956943,2.98292770717543
+"Y3100001","La Mosson à Combaillaux","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.6653491878754,3.77827141968048
+"B2030001","L'Aroffe à Barisey au Plain","Onde OFB",2023-05-23,"2","Ecoulement non visible",48.5296423215474,5.84586978091381
+"Y3405011","L'Argentesse à La Cadière-et-Cambo","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.964685850002,3.81094970829677
+"V5474017","La Tave à La Bastide-d'Engras","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.0987373417031,4.4733787996196
+"V5425212","Gagnière à BESSEGES","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2843188891116,4.12324078251602
+"Y3435016","Le Crieulon à Saint-Jean-de-Crieulon","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.953629069017,4.00482480556411
+"Y3414011","Le ruisseau de Fressac à Durfot-et-Saint-Martin-de-Sossenac","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.9832326882611,3.92761632709432
+"Y3454022","Le valat des Boutines à la confluence avec valat des Romanes à Salinelles","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.803925154731,4.06974225629478
+"V5064011","Le valat d'Aiguèze à Saint-Julien-de-Peyrolas","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2954744359471,4.56060942802561
+"V5404031","Le Bournave à PONTEILS-ET-BRESIS","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.3936856740606,3.9800109469757
+"V7185017","L'Alzon à Vallabrix","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.052429590499,4.46364515253843
+"V7170002","Le Bourdic à Baron","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.0481679623919,4.29168090486796
+"V7170003","Le Lauriol à Boucoiran-et-Nozières","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.9741297835816,4.1897182353722
+"V7156218","Le Ruisseau des Luminières à Sainte-Cécile-d'Andorge","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2314593891027,3.99733815144137
+"V7156217","Le ruisseau de la Tombe à Sainte-Cécile-d'Andorge","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2330388382164,4.00344169843565
+"O0174021","Le ruisseau de la Torte en aval de la lande de Mour","Onde OFB",2023-05-25,"1","Ecoulement visible",43.0763092587949,0.37458999479896
+"O0174023","Le Merdan à Peyret au pont de la D75","Onde OFB",2023-05-25,"1","Ecoulement visible",43.050613924837,0.478124383489639
+"O0174022","Le ruisseau de l'Espérère en amont du pont de la D929","Onde OFB",2023-05-25,"1","Ecoulement visible",42.9421508484674,0.371469225599525
+"Q4670001","Le Lachouze au pont de la D13","Onde OFB",2023-05-25,"1","Ecoulement visible",42.980644278076,-0.133480796111511
+"O0154312","La Neste du Louron au pont de Cambajou","Onde OFB",2023-05-25,"1","Ecoulement visible",42.7671590091878,0.412150532036094
+"O0135512","Le ruisseau de Bourisp et Camparan au moulin de Guchan","Onde OFB",2023-05-25,"1","Ecoulement visible",42.8496407515112,0.344657333073085
+"O0154311","Le ruisseau de Germ à la station de pompage","Onde OFB",2023-05-25,"1","Ecoulement visible",42.7918442597225,0.436434190264651
+"O0060001","L'Ourse de Ferrère à la maison forestière","Onde OFB",2023-05-25,"1","Ecoulement visible",42.9255202623116,0.511312969123892
+"O0135511","Le ruisseau du Pla d'Arsoué au gué d'Arsoué","Onde OFB",2023-05-25,"1","Ecoulement visible",42.7926701084286,0.351990261399871
+"F3020002","Ruisseau de Montmousson à Lormes","Onde OFB",2023-05-25,"1","Ecoulement visible",47.2650217312465,3.83273097172455
+"F3020001","L'Anguison à Gacogne","Onde OFB",2023-05-25,"1","Ecoulement visible",47.2099488261692,3.89793783694819
+"K1724212","La Thibert à Dun-Sur-Grandry","Onde OFB",2023-05-25,"1","Ecoulement visible",47.097297814423,3.80402342639865
+"F3010001","Ruisseau du Bruit à Montreuillon","Onde OFB",2023-05-25,"1","Ecoulement visible",47.1713263569078,3.78624584163307
+"F3100001","Ru de Lyonnet à Moux-En-Morvan","Onde OFB",2023-05-25,"1","Ecoulement visible",47.1774053846404,4.11083264990795
+"K1724211","Le Trait à Aunay-En-Bazois","Onde OFB",2023-05-25,"1","Ecoulement visible",47.1418053874864,3.73951060849613
+"O0180002","Le ruisseau d'Arize en aval du pont de la D375","Onde OFB",2023-05-25,"1","Ecoulement visible",43.011204060925,0.485932983323831
+"O0180001","Le Rieu Sec à Champourret","Onde OFB",2023-05-25,"1","Ecoulement visible",43.0300280444961,0.493242586351355
+"O0090001","Le Rieu-Tort au pont de la D26","Onde OFB",2023-05-25,"1","Ecoulement visible",43.0445156079422,0.555221834877939
+"O0174024","Ruisseau du Bouchidet à Rebouc","Onde OFB",2023-05-25,"1","Ecoulement visible",42.9932837087189,0.3730059933254
+"U2334033","Ruisseau la Batte à Lebetain","Onde OFB",2023-05-25,"1","Ecoulement visible",47.483542205284,6.97598456803383
+"U2334032","Ruisseau la Vendeline à Courtelevant","Onde OFB",2023-05-25,"1","Ecoulement visible",47.5159137136973,7.07889446590193
+"U2324211","L'Écrevisse à Vellescot","Onde OFB",2023-05-25,"1","Ecoulement visible",47.5710918083269,7.01338850479311
+"U2305242","Ruisseau le Margrabant à Lariviere","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6722690647433,6.99482752103492
+"U2305241","Rivière le Saint-Nicolas à Fontaine","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6677965606436,6.99963696055865
+"U2305243","Rivière le Saint-Nicolas à Petitefontaine","Onde OFB",2023-05-25,"1","Ecoulement visible",47.7233463550638,7.0033151238373
+"U2346413","Rivière la Savoureuse à Lepuix","Onde OFB",2023-05-25,"1","Ecoulement visible",47.7567304018381,6.81928645046633
+"U2346412","Rivière la Rosemontoise à Eloie","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6990683420301,6.87265730680716
+"U2346415","Le Rhôme à Lachapelle-Sous-Chaux","Onde OFB",2023-05-25,"1","Ecoulement visible",47.7057259930125,6.81631647568857
+"U2346411","Rivière la Savoureuse à Belfort","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6299898335738,6.86268737443537
+"U2346414","Rivière la Savoureuse à Sermamagny","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6761719923295,6.83019599215323
+"Q0214011","La Geüne au pont de Prats-Dessus","Onde OFB",2023-05-24,"1","Ecoulement visible",43.1968043185012,0.0182474537358208
+"Y2320001","La Boyne à Cabrières","Onde OFB",2023-05-24,"1","Ecoulement visible",43.5739306271623,3.36401453370475
+"Y2220002","Le Rivernoux à Le Bosc","Onde OFB",2023-05-24,"1","Ecoulement visible",43.6834450215576,3.38412124105913
+"Y2230011","La Marette à Octon","Onde OFB",2023-05-24,"1","Ecoulement visible",43.6535287746981,3.30249901291657
+"Y2220001","La Lergue à Le Bosc","Onde OFB",2023-05-24,"1","Ecoulement visible",43.6791517246772,3.38571415092742
+"Y2360001","La Thongue à Abeilhan","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4497548094216,3.30316142714172
+"Y2410011","Le Libron à Magalas","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4735852014132,3.21417572351352
+"Q0225013","Le Mardaing en amont de la confluence avec le Souy","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2691576332268,0.0160228456824511
+"Q0225012","Le Souy en amont de la confluence avec le Mardaing","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2692002004444,0.0108650791162254
+"Q0260001","Le Lys en aval du pont de la D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3940232541031,0.0209414268509276
+"Q0580001","L'Achella au pont de la D14","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3033885380786,0.230109131410698
+"Q0225014","Le Rieu-Tort à l'amont de l'A64","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2323970953557,-0.0244693665579025
+"Q0435011","Le Laysa au pont de la D4","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4262865534527,0.00540163176884437
+"Q0554011","L'Arrêt-Darré au pont de Lhez","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2057745073947,0.194048852710796
+"Q0240001","L'Echez au pont de la D56","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4260143168817,0.0421742322247695
+"Q0530001","L'Arrêt au pont de la D120","Onde OFB",2023-05-24,"1","Ecoulement visible",43.1211209473007,0.185810145559212
+"Q0230001","La Géline au pont de la D7","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3299941973886,0.0365442396688634
+"O6502511","Le Saint-Martin au siphon du canal du Bouès","Onde OFB",2023-05-24,"1","Ecoulement visible",43.0962543879458,0.338864401651827
+"O6510002","Le Mérou au pont de La Barthe","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3354619358014,0.37551168147624
+"O6564311","Le ruisseau de Pesqué au pont de la D140","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2881842792934,0.453262405861248
+"O6510003","Le Pélan au pont de la D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3188740535297,0.366794729333537
+"Q4620001","Le Labardaous au pont de la D105","Onde OFB",2023-05-24,"1","Ecoulement visible",42.9299929612667,-0.24504393432187
+"Q4300001","Le Bastan à l'hélistation de Barèges","Onde OFB",2023-05-24,"1","Ecoulement visible",42.904483968267,0.103364847352517
+"Q4100001","Le Gave d'Héas en amont du pont de l'Arraillé","Onde OFB",2023-05-24,"1","Ecoulement visible",42.7560805012604,0.0642916420099073
+"Q0105111","Le Lhéris au pont amont de la fontaine de Crastes","Onde OFB",2023-05-24,"1","Ecoulement visible",43.0361119195169,0.18987686162958
+"Q0000021","Le ruisseau de Hourc au pont de la route forestière","Onde OFB",2023-05-24,"1","Ecoulement visible",42.9447116330765,0.288049785837491
+"Q0510001","Le ruisseau de Lies au pont de la D584","Onde OFB",2023-05-24,"1","Ecoulement visible",43.0760570170364,0.192826628895398
+"Q4420001","Le Malin au pont de Les Longues","Onde OFB",2023-05-24,"1","Ecoulement visible",42.9557567841167,-0.0604070976935731
+"Q0600002","Le Lurus au pont de la D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3463317836147,0.2471491218361
+"Q0590001","Le Lanénos à Sénac, à l'amont de sa confluence avec le ruisseau du Gelabat - pont D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3532369532288,0.207170649238979
+"K4030011","Ruisseau du Moulin à Germigny-Sur-Loire","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0858888843482,3.07053783178307
+"F3030001","Ru de Bouilles à Challement","Onde OFB",2023-05-23,"1","Ecoulement visible",47.3246612501913,3.63118361647821
+"F3070001","Le Sauzay à La Chapelle-Saint-Andre","Onde OFB",2023-05-23,"1","Ecoulement visible",47.3664618742407,3.32940341473699
+"K1764011","La Canne à Tintury","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0171098283515,3.55330832139292
+"K1775511","L'Andarge à Billy-Chevannes","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0121370381057,3.4523680952865
+"K1954011","La Nièvre de St Franchy à Lurcy-Le-Bourg","Onde OFB",2023-05-23,"1","Ecoulement visible",47.1515770193695,3.39315340171635
+"F3060001","Le Corneau à Brinon-Sur-Beuvron","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2830863157992,3.50257333920565
+"K1914511","L'Ixeure à Bona","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0618052702005,3.42537628524438
+"K4094011","Ruisseau de Crezan à Donzy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.389707856896,3.10525406082178
+"K4046512","Le St Jean à Varennes-Les-Narcy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2293319700006,3.07078805781638
+"K1753111","Le Donjon à Semelay","Onde OFB",2023-05-23,"1","Ecoulement visible",46.8553489423496,3.86748854595693
+"K1740001","La Roche à Larochemillay","Onde OFB",2023-05-23,"1","Ecoulement visible",46.9199766730283,4.01114136264322
+"K1730001","La Dragne à Villapourcon","Onde OFB",2023-05-23,"1","Ecoulement visible",46.9437615240224,3.98397269270307
+"F3040001","L'Armance à Dornecy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.4336604359997,3.59058380905801
+"K1775512","Ruisseau d'Ozon à Fours","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7915674511656,3.70395006669807
+"K1660001","La Cressonne à Saint-Hilaire-Fontaine","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7413380138855,3.6390455732085
+"K1660002","Ru du Moulin au Loup à Saint-Hilaire-Fontaine","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7530771509264,3.63660633454574
+"K1920001","La Côlatre à Azy-Le-Vif","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7843660539743,3.23494525926465
+"K3640002","Ruisseau du Pont Aubert à Mars-Sur-Allier","Onde OFB",2023-05-23,"1","Ecoulement visible",46.85076724427,3.08432026944095
+"Y2510031","Le Gravezon à Lunas","Onde OFB",2023-05-23,"1","Ecoulement visible",43.7127434456743,3.19711734799536
+"Y2540032","L'Esparaso à Saint-Etienne-d'Albagnan","Onde OFB",2023-05-23,"1","Ecoulement visible",43.5297412528927,2.85702130080898
+"Y2580511","Le Lirou à Maureilhan","Onde OFB",2023-05-23,"1","Ecoulement visible",43.3634334916445,3.12120765003433
+"Y2540031","La Salesse à Courniou ","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4726642631226,2.71052096227489
+"Y1605062","La Cesse à Cassagnoles","Onde OFB",2023-05-23,"1","Ecoulement visible",43.3837974925732,2.62994067679579
+"O4010001","L'Agout à Fraisse-sur-Agout","Onde OFB",2023-05-23,"1","Ecoulement visible",43.5985576680463,2.78802632608214
+"Y2110001","La Buèges à Saint-Jean-de-Buèges","Onde OFB",2023-05-23,"1","Ecoulement visible",43.8276494111157,3.62595056542854
+"Y2120001","Le Lamalou à Rouet","Onde OFB",2023-05-23,"1","Ecoulement visible",43.8167164725532,3.79312962228988
+"Y2200001","La Brèze à Saint-Etienne-de-Gourgas","Onde OFB",2023-05-23,"1","Ecoulement visible",43.7794781755272,3.38147495937846
+"Y3330001","Le Bérange à Candillargues","Onde OFB",2023-05-23,"1","Ecoulement visible",43.6164781491358,4.08202817973454
+"Y3020001","La Vène à Poussan","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4757431131673,3.69417382622395
+"Y3310011","Le Salaison à Le Cres","Onde OFB",2023-05-23,"1","Ecoulement visible",43.6619789745333,3.92903662532806
+"Y3320001","La Cadoule à Castries","Onde OFB",2023-05-23,"1","Ecoulement visible",43.6648011847203,3.98418946582033
+"Y2570051","Le Taurou à Murviel-les-Béziers","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4354714853086,3.15885573725626
+"Y2560031","Le Vernazobre à Pierrerue","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4304850684242,2.97290127050042
+"K4123011","Le Jourdain à Arquian","Onde OFB",2023-05-23,"1","Ecoulement visible",47.5087157507874,3.00286754615352
+"K4046511","La Sillondre à Chasnay","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2470474729589,3.18325884507603
+"K1943011","Ruisseau de St Bonnot à Champlemy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2629927447003,3.27945395342944
+"V7124017","Le ruisseau des Rules à Mialet","Onde OFB",2023-05-16,"1","Ecoulement visible",44.127163150294,3.91299394475793
+"V7135041","Le ruisseau de Brion à Saint-Jean-du-Gard","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1031286519043,3.88129722906762
+"V7135043","Le ruisseau des Côtes à Saint-Jean-du-Gard","Onde OFB",2023-05-16,"1","Ecoulement visible",44.115541130639,3.85042815334331
+"V7135042","Le valat du Rieu à Saint-Jean-du-Gard","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1144577502789,3.83772134246976
+"V7135040","Le valat de Russiel à Saint-André-de-Valborgne","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1376166011975,3.74107901338315
+"V7135038","Le ruisseau du Rouquet à L'Estréchure","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0867341468132,3.80144386630978
+"V7135039","Le ruisseau de la Jasse à L'Estrechure","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0837834702104,3.80154520765548
+"Y3414013","Le Crespenou à Monoblet","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9850588888894,3.89875492002267
+"Y3444021","Le Courme à Moulezan","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9375145636252,4.11770635967658
+"Y2000026","Le Valat de Crouzet à Valleraugue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0613433355738,3.65358082144065
+"Y2000025","Le Valat de Valdestours à Valleraugue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0494958076747,3.63287854131106
+"Y2010029","Le Coudoulous à Breau-et-Salagosse","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9817103706466,3.58350874188713
+"Y2010022","Le Coudoulous à Arphy","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0295912263965,3.59023700781861
+"Y2000023","Le valat de Reynus à Valleraugue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0544117457067,3.63252064953882
+"V5474025","La Veyre à Tresques","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1009340806555,4.57375423747234
+"V5474022","Le ruisseau de Vionne à Sabran","Onde OFB",2023-05-16,"1","Ecoulement visible",44.151105990184,4.51071243947777
+"V5465713","L'Aiguillon à Verfeuil","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1779896100294,4.45366966628308
+"V5465712","L'Aiguillon à Lussan","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1727272093664,4.3844756539301
+"V5454012","La Claysse à Saint-Jean-de-Maruejols-et-Avejan","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2590574362749,4.27947419943611
+"V5445022","L'Auzon à Rivières","Onde OFB",2023-05-16,"1","Ecoulement visible",44.224775773951,4.26349367745714
+"V5445021","L'Alauzène à Allegre-les-Fumades","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1851154517656,4.23041811892485
+"V5454011","La Cèze à Rochegude","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2408177968428,4.28634512594527
+"Y3414012","Le ruisseau de la Filature à Monoblet","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9861545383277,3.89780195665019
+"Y3420001","Le Brestalou à Brouzet-les-Quissac","Onde OFB",2023-05-16,"1","Ecoulement visible",43.8446204103964,3.98343229316626
+"V5410001","Le ruisseau de Cornas ","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2989737682744,4.02683347161839
+"V5410002","La Ribeyrette à Chamborigaud","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2953307002912,3.97758004283354
+"V5410003","Le Luech à Génolhac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3139769997925,3.96695184385814
+"Y3454021","Le ruisseaud'Aigalade à Salinelles","Onde OFB",2023-05-16,"1","Ecoulement visible",43.8033211426612,4.07993416594119
+"V5404035","L'Amalet à Génolhac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3349168577696,3.98293374256125
+"V5404036","Le Valcrouzés à Saint-André-Capcèze","Onde OFB",2023-05-16,"1","Ecoulement visible",44.4106376112573,3.94747907766641
+"V5404026","La Cèze à Aujac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3757630386275,3.98065659422041
+"V5404027","La Cönnes à CONCOULES","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3926526323281,3.97850779739018
+"V5454010","La Cèze à Tharaux","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2438369423334,4.29970519900099
+"Y2100021","Le Rieutord à Sumène","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9816714008236,3.71536217766
+"O3354311","Les pertes du Trévezel à Trèves","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0760446665573,3.37228018030839
+"Y2010027","L'Arre à Bez et Esparon","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9702188705207,3.52912167486857
+"O3354312","Le Trévezel dans les gorges","Onde OFB",2023-05-16,"1","Ecoulement visible",44.086636336671,3.39540738547769
+"V5480002","Le Nizon à Lirac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0413922221568,4.6998758938289
+"V5404037","La Cèze à Ponteils et Brésis","Onde OFB",2023-05-16,"1","Ecoulement visible",44.4130000427938,3.94860718840767
+"Y2010031","Le ruisseau de Gazel à Saint-André-de-Majencoules","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0086984241209,3.64800563982218
+"Y2010033","Le ruisseau de l'Arboux à Saint-André-de-Majencoules","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0008174143437,3.66057724011569
+"Y2010028","Le Merlanson à Bez-et-Esparon","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9710480000273,3.52893274793533
+"V7170004","Le ruisseau de Braune à La Calmette","Onde OFB",2023-05-16,"1","Ecoulement visible",43.931650424775,4.25806684934702
+"V7164019","La Droude à Saint-Etienne-de-L'Olm","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0550401396433,4.18335149182616
+"V7164017","La Droude à Saint-Cesaire-de-Gauzignan","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0252641433418,4.19671198840474
+"V7164016","Le Droude à Brignon","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9919431255695,4.21745985645049
+"V7170005","Le Gardon à Dions","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9346319631665,4.30444119165167
+"V7185016","Les Seynes à Uzès","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9898054661688,4.40422190614139
+"V7185012","Le ruisseau Aigues Vives à Belvezet","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0717411744279,4.36094705565536
+"V7164020","La Candoulières à Saint-Jean-de-Ceyrargues","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0647041913933,4.22813581872916
+"V7156212","Le Brémo à Les-Salles-du-Gardon","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2160254738712,4.01573329423679
+"V7156214","Le Galeizon à Cendras","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1552895595455,4.03831153370115
+"V7156213","Le Galeizon à Cendras - Pont de Bouzigue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1570558755617,4.0243082411741
+"V7156215","Le Galeizon à Cendras - Prés de la station d'épuration","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1523343368483,4.05648347920853
+"V7156219","L'Alzon à Saint-Christol-les-Alès","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0952967347091,4.06772274640136
 "Y5020001","Le Ruisseau de Varages à Varages","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.5862886763682,5.96764082929724
 "Y4615025","Le Réal Martin au chemin de la mayonette","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.1957254451427,6.12767993949176
-"Y5202011","La Florieye à Flayosc","Onde OFB",2023-05-26,"2","Ecoulement non visible",43.5534782058393,6.3578999433678
 "Y5005211","Le Cauron à Bras","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.4723836160883,5.95081376796741
 "X2405011","Le Rieu tort à La Bastide","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.7608449777359,6.63724696668687
 "Y5106613","Le Caramy à Tourves","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.4034317895473,5.94183674704771
 "Y5436211","La Verne à La Mole","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.2097627135011,6.46549224499306
 "Y5010002","l'Argens à Barjols","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.5272134469579,5.98416633276875
 "Y5215023","L'Aille à Vidauban","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.3975721040586,6.45630020520427
-"Y5106614","Le Caramy entre Brignoles et Tourves","Onde OFB",2023-05-26,"3","Assec",43.4059716067857,5.98161830918086
 "Y5010001","Vallon des Rigouards à Barjols","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.5483877249629,5.96824606020797
 "Y4615026","Vallon de Rimauresq à Pignans","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.2932876837459,6.23488462252555
 "Y5305031","Le Riou à Claviers","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.602880901267,6.55729080039013
 "X2424011","La Bruyère à Bargème","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.7087566041917,6.5793492577661
-"Y4615021","La Font de l'Ile à Carnoules","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.3053164426395,6.19103162208414
 "X2305011","le Jabron à Chateauvieux","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.7862418730249,6.56105482533219
-"Y5106611","L'Issole à Besse","Onde OFB",2023-05-26,"3","Assec",43.3426543986816,6.17282611531966
 "X2424012","l'Artuby à Comps","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.6783381218508,6.50778121632121
 "Y5450001","Le Préconil à Sainte Maxime","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.3270814707438,6.61005913797086
-"Y5106612","L'Issole à Flassans","Onde OFB",2023-05-26,"3","Assec",43.3691996430982,6.22196145440037
-"Y5424011","La Giscle à Grimaud","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.2721265018989,6.50295621140062
 "Y5215021","Vallon des neuf riaux","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.3494275320343,6.4302225869453
-"Y5215022","Le Mourrefrey aux Mayons","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.3055948449971,6.35320019233988
-"Y4615024","Le Meïge pan à Cuers","Onde OFB",2023-05-26,"3","Assec",43.2404199953873,6.06858098404392
 "Y4615023","Le ruisseau de la Malière à Collobrières","Onde OFB",2023-05-26,"1a","Ecoulement visible acceptable",43.2299557559375,6.28776047263315
-"Y5305032","L'Endre à St Paul en forêt","Onde OFB",2023-05-26,"2","Ecoulement non visible",43.5712277710827,6.66924105881689
-"Y4615022","Le Réal Colobrier à Colobrières","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.2406567499268,6.32074385147745
-"Y4604021","Le Gapeau à Solliès pont","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.179924123526,6.04905376673944
-"Y0274012","Le Maureillas à Maureillas Las Illas","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.4891891859661,2.80486928439228
 "H0321020","L'Ource au pont de Prusly","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.8997094062003,4.65429012554829
 "F3310001","La Loueme à Athie","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.5543588487639,4.26020263469205
 "U1235021","La Norges à Couternon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.3441631041628,5.15291775249655
@@ -82,8 +295,6 @@
 "K0550011","Le Courbière à Bas-en-Basset","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.3281231893405,4.11936839693202
 "K2593011","L'Auze à Torsiac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.3598112297539,3.21244243543133
 "K2430811","L'Auzon à Auzon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.3938255542903,3.37559634917545
-"K2424011","La Vendage à Beaumont","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.3141961595364,3.34692022902659
-"K2365511","Le Montorgue à Paulhaguet","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.2335174235742,3.52263421424532
 "K2350001","La Senouire à Saint-Pal-de-senouire","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.253215695308,3.65491938940523
 "K2335511","Le Ceroux à Vieille-Brioude","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.2612532672143,3.40018057125142
 "K2320001","L'Arçon à Villeneuve d'Allier","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.1914458871741,3.3795361743514
@@ -91,11 +302,8 @@
 "K2283111","La Meyronne à Venteuges","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.0100222912333,3.4777156718493
 "K2254012","La Besque à Venteuges","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.0080372903999,3.53977247126078
 "K2300811","Ruisseau de la Morge à Mazeyrat d'Allier","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.1549755010445,3.51413803390972
-"H4240001","La Meuvette aux Chatelets","Onde OFB",2023-05-25,"2","Ecoulement non visible",48.6628085997938,1.02250898343431
-"H4240002","La Meuvette à Revercourt","Onde OFB",2023-05-25,"3","Assec",48.7202491918303,1.08602261771923
 "H4220001","Le ruisseau du Buternay à La Chapelle-Fortin","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.6501130357291,0.847078816505032
 "H4180412","La Blaise à Saint-Ange-Et-Torçay","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.6472540834408,1.23448036004947
-"H4170001","Ruisseau de Saint-Cyr à Louvilliers-Les-Perche","Onde OFB",2023-05-25,"3","Assec",48.6054679122935,1.06254618962631
 "H4170002","Ruisseau de Saint-Martin à Maillebois","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.6150734982105,1.16137781745021
 "H4000001","L'Eure à Fontaine-Simon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.5152232702315,0.989529875861605
 "H4010001","Le Ruisseau de la Loupe à Vaupillon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.4477205274315,0.986634179135169
@@ -110,13 +318,8 @@
 "M0354011","La Cloche à Fretigny","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.3675316092117,0.996567678464285
 "M0354013","La Vinette à Saint-Denis-d'Authou","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.3458936376445,0.952425097298281
 "M0354012","Les Arcisses à la Gaudaine","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.3013346626674,0.928672904516184
-"M0361513","La Ronne à Coudray-au-Perche","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.2206827357404,0.863742635691807
 "M0361512","Ruisseau de Bethonvilliers à Bethonvilliers","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.2302191712571,0.878384675931383
 "M1011611","La Foussarde à Argenvilliers","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.2795263917183,1.02138974088605
-"M0361514","La Jambette à Nogent-le-Rotrou","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3090970012223,0.815511188074494
-"M1000001","Vallée de la Reuse à Illiers-Combray","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3111188162113,1.2177858240827
-"M1000002","Le Loir à Illiers-Combray","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3229062318176,1.22430277540843
-"M1000003","Vallée du Gros Caillou à Saint-Eman","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3243043640774,1.18405222898465
 "M1011613","La Thironne à Thiron-Gardais","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.3031937990104,1.03738657027528
 "M1011612","Ruisseau de la Mazure à Montigny-le-Chartif","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.3090393313167,1.09418295604192
 "M0361511","La Berthe à Argenvilliers","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.2706627623603,0.93888883295367
@@ -125,11 +328,8 @@
 "M1034021","Ruisseau de Sainte-Suzanne aux Autels-Villevillon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.1862153356255,1.00887227372014
 "M1034025","Ruisseau de Sainte-Suzanne à Unverre","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.189934844006,1.05812131177731
 "M1034022","La Sonnette aux Autels-Villevillon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.1722118075752,1.01704489959823
-"M1060001","La Conie à Nottonville","Onde OFB",2023-05-25,"3","Assec",48.1200146488787,1.51639993127461
-"M1050001","La connie à la Bazoche-en-Dunois","Onde OFB",2023-05-25,"3","Assec",48.0813028077462,1.55535949619079
 "M1114011","L'Yerre à la Bazoche-Gouet","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.1292493850336,0.968163019975182
 "M1114012","L'Yerre à Chappelle-Royale","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.1427267896085,1.05031565078479
-"M1114013","l'Yerre à Langey","Onde OFB",2023-05-25,"2","Ecoulement non visible",48.0681463116389,1.18751534035178
 "M1114014","L'Yerre à Saint-Hilaire-sur-Yerre","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",48.0542654070854,1.23943926042287
 "M1124811","Egvonne à Cloyes-sur-le-Loir","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.9898757178398,1.21753497119013
 "M1124812","L'Aigre au Mée","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.9819700018041,1.38997879865663
@@ -138,49 +338,25 @@
 "L8134022","La Raconnière à Maisontiers","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.7458652984088,-0.251630820117718
 "L8134021","La Taconnière à Maisontiers","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.7728971197227,-0.232865471598021
 "L8116412","La Viette à Pompaire","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.6091717097157,-0.255645950271484
-"O0174021","Le ruisseau de la Torte en aval de la lande de Mour","Onde OFB",2023-05-25,"1","Ecoulement visible",43.0763092587949,0.37458999479896
-"O0174023","Le Merdan à Peyret au pont de la D75","Onde OFB",2023-05-25,"1","Ecoulement visible",43.050613924837,0.478124383489639
-"O0174022","Le ruisseau de l'Espérère en amont du pont de la D929","Onde OFB",2023-05-25,"1","Ecoulement visible",42.9421508484674,0.371469225599525
-"Q4670001","Le Lachouze au pont de la D13","Onde OFB",2023-05-25,"1","Ecoulement visible",42.980644278076,-0.133480796111511
 "V2934011","L'Albarine à Bettant","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.9357009133541,5.3762029614663
 "L8142111","La Cendronne à  Airvault (Repéroux)","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.8535109209756,-0.170486907462142
 "L8142112","Le Gateau à  Saint Loup Lamaire (St-loup-sur-Thouet)","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.7864808433801,-0.138074918269051
-"N6003022","Le Mignon à Mauzé-sur-Mignon","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.1844165046762,-0.666904540393331
 "N6003021","Le Canal du Mignon à St-Hilaire-la-Palud","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2266958345003,-0.707559265044217
 "L821 3012","Le Thouaret à Boismé","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.7707142946304,-0.433311195703126
-"O0154312","La Neste du Louron au pont de Cambajou","Onde OFB",2023-05-25,"1","Ecoulement visible",42.7671590091878,0.412150532036094
 "U4240001","Le Bief de l'Attaque à Saint-Didier-d'Aussiat","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2930223857172,5.04805251608074
-"O0135512","Le ruisseau de Bourisp et Camparan au moulin de Guchan","Onde OFB",2023-05-25,"1","Ecoulement visible",42.8496407515112,0.344657333073085
-"O0154311","Le ruisseau de Germ à la station de pompage","Onde OFB",2023-05-25,"1","Ecoulement visible",42.7918442597225,0.436434190264651
-"O0060001","L'Ourse de Ferrère à la maison forestière","Onde OFB",2023-05-25,"1","Ecoulement visible",42.9255202623116,0.511312969123892
-"O0135511","Le ruisseau du Pla d'Arsoué au gué d'Arsoué","Onde OFB",2023-05-25,"1","Ecoulement visible",42.7926701084286,0.351990261399871
-"U4240002","Le Bief de la Fontaine de Fer à Saint-Jean-sur-Veyle","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2772277431844,4.91589752114348
 "V2700001","Le Veyron à Poncin","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0844979994356,5.40718401805492
 "U4235011","Le Renon Au Plantay","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0036191944033,5.07817955267659
 "V0415040","L'Allondon à Echenevex","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2967297141458,6.02866694267031
-"F3020002","Ruisseau de Montmousson à Lormes","Onde OFB",2023-05-25,"1","Ecoulement visible",47.2650217312465,3.83273097172455
-"U4030001","Le Salençon à Malafretaz","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3346828116572,5.15704325469725
-"F3020001","L'Anguison à Gacogne","Onde OFB",2023-05-25,"1","Ecoulement visible",47.2099488261692,3.89793783694819
-"K1724212","La Thibert à Dun-Sur-Grandry","Onde OFB",2023-05-25,"1","Ecoulement visible",47.097297814423,3.80402342639865
-"F3010001","Ruisseau du Bruit à Montreuillon","Onde OFB",2023-05-25,"1","Ecoulement visible",47.1713263569078,3.78624584163307
-"F3100001","Ru de Lyonnet à Moux-En-Morvan","Onde OFB",2023-05-25,"1","Ecoulement visible",47.1774053846404,4.11083264990795
-"U3470001","La Sane-Vive à Lescheroux","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.4279673173749,5.13994718800838
-"U4110002","La Grande Loëze à Saint-André-de-Bage","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3080043611346,4.92027798054601
 "V1015822","la valserine à Les Molunes","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.3371228883158,5.96266114662556
-"V2910001","L'Albarine à Champdor","Onde OFB",2023-05-25,"3","Assec",46.0181566534458,5.59060618233286
 "V0415412","Le ruisseau de Fion à Sergy","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2505401827083,6.01337304462009
 "V1454311","Le Furan à la Burbanche","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.8454803411196,5.56029340183623
 "V1015823","Le ruisseau des Charrières à Champfromier","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.1953275206348,5.81934319321707
-"K1724211","Le Trait à Aunay-En-Bazois","Onde OFB",2023-05-25,"1","Ecoulement visible",47.1418053874864,3.73951060849613
-"N4015211","Le Rabané à Nanteuil","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.4300077398125,-0.165133741505255
 "Y0025011","Le Rahur à Bourg-Madame","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4320203995468,1.94096857390112
 "Y0004012","L'Angouste à Estavar","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4647171859545,1.99427240816347
 "Y0010002","L'Egat à Estavar","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4649153223825,1.99238272110407
-"Y0045012","Le Tarteres à Latour de Carol","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.472763585997,1.87142429664188
 "Y0004011","Le Rec de Bolquere à Bolquère","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.5158260969723,2.06892746259818
 "Y0025012","Le Bena à Enveitg","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4702653643524,1.90157159764163
 "Y0045011","Le Carol à Enveitg","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4493605220712,1.90756312530645
-"Y0030001","La Llavanera à Palau de Cerdagne","Onde OFB",2023-05-25,"3","Assec",42.4113656586859,1.95907020846903
 "Y0010001","Le Sègre à Bourg Madame","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4303923170935,1.94142677494355
 "Y0410001","La Carança à Thues","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.5223843903533,2.22140185019082
 "Y0424011","Le Cabrils à Olette","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.5529634769652,2.2656671453695
@@ -189,32 +365,18 @@
 "Y0436408","Le St Vincent à Vernet les Bains","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.5489177720452,2.39566569401217
 "Y0455031","La Lentilla à Finestret","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.6161608003474,2.51070493786095
 "Y0234011","Le Riuferrer à Arles sur Tech","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4581462956568,2.62607284139433
-"Y0640001","Le Maury à Maury","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.7885450702723,2.67993518249903
 "Y0615041","Le St Jaume à Caudies","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.7988658859798,2.38322075705605
 "Y0625221","La Matassa à Felluns","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.7598682465873,2.47771366367082
 "Y0625222","La Desix à Sournia","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.7167981189995,2.47207508036271
-"Y0466008","la Riberette à Montalba","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.7054860589617,2.56781591284189
 "Y0466006","Le Boules à Casefabre","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.6228134588102,2.59250002005742
-"Y0466007","Le St Julia à Corbere las Cabanes","Onde OFB",2023-05-25,"3","Assec",42.6538539994328,2.67739685965664
-"Y0475611","Le Castelnou au Soler","Onde OFB",2023-05-25,"3","Assec",42.6755930094491,2.76829743879515
-"Y0315021","Le Réart à Passa","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.5872230872108,2.80922112556085
-"Y0284061","le Tech à Ortaffa","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.5771758645234,2.93628322313109
-"Y0255021","L'Ample à Reynes","Onde OFB",2023-05-25,"3","Assec",42.4983301239255,2.67759093006406
-"Y0255022","La Vallera à Reynes","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.4782111840722,2.72747481749087
 "U3036011","Le Rhoin en amont du Château de Savigny","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.0624589026276,4.81599530683961
 "Y0284062","Le ruisseau de Villelongue au Mas d'En Simon","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.5134492678794,2.90323565956855
 "Y0220001","La Quere à la Forga del Mig","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.4072309542215,2.59830588593421
-"Y0274011","La Rome à La Cluse Basse","Onde OFB",2023-05-25,"3","Assec",42.4887089944573,2.83024089305902
-"O0180002","Le ruisseau d'Arize en aval du pont de la D375","Onde OFB",2023-05-25,"1","Ecoulement visible",43.011204060925,0.485932983323831
-"O0180001","Le Rieu Sec à Champourret","Onde OFB",2023-05-25,"1","Ecoulement visible",43.0300280444961,0.493242586351355
-"O0090001","Le Rieu-Tort au pont de la D26","Onde OFB",2023-05-25,"1","Ecoulement visible",43.0445156079422,0.555221834877939
 "Y0115411","La Massane à Sorede","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",42.5139187043368,2.98859395271844
-"O0174024","Ruisseau du Bouchidet à Rebouc","Onde OFB",2023-05-25,"1","Ecoulement visible",42.9932837087189,0.3730059933254
 "V1610002","L'Agnin à ST Germain les Paroisses","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.7669355248664,5.6219924025992
 "V1264021","Le Verdet à Anglefort","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.9172891951421,5.81416767006783
 "U4216011","Le Bief de Croix à St Paul de Varax","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0989089169735,5.13154862684221
 "V2934012","Le Buizin à St-Denis-en-Bugey","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.9488547255582,5.33046784973893
-"U3446411","La Durlande à Saint-Etienne-du-Bois","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2469909839703,5.27111634185466
 "U4110001","La Loëse à Bagé-la-Ville","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.3450208943582,4.93912775098755
 "N4000611","La Sèvre Niortaise à Exoudun - Bagnaux","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.3384729939437,-0.0683137729040527
 "N4000612","La Sèvre Niortaise à Exoudun - Potinière","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.3374524660653,-0.0648783966592773
@@ -242,37 +404,19 @@
 "V1525411","L'Ainan à Chirens (Pont de l'Arsenal)","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.4304656721281,5.57114035023453
 "V1610003","Le Bordel à Morestel","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.6835002082186,5.460692155124
 "V3204011","La Gère à Meyssies","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.4709267000819,5.05807677059821
-"V3215010","La Vesonne à Estrablin","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.5141255426793,4.96385601839971
-"V3324011","Le Dolon à Pact","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.3535397974347,4.98630148807834
-"V3300001","La Varèze au Gontard","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.4318210087885,4.94489479219843
 "V1714011","La Bourbre à Saint-Jean-de-Soudain","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.564667197603,5.42722713592091
 "V3600002","Le Galaveyson à Montfalcon ","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.2684403739329,5.18199212757374
 "W3235011","La Cumane à Varacieux (confluence Guette)","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.2010357244875,5.35380077356186
 "W3125211","Le Courbon à Paladru (amont lac)","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.4800009048067,5.56742219378666
 "V1600001","La Bièvre à Pressins","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.533737837844,5.63230190831509
 "W3315011","La Martinière à Villard-de-Lans","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.0877641655652,5.52173850732978
-"V3410001","Les Eydoches à Faramans","Onde OFB",2023-05-25,"3","Assec",45.3961711423795,5.181934938435
-"V3425611","Les Orons à Pajay","Onde OFB",2023-05-25,"3","Assec",45.3424049334171,5.11713636857736
 "W321 0001","L'Ivery à Serre Nerpol","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.2467728893869,5.38312214236154
 "W320 0011 ","Le Rival à Tullins","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.2862139526518,5.50743651995386
 "W322 0001","Le Neyron à IZERON","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.1430679986073,5.37093379104083
 "V175 5012","Le Catelan à St-Marcel-Bel-Accueil","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.6313263094505,5.23836642380244
 "V175 5011","La Petite Vaudaine à Livet-et-Gavet","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.1143750259875,5.95485315049711
-"V300 9112","La Chana à Villette-d'Anthon","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.7949671050452,5.0971089387665
 "V164 0001","L'Amby à Hières-sur-Amby","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.7996372091605,5.30169207418193
-"V162 0001","La Chogne à Bouvesse Quirieu","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.7624330187009,5.42289571437055
 "V150 6011","Le Merdaret à St Joseph de Rivière","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.3727635677333,5.68727394634554
-"U2334033","Ruisseau la Batte à Lebetain","Onde OFB",2023-05-25,"1","Ecoulement visible",47.483542205284,6.97598456803383
-"U2334032","Ruisseau la Vendeline à Courtelevant","Onde OFB",2023-05-25,"1","Ecoulement visible",47.5159137136973,7.07889446590193
-"U2324211","L'Écrevisse à Vellescot","Onde OFB",2023-05-25,"1","Ecoulement visible",47.5710918083269,7.01338850479311
-"U2305242","Ruisseau le Margrabant à Lariviere","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6722690647433,6.99482752103492
-"U2305241","Rivière le Saint-Nicolas à Fontaine","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6677965606436,6.99963696055865
-"U2305243","Rivière le Saint-Nicolas à Petitefontaine","Onde OFB",2023-05-25,"1","Ecoulement visible",47.7233463550638,7.0033151238373
-"U2346413","Rivière la Savoureuse à Lepuix","Onde OFB",2023-05-25,"1","Ecoulement visible",47.7567304018381,6.81928645046633
-"U2346412","Rivière la Rosemontoise à Eloie","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6990683420301,6.87265730680716
-"U2346415","Le Rhôme à Lachapelle-Sous-Chaux","Onde OFB",2023-05-25,"1","Ecoulement visible",47.7057259930125,6.81631647568857
-"U2346411","Rivière la Savoureuse à Belfort","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6299898335738,6.86268737443537
-"U2346414","Rivière la Savoureuse à Sermamagny","Onde OFB",2023-05-25,"1","Ecoulement visible",47.6761719923295,6.83019599215323
 "Y6035621","La Vaïre à Méailles","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.0240672399011,6.62550068124795
 "X1410001","L'Asse de Blieux à Senez","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",43.9292932972132,6.3931911419079
 "X2202021","Le Riou de Vergons à Vergons","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",43.9136441412211,6.57636249805153
@@ -288,14 +432,7 @@
 "M7005611","Le Moulin neuf à La Chapelle-St-Etienne","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.664018787678,-0.557406709714644
 "M7005612","La Mare aux Canes à Largeasse","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.7004626532892,-0.499177521400334
 "M7010001","Le Marchais à St-Jouin-de-Milly","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.7515448591197,-0.600575251152874
-"N6014012","Le Vivier à St Hilaire la palud","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2270917814663,-0.686236022206474
-"N4305211","La Guirande à Aiffres","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2879450644595,-0.420723508901268
-"N6014011","La Courance à Marigny","Onde OFB",2023-05-25,"2","Ecoulement non visible",46.2137277696758,-0.441638362579753
-"N6014013","La Courance à Epannes","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2311946175191,-0.600599216972218
-"N4200010","Le Lambon à Mougon","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3077718441183,-0.260764311601183
-"N4204011","Le Lambon à Vouillé","Onde OFB",2023-05-25,"3","Assec",46.3208742849512,-0.388221612517691
 "L8402111","La Losse à Louzy","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.0156020176136,-0.174873493960118
-"L2103011","La Dive Sud à Rom","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3007001184162,0.147665608041103
 "L2114011","La Bouleur à Caunay","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.1940185315613,0.0993272373719275
 "L2213021","La Vonne à Reffannes","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5547954344508,-0.198622464226002
 "L2430001","La Vendelogne à  La Ferriere en Parthenay","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.6424569089977,-0.0589197616899212
@@ -303,19 +440,14 @@
 "L2424012","L'Auxance à Vasles","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5911909718553,-0.0740230395645985
 "R6070001","Le Ponthioux à Séligné","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.1291576209051,-0.291986814657803
 "R6000002","Le Dauphin à Lusseray","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.1359389339494,-0.172855448719322
-"R6000001","La Couturette à  Fontenille St-Martin-d'Entraigues","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.1102561944035,-0.128405949918691
-"R6010001","La Béronne à Melle","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2074277804993,-0.162491635698092
 "N5010002","Le Saumort à Fenioux","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5238426290134,-0.53066012821715
 "N5000002","La Miochette à Pamplie","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5302302631778,-0.444055849612586
 "N5010001","Le Fenioux à Fenioux","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5365392450852,-0.497450430361291
 "N5000003","L'Autize à Pamplie","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5053861443051,-0.447593487977214
 "N5000001","L'Autize à Cours","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.5238773644568,-0.40203071193848
 "R2104013","L'Aume à Loubillé","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0498050371251,-0.0381835622185207
-"L8330001","La Madoire à Bressuire (Noirlieu)","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.9418370374153,-0.414712738159386
-"L8310001","Le Dolo à Bressuire (Breuil chaussé)","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.8282312934517,-0.53166800526107
 "L8307311","L'Argent à Nueil Les Aubiers","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.9207004810625,-0.630259464183795
 "L8310002","Le Dolo à Saint-Aubin-du-Plain","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.9050159480195,-0.491421594800124
-"L8320001","L'Ouere à Etusson","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",47.0223781662442,-0.512001173028014
 "L8307312","La Moinie  à  Le Pin","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.9110854084213,-0.663218739818228
 "X3500012","La Roubine de Verquières à Noves","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",43.843091246445,4.89978261741198
 "V7216511","La Grande Roubine à Eyragues","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",43.8533165640558,4.83838789591708
@@ -335,17 +467,13 @@
 "M1410001","LE RUISSEAU DE BRECHES A BRECHES","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.5708550372173,0.384158566194927
 "M1410003","L'ARDILLIERE A COUESMES","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.5490175657309,0.397800583876832
 "M1354012","L'ESCOTAIS A NEUILLE-PONT-PIERRE","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.5617677694839,0.561885537238734
-"L9110001","LE LATHAN A CLERE-LES-PINS","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",47.4497661999792,0.350683370209189
 "M1410002","LE RUISSEAU DE COUESMES A COUESMES","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",47.5633773206322,0.33994552507053
 "U4310001","L'Avanon à Bey","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2118647116402,4.84233619991792
 "V2515211","Le Bief d'Alex à Groissiat","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2264707055263,5.62431512737572
 "U4405021","Le Bief de Vernisson à l'Abergement-Clémenciat","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.1289283422258,4.93925780876599
 "V2500001","Le Borrey à Izenave","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0531464365897,5.52451619596181
 "U4405023","La Chalaronne à la Chapelle-du-Chatelard","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0800419618417,5.02400732634168
-"U4405025","La Glenne à Saint-Etienne-sur-Chalaronne","Onde OFB",2023-05-25,"2","Ecoulement non visible",46.1497622513636,4.88416966756927
-"V3009111","Le Cotey à Faramans","Onde OFB",2023-05-25,"3","Assec",45.9186994273971,5.12501412278863
 "U4405022","Le Moignans à Baneins","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.1197260633797,4.89881967706678
-"U4405024","Le Relevant à Chatillon-sur-Chalaronne","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.1062141926704,4.95221760930311
 "V2712011","Le Riez à Jujurieux","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.0432559496567,5.38922460330422
 "V1414011","Le Bief de la Scierie à Champagne-en-Valromey","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.9111668406084,5.66777686111779
 "V2815811","Le Suran à Villereversure","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",46.2057276639155,5.41082949316975
@@ -353,9 +481,7 @@
 "P5020001","La Couze à Montferrand-du-Perigord","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.7523782401203,0.868160584439154
 "O9236011","La Bournègue à Sainte-Radégonde","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.6803460618452,0.669017873369693
 "O8560001","La Ménaurie à Saint-Cernin-de-L'Herm","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.6411902329005,1.03582123696811
-"P6450001","La Beauronne de Chancelade à Agonac","Onde OFB",2023-05-25,"3","Assec",45.2873306631856,0.746903265973343
 "P5620001","La Lidoire à Saint-Michel-de-Montaigne","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.8876331228647,0.0168851476631255
-"P7080001","Le Trincou à Condat","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.3801768443362,0.707344372253507
 "P5330001","La Gardonnette à Cunèges","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.7965997004021,0.367413510208216
 "P5100001","Le Couzeau à Monsac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.7695985424715,0.693841442444623
 "P6480001","Le Vern à Manzac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.081229724452,0.586414396685018
@@ -369,31 +495,20 @@
 "P5210001","La Louyre à Liorac-sur-Louyre","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.9020921284517,0.646751384135516
 "P7144011","La Donzelle à Bussac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.2823039502807,0.583816011380015
 "R1150001","La Marcourive à Teyjat","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.5848559996399,0.577558511263515
-"P4100001","Le Pouchard à Saint-Rabier","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.1754054095954,1.15670173042875
 "P2375011","L'Enea à Proissans","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.9263495105973,1.24768510459765
 "P2520001","La Nauze à Mazeyrolles","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.7046869867245,1.00099367442659
 "P7010001","Le Manet à Champs Romain","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.5317446897824,0.760351133987847
 "P5540001","L'Estrop à Bonneville-et-Saint-Avit","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.8698581228012,0.0982160989757387
-"P6590001","Le Farganaud à Saint-Laurent-des-Hommes","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.0368414638458,0.252311362237905
 "P6310001","Le Gabourat à Savignac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.376080630729,1.19589466543005
 "P6114011","Le Buisson à Dussac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.397536464772,1.08807797588198
 "P6600001","Le Boutouyre à Saint Martial d'Artenset","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.0143397508088,0.198293942997981
 "P7150001","Le Jalley à Grand-Brassac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.297520051041,0.456551451182857
-"P5130001","Le Cavérieux à Saint Nexans","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",44.7917811974658,0.532216911466167
 "P7261511","La Cendronne à Lusignac","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.3298800123198,0.302720247641831
-"P4100002","Le Douime à Azerat","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.1527796762612,1.12200957943723
 "P7130001","L'Euche à Chapdeuil","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.3268601979631,0.511844101881999
 "P7330001","La Rizonne à Saint-Aulaye","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.209486580602,0.16210779206665
 "O932 0002","Le Dropt à MONTPAZIER","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.6768739838861,0.89821463961765
 "P421 0001","Le Vimont à PLAZAC","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",45.0471365740868,1.02790452537251
 "O928 5011","L""Escourrou à SAINTE-EULALIE D""EYMET","Onde OFB",2023-05-25,"1a","Ecoulement visible acceptable",44.6993264467487,0.367602224174365
-"O1160001","Les Cabanettes à Siguer","Onde OFB",2023-05-24,"3","Assec",42.7398198263898,1.55920693298322
-"Q0214011","La Geüne au pont de Prats-Dessus","Onde OFB",2023-05-24,"1","Ecoulement visible",43.1968043185012,0.0182474537358208
-"Y2320001","La Boyne à Cabrières","Onde OFB",2023-05-24,"1","Ecoulement visible",43.5739306271623,3.36401453370475
-"Y2220002","Le Rivernoux à Le Bosc","Onde OFB",2023-05-24,"1","Ecoulement visible",43.6834450215576,3.38412124105913
-"Y2230011","La Marette à Octon","Onde OFB",2023-05-24,"1","Ecoulement visible",43.6535287746981,3.30249901291657
-"Y2440001","Le Libron à Vias","Onde OFB",2023-05-24,"3","Assec",43.3114047133714,3.40108200463663
-"Y2220001","La Lergue à Le Bosc","Onde OFB",2023-05-24,"1","Ecoulement visible",43.6791517246772,3.38571415092742
 "L7110001","LE MABLE A BRAYE-SOUS-FAYE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.0366075131243,0.325451730001429
 "L7020002","LA MANSE A DRACHE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.0954409435325,0.649565070641802
 "L6310002","L'ESTRIGUEIL A CIRAN","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.0572509956778,0.874754830823028
@@ -402,17 +517,14 @@
 "K7522622","LE RUISSEAU DE SAINT-BRANCHS A SAINT-BRANCHS","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.2230274741973,0.75709116129485
 "L7010001","LA BOUROUSE A VERNEUIL-LE-CHATEAU","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.0394721720995,0.458398550431029
 "L6202011","LA MUANNE AU GRAND-PRESSIGNY","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.903420413386,0.827805102662813
-"L6320001","LA RIOLLE A BOURNAN","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.0575616594624,0.705883607226332
 "K7540001","LE RUISSEAU DU DOIGT A CHEILLE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.2571778597131,0.450748188355165
 "K7540002","LE RUISSEAU DES VALLEES A CHEILLE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.2676939946858,0.407165825286356
 "K7610001","LA RIASSE A HUISMES","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.2088982646958,0.262454984015279
 "K7540003","LE VIEUX-CHER A LIGNIERES-DE-TOURAINE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.3020708892207,0.413516782692153
 "L7000612","LE RUISSEAU DES GAUDEBERTS A NOUATRE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.0647703772122,0.555415637549578
 "L7030001","LE RUISSEAU DE PANZOULT A PANZOULT","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.1307878528808,0.406071050889368
-"L7000613","LE RUISSEAU DE PARCAY A PARCAY-SUR-VIENNE","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.1067675000141,0.478817429741988
 "L7100001","lA VEUDE A CHAVEIGNES","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.0243910380402,0.343734646148256
 "K7530001","LE JOLIVET A CHEILLE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.2216223043587,0.459361590834868
-"L7000611","LE REVEILLON A DRACHE","Onde OFB",2023-05-24,"3","Assec",47.0542104655673,0.625405053765455
 "L7210001","LE NEGRON A CINAIS","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.1530415041145,0.197292520242677
 "K7514012","LE RUISSEAU DE LA MAZERE AU LOUROUX","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.1511736654488,0.760406137478382
 "K7514011","LE RUISSEAU DU LOUROUX AU LOUROUX","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.1425917091497,0.774607949666861
@@ -461,7 +573,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "K1800001","L'Acolin à Chapeau","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.502860824247,3.53905048646051
 "K1840001","Le Ruisseau de la Cachure à Saint-Ennemond","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.672274557117,3.41103792428004
 "K3540001","L'Ours à Autry-Issards","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.5386943332449,3.13881593331517
-"K3603011","Le Ruisseau de Pont-Lung à Saint-Plaisir","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",46.5971642742678,2.97196201883046
 "K5345911","L'oeil à Commentry","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.2915670331613,2.7569767994158
 "K5363221","Ruisseau de la Varenne à Sauvagny","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.4373741130551,2.79662761216496
 "K5220901","La Vernoëlle à Prémilhat","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.3255052192791,2.54838067942006
@@ -568,79 +679,36 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "P0304011","L'Impradine à Lavigerie","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",45.1343630099953,2.74524339436269
 "M1220001","LA GRENNE A LA CHAPELLE VICOMTESSE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.9919991893907,1.05950572666227
 "K4830001","LA CISSE A AVERDON","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.7001244626648,1.28806770714434
-"K4860002","LA BRENNE A SAINT AMAND LONGPRE","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.6936125321144,1.02663784818265
-"M1124814","L'EGVONNE A LA FONTENNELLE","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.0579377086593,1.04140557715291
-"M1124813","LE GRATTELOUP A FONTAINE-RAOUL","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.9576492077991,1.12094650708945
-"M1233041","LA GRAVELLE A CELLE","Onde OFB",2023-05-24,"2","Ecoulement non visible",47.8297774488659,0.784688863963684
 "M1141611","LA BRISSE A HUISSEAU EN BEAUCE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.7297102382943,1.01920717417564
 "K4873122","LE GAULT A SAINT CYR DU GAULT","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.6213597418006,1.01729951507775
 "M1151611","LA CENDRINE AUX HAYES","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.7027344976883,0.782560083659216
-"M1213011","LE ROCLANE A BAILLOU","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.9779278852663,0.854600953878901
-"M1124815","L'AIGRE A VERDES","Onde OFB",2023-05-24,"2","Ecoulement non visible",47.9564413749401,1.42704030681339
 "F5040001","Le Ruisseau des Riats à Foulain","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.0341315674273,5.22110898630327
 "B0020001","La Meuse à Bassoncourt","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.0684366341544,5.54395164290656
-"B0000001","La Meuse à Dammartin-sur-Meuse","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.9914911880743,5.57653679146624
 "F5050001","La Suize à Ormancey","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.9170723790517,5.18712949229939
-"U0040506","L'Apance à Larivière-Arnoncourt","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.0278317721007,5.7491098675738
 "F1000001","La Germainelle à Germaines","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.7982607113817,5.03240594394933
 "F5030002","Le Poinson à Poinson-les-Nogent","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.9908134047127,5.37767361366843
 "U0040505","Le Ruisseau des Ferrières à Fresnes-sur-Apance","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.9470952657834,5.82605522500004
 "U0900001","La Vingeanne à Aprey","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",47.7624577199525,5.20064074071375
-"Y2360001","La Thongue à Abeilhan","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4497548094216,3.30316142714172
-"Y2410011","Le Libron à Magalas","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4735852014132,3.21417572351352
 "H4340431","Iton à Cintray","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.8108692693703,0.870164919954055
 "H4210412","Iton à Verneuil","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.756705518184,0.891668803792032
-"H4340432","Iton à Villalet","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.9349692530149,1.05305637445116
 "H4350001","Iton à Gaudreville","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.9754139385813,1.01224442875128
 "H4210411","Avre","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.7157631909887,0.876500435799739
-"H3219011","Gambon","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",49.2535229540345,1.48075262530464
 "H3250411","Fouillebroc","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.3615372598,1.4750574299124
 "H3203311","Ruisseau de St Ouen","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.1231692541323,1.39547254184084
 "H4250423","Ruet","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.774450249545,1.25344921712664
 "H4250422","Coudanne aval","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.7838942998403,1.3631596620028
-"H4250421","Coudanne amont","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.8087176065419,1.30127769524033
 "H4260211","Couesnon","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",48.8219084286734,1.3528550845447
-"H4340410","Mort Iton","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.8049917663757,0.921337301610436
-"H6129012","Cosnier","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",49.0822682908083,0.584215924154056
-"H3150001","Lévrière à Bézu","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",49.4077865612937,1.6303807675543
 "H3120421","Epte à Bouchevilliers","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.4021489792059,1.71086327195507
 "H3150002","Bonde à Etrepagny","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.3157934488294,1.60939338287714
 "H5000001","Oison à St-Cyr","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.2418522880843,1.01896889417002
-"H4360611","Rouloir à Conches","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.9640017922682,0.938730070009301
 "H3250412","Lieure à Rosay","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.378392499016,1.44195403471387
-"X1115011","Le Riou de Jabron à St Geniez","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2424406829046,6.04778096140564
 "X1120001","Le Vançon à Beaudument","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.1590197034368,6.02882608521391
 "X1100001","Le Jabron à la Miane","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.1728889313517,5.73036479578317
 "X2710001","Le Colostre à St Antoine","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.7940680355062,6.02860977941596
 "X1120002","Le Vançon à Volonne","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.1314003228325,5.99004981502308
-"X1100002","Le Jabron à Noyers sur Jabron","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1671715195787,5.85000276032718
-"X2700001","Le Colostre à Roumoules","Onde OFB",2023-05-24,"3","Assec",43.8275319281372,6.1297049512126
 "X1440001","L'Asse au Pont de Brunet","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.8993554204497,6.02868866811616
 "X1440002","L'Asse au Pont d'Asse","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.8794038482378,5.90852338091611
-"Q0225013","Le Mardaing en amont de la confluence avec le Souy","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2691576332268,0.0160228456824511
-"Q0225012","Le Souy en amont de la confluence avec le Mardaing","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2692002004444,0.0108650791162254
-"Q0260001","Le Lys en aval du pont de la D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3940232541031,0.0209414268509276
-"Q0580001","L'Achella au pont de la D14","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3033885380786,0.230109131410698
-"Q0225014","Le Rieu-Tort à l'amont de l'A64","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2323970953557,-0.0244693665579025
-"Q0435011","Le Laysa au pont de la D4","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4262865534527,0.00540163176884437
-"Q0554011","L'Arrêt-Darré au pont de Lhez","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2057745073947,0.194048852710796
-"Q0240001","L'Echez au pont de la D56","Onde OFB",2023-05-24,"1","Ecoulement visible",43.4260143168817,0.0421742322247695
-"Q0530001","L'Arrêt au pont de la D120","Onde OFB",2023-05-24,"1","Ecoulement visible",43.1211209473007,0.185810145559212
-"Q0230001","La Géline au pont de la D7","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3299941973886,0.0365442396688634
 "K5183021","Le Chat-Cros à Evaux Les Bains","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.1662915156945,2.46167666741488
-"O6502511","Le Saint-Martin au siphon du canal du Bouès","Onde OFB",2023-05-24,"1","Ecoulement visible",43.0962543879458,0.338864401651827
-"O6510002","Le Mérou au pont de La Barthe","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3354619358014,0.37551168147624
-"O6564311","Le ruisseau de Pesqué au pont de la D140","Onde OFB",2023-05-24,"1","Ecoulement visible",43.2881842792934,0.453262405861248
-"O6510003","Le Pélan au pont de la D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3188740535297,0.366794729333537
-"Q4620001","Le Labardaous au pont de la D105","Onde OFB",2023-05-24,"1","Ecoulement visible",42.9299929612667,-0.24504393432187
-"Q4300001","Le Bastan à l'hélistation de Barèges","Onde OFB",2023-05-24,"1","Ecoulement visible",42.904483968267,0.103364847352517
-"Q4100001","Le Gave d'Héas en amont du pont de l'Arraillé","Onde OFB",2023-05-24,"1","Ecoulement visible",42.7560805012604,0.0642916420099073
-"Q0105111","Le Lhéris au pont amont de la fontaine de Crastes","Onde OFB",2023-05-24,"1","Ecoulement visible",43.0361119195169,0.18987686162958
-"Q0000021","Le ruisseau de Hourc au pont de la route forestière","Onde OFB",2023-05-24,"1","Ecoulement visible",42.9447116330765,0.288049785837491
-"Q0510001","Le ruisseau de Lies au pont de la D584","Onde OFB",2023-05-24,"1","Ecoulement visible",43.0760570170364,0.192826628895398
-"Q4420001","Le Malin au pont de Les Longues","Onde OFB",2023-05-24,"1","Ecoulement visible",42.9557567841167,-0.0604070976935731
-"Q0600002","Le Lurus au pont de la D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3463317836147,0.2471491218361
-"Q0590001","Le Lanénos à Sénac, à l'amont de sa confluence avec le ruisseau du Gelabat - pont D6","Onde OFB",2023-05-24,"1","Ecoulement visible",43.3532369532288,0.207170649238979
 "B4410001","Le Ruisseau du Vieux Pré à Breux","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.58924191119,5.37781439608262
 "B4132011","Le Ruisseau des Eurantes à Saint Pierrevillers","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.3736514393761,5.68501723465834
 "B4312012","L'Othain à Domremy La Canne","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",49.2967361084943,5.69252374225419
@@ -705,17 +773,10 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "L411 0002","Le Voutouery à SAINT-MEDARD-LA-ROCHETTE","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.029080818,2.1125969566699
 "L560 0003","La Breuille à VAREILLES","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.2931179711337,1.45066839686972
 "L030 0002","Le Grandrieux à SAINT-DIZIER-MASBARAUD","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",46.0229579014306,1.69231179939867
-"V7115012","La Devèze amont Pont Ravagers","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1983800097487,3.71622785546804
-"O3070001","Le Malzac amont pont moulin de Géminard","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2449755571578,3.66706031418123
-"V7105211","le Merlet à l'amont sa confluence avec le Gardon de Saint Germain","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1925310198794,3.84796471398383
-"V7105212","Le Gardon de Saint Germain de Calberte à l'amont du Pont de l'Ancisole","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2208190865148,3.81413652309101
-"V7115011","Le Gardon de Sainte Croix aval du pont de la Boissonnade","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1656416269763,3.76505276566439
-"V5048812","Le Chassezac à Belvezet","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.5658684026141,3.7425187706982
 "O7202511","L'Urugne au Golf du Sabot","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.4138104208406,3.23352526407797
 "O7145221","Le Coulagnet au droit du rond point de Bouldoire","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.5468475466187,3.32578129061384
 "O7540001","Las Chantagues à Grandvals","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.7393055280564,3.03746347854159
 "O7340001","Ruisseau de Malagazagne au pont d'aubuges ","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.8003594152379,3.24427742324489
-"V7156224","Le Galeizon à l'amont du Pont des Ombres","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2095986497009,3.90673847590574
 "O7001511","Le Lot au Pont du Lot","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.4906219645332,3.75401590957174
 "O7035011","La Nize au pont de la Roche","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.4830140375232,3.54452372590642
 "O7360001","Valat des Merles à l'amont de Sainte Eulalie","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.7896380695253,3.47769076677937
@@ -725,42 +786,15 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O7520001","La Cabre à l'amont de la cascade de Bouchabès","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.6643751192778,2.99789661882983
 "O7502521","Ruisseau des Salles Basses au droit du lac de Born","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.6031789377606,3.09007704600634
 "O7300001","Ruisseau le Rieutortet à l'hermet","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",44.698711692721,3.42279956134634
-"Y4306511","Le Gaudre de Malaga à Mouriès","Onde OFB",2023-05-24,"3","Assec",43.7000399247002,4.84977941455704
-"Y4306514","Le Gaudre d'Aureille à Mouriès","Onde OFB",2023-05-24,"2","Ecoulement non visible",43.6879644833589,4.87990113651784
 "Y4306512","Le Gaudre de la Foux en aval de Maussane-les-Alpilles","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.7122476457388,4.80607413274612
 "Y4306513","Le Gaudre du Trible en aval de Maussane-les-Alpilles","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.7141599234644,4.80048105328824
-"V7216512","Le Gaudre d'Auge à Fontvieille","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",43.7299406555799,4.71317797037237
 "V7216514","Le Vallat des Parties à Graveson","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.8410242275857,4.78173906311716
 "V7216513","La Roubine des Lônes Graveson","Onde OFB",2023-05-24,"1a","Ecoulement visible acceptable",43.8560680067785,4.75950153346823
-"V7216515","La Bagnolette en amont de Tarascon","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",43.8273557457033,4.71606269160582
 "M7100001","Le Blanc à la Verrie","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.9566052456473,-0.930164738687464
 "M7112411","La Crume à Tiffauges","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.992796819785,-1.10813499531887
-"K4030011","Ruisseau du Moulin à Germigny-Sur-Loire","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0858888843482,3.07053783178307
-"F3030001","Ru de Bouilles à Challement","Onde OFB",2023-05-23,"1","Ecoulement visible",47.3246612501913,3.63118361647821
-"F3070001","Le Sauzay à La Chapelle-Saint-Andre","Onde OFB",2023-05-23,"1","Ecoulement visible",47.3664618742407,3.32940341473699
-"K1764011","La Canne à Tintury","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0171098283515,3.55330832139292
-"K1775511","L'Andarge à Billy-Chevannes","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0121370381057,3.4523680952865
-"K1954011","La Nièvre de St Franchy à Lurcy-Le-Bourg","Onde OFB",2023-05-23,"1","Ecoulement visible",47.1515770193695,3.39315340171635
-"F3060001","Le Corneau à Brinon-Sur-Beuvron","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2830863157992,3.50257333920565
-"F3060002","Ruisseau De La Janosse à Neuilly","Onde OFB",2023-05-23,"3","Assec",47.2390381401586,3.50062402993817
-"K1914511","L'Ixeure à Bona","Onde OFB",2023-05-23,"1","Ecoulement visible",47.0618052702005,3.42537628524438
-"K4094011","Ruisseau de Crezan à Donzy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.389707856896,3.10525406082178
-"K4046512","Le St Jean à Varennes-Les-Narcy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2293319700006,3.07078805781638
-"K1753111","Le Donjon à Semelay","Onde OFB",2023-05-23,"1","Ecoulement visible",46.8553489423496,3.86748854595693
-"K1740001","La Roche à Larochemillay","Onde OFB",2023-05-23,"1","Ecoulement visible",46.9199766730283,4.01114136264322
-"K1730001","La Dragne à Villapourcon","Onde OFB",2023-05-23,"1","Ecoulement visible",46.9437615240224,3.98397269270307
-"F3040001","L'Armance à Dornecy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.4336604359997,3.59058380905801
-"K1775512","Ruisseau d'Ozon à Fours","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7915674511656,3.70395006669807
-"K1660001","La Cressonne à Saint-Hilaire-Fontaine","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7413380138855,3.6390455732085
-"K1660002","Ru du Moulin au Loup à Saint-Hilaire-Fontaine","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7530771509264,3.63660633454574
-"K1920001","La Côlatre à Azy-Le-Vif","Onde OFB",2023-05-23,"1","Ecoulement visible",46.7843660539743,3.23494525926465
-"K3570811","Ruisseau de Beaumont à Livry","Onde OFB",2023-05-23,"3","Assec",46.7519855390014,3.06279529743277
-"K3640002","Ruisseau du Pont Aubert à Mars-Sur-Allier","Onde OFB",2023-05-23,"1","Ecoulement visible",46.85076724427,3.08432026944095
-"M0613011","Le Gast (route de Chammes)","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",48.0498540365607,-0.387504667711452
 "M3520001","Le Ruisseau de Brault","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.9307842590417,-0.726983211252422
 "M3600911","Le Pont Perdreau à Azé","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.8433942157956,-0.690237816875035
 "M3760001","L'Hière à Peuton","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.8842244109251,-0.815304541795172
-"M3610001","Le Béron à Bierné","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.8087976576102,-0.534529895575948
 "M0674011","La Taude à Grez-en-Bouère","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.8830408108251,-0.525829019818208
 "M3340911","Le Barbé à la Comté","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.132751020052,-0.636715847008032
 "M0640001","La Vaige à Vaiges","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.0245144290098,-0.48397730451799
@@ -780,40 +814,12 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "F5500001","La Saulx à Pancey","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.4703390103159,5.29258327875318
 "F5210001","Le Tarnier à Noncourt","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.4188644868956,5.23916475040205
 "F5230001","L'Osne à Osne-le-Val","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.5004759720752,5.18075959102307
-"U0204002","L'Amance à la Haute-Amance","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.8574112284169,5.54501666163925
 "U0704011","Le Salon à Torcenay","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.8112853510986,5.45089506551825
 "F5000001","La Marne à Langres","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.8568204097,5.36968968234507
 "F5030001","Le Varolet à Bonnecourt","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.9463925271583,5.47326203946397
 "F5010001","Le Val de Gris à Neuilly l'Eveque","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.9107180637876,5.46128997287798
-"U0715011","La Resaigne au Pailly","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.7868757775068,5.42423248490206
-"Y2510031","Le Gravezon à Lunas","Onde OFB",2023-05-23,"1","Ecoulement visible",43.7127434456743,3.19711734799536
-"Y2540032","L'Esparaso à Saint-Etienne-d'Albagnan","Onde OFB",2023-05-23,"1","Ecoulement visible",43.5297412528927,2.85702130080898
-"Y2580511","Le Lirou à Maureilhan","Onde OFB",2023-05-23,"1","Ecoulement visible",43.3634334916445,3.12120765003433
-"Y1612051","La Nazoure à Cruzy","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.3546064980901,2.94097113611382
-"Y2540031","La Salesse à Courniou ","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4726642631226,2.71052096227489
-"Y1605062","La Cesse à Cassagnoles","Onde OFB",2023-05-23,"1","Ecoulement visible",43.3837974925732,2.62994067679579
-"O4010001","L'Agout à Fraisse-sur-Agout","Onde OFB",2023-05-23,"1","Ecoulement visible",43.5985576680463,2.78802632608214
-"Y3454023","La Bénovie à Boisseron","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.7616087006703,4.08505262462328
-"Y2520021","La Mare à Castanet-le-Haut","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.6671737956943,2.98292770717543
-"Y2110001","La Buèges à Saint-Jean-de-Buèges","Onde OFB",2023-05-23,"1","Ecoulement visible",43.8276494111157,3.62595056542854
-"Y2120001","Le Lamalou à Rouet","Onde OFB",2023-05-23,"1","Ecoulement visible",43.8167164725532,3.79312962228988
-"Y2140021","Le ruisseau de Gassac à Aniane","Onde OFB",2023-05-23,"3","Assec",43.6602048663043,3.58966727779794
-"Y2100023","L'Alzon à Saint-Bauzille-de-Putois","Onde OFB",2023-05-23,"3","Assec",43.9121163278272,3.77379561361399
-"Y2200001","La Brèze à Saint-Etienne-de-Gourgas","Onde OFB",2023-05-23,"1","Ecoulement visible",43.7794781755272,3.38147495937846
-"Y3330001","Le Bérange à Candillargues","Onde OFB",2023-05-23,"1","Ecoulement visible",43.6164781491358,4.08202817973454
-"Y3020001","La Vène à Poussan","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4757431131673,3.69417382622395
-"Y2140022","le ruisseau de l'Aurelle à Popian","Onde OFB",2023-05-23,"3","Assec",43.618852998361,3.53415837078435
-"Y3310011","Le Salaison à Le Cres","Onde OFB",2023-05-23,"1","Ecoulement visible",43.6619789745333,3.92903662532806
 "H6050220","Risle à Grosley","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.0375535136336,0.809374234855855
 "H6102011","Charentonne","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.9348377877514,0.511209768353622
-"H6056413","Val Logé","Onde OFB",2023-05-23,"3","Assec",48.898204200876,0.738791399226747
-"I0360001","Abbesse","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.1988505396479,0.440450640405225
-"I0370001","Douet Tourtelle","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2597249886604,0.430130993429628
-"H7102021","Morelle à Beuzeville","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.3416702031683,0.32063050871885
-"H6211011","Croix Blanche à Livet","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2353956449528,0.657300005893208
-"H6221021","Bec à Bosrobert","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2074143103792,0.75870171777378
-"H6233704","Bédard à Corneville","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.3442515062583,0.589476496337998
-"H6250001","Sébec à St-Siméon","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2846623928978,0.517160319678756
 "H6233705","Doult de la Salle à Freneuse","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.254455720697,0.650996501945396
 "K6150001","Le Ruisseau de Sainte Fauste à Ste Fauste","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.8590692814701,1.86092042327569
 "K6130001","Le Liennet à Vouillon","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.8223903567908,1.92839947903279
@@ -842,19 +848,15 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "K7030001","L'Igneraie à Montlévicq","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.5735969238415,2.06824663453614
 "K7000001","L'Indre à Perassay","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4665190116232,2.14274589193976
 "K7130001","La Couarde à Pouligny St Martin","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.5126544259382,1.97551886383229
-"K7120001","Le Ris Blanc à Chassignolles","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.5337119198945,1.93027620255145
 "L4600001","La Bouzanne à Montchevrier","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4874773931259,1.78917205484766
 "L4540721","La Gargilesse à Orsennes","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.5049292252642,1.69755089953945
 "L4530001","Le Bouzantin à Saint Plantaire","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4417049668902,1.67042357344758
 "L5511911","Le Boisrémond à Parnac","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4484331252927,1.43709517732405
 "L5500002","L'Anglin à La Châtre L'Anglin","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4033819325349,1.39688711405157
 "L5500001","Le Bel Rio à Chaillac","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4330272753771,1.30951769308628
-"L5550001","L'Allemette à Chaillac","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.4473418448231,1.27362818355292
 "L5530001","La Sonne à Luzeret","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.5415110082686,1.39241740687491
 "L4700711","Le Bouzanteuil à Chasseneuil","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.6542357317891,1.49903458159255
-"L6120002","Le Ruisseau des Cinq Bondes à Migné","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.7184910969566,1.30237969819634
 "L6100001","La Claise à Neuillay les Bois","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.7708580282988,1.52207624609804
-"B7100001","Le ru de la Chaudière à Rocroi","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.9315920579079,4.49971923152921
 "B7020001","Le ru de la Grande Terre aux Mazures","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.8849318846968,4.63160573678465
 "B7400001","Le ru de Fienne à Givet","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",50.1509347166904,4.81128036454506
 "B7000011","Le ru du Trou Caillou à Monthermé","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.9085466518825,4.73822427543727
@@ -867,27 +869,19 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "H0010002","Le Bosneau à Neuville Lez Beaulieu","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.8851995717044,4.33465478639487
 "B5560001","Le ru de Néparcy à Clavy Warby","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.738836171623,4.5398855284022
 "B5200001","Le ru d'Elan à Elan","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.6647471302386,4.75769509447376
-"B5160001","Le Donjon à Omont","Onde OFB",2023-05-23,"3","Assec",49.6178045247145,4.7384325830571
 "B5140001","Le ruisseau des Faumines à Baalons","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.6024334790796,4.67537519549468
-"X0710001","Le torrent de la Combe au Caire","Onde OFB",2023-05-23,"3","Assec",44.369637170313,6.06024250214306
 "X0426221","Le torrent d'Abriès à Jausiers","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.4137958995241,6.74139233736082
 "X1240001","Les Duyes à Barras","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.0627020411463,6.1074065717458
 "X0426222","Le Riou Versant à Jausiers","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.4118679922166,6.73167153582087
-"X1510001","La Laye à Forcalquier","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",43.9572221486861,5.73934961290639
 "X0505511","La Blanche au Haut Chardavon","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.3446569521818,6.34216834455637
 "B5200002","Le ru d'Autremont à Nouvion sur Meuse","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.7064791110913,4.79770148346013
 "X0434011","Le Bachelard à Barcelonnette","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.3774950037033,6.62515226081616
-"X0700001","Le Sasse à Bayons","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.3385398181726,6.16958865793475
 "X1210001","La Bléone à Marcoux","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.1321944930503,6.27201733538235
 "X2100001","L'Estelle à Thorame-Basse","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.0840400100725,6.47914157618676
 "X3420002","L'Encrême à Céreste","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",43.8591672929956,5.59488679669407
-"X1500002","Le Largue à Dauphin","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",43.8935517319363,5.77372036797275
 "X0434012","Le Bachelard à Bayasse","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.2958242211445,6.74697508815702
-"X1500001","Le Largue à Aubenas","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",43.9360750970919,5.69061371496699
 "B4670001","Le Magne à Douzy","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.6844655825767,5.04623179601739
-"X1335011","Le Lauzon à Montlaux","Onde OFB",2023-05-23,"3","Assec",44.0416044969354,5.81423150878566
 "X0456311","La Blanche du Laverq à Méolans-Revel","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.3279185230207,6.52009903142034
-"X1510002","La Laye à St Etienne les Orgues","Onde OFB",2023-05-23,"3","Assec",44.0290573584599,5.78658408893054
 "X2015211","Le Riou d'Ondres à Thorame-Haute","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.1141978340812,6.58317092426966
 "B3160001","La Tricauderie à Beaumont","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.5165938316745,5.04544762684023
 "B3220001","Le ru de Yoncq à Yoncq","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.5449023309687,5.00687578106406
@@ -906,13 +900,7 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O7120001","La Crueize à l'aval du lac du Moulinet","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.6400410966393,3.24055983220429
 "K2150001","Le Grandrieu au pont de l'aldeyrès","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.7594460940965,3.63429083304009
 "K2110001","La Boutaresse au pont d'Aribal","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.6077066466156,3.67478339876067
-"K2000001","L'Allier à l'amont du pont de Chabaleyret","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.5635139829933,3.84986335028426
 "O3026211","Le ruisseau de Fond Bernard à l'aval de la source captée","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.4212033301426,3.67953307731715
-"K2134011","La Clamouse au pont de Boissanfeuille","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.6477652182916,3.73375191321645
-"V7156223","Ruisseau de Marnonflès à l'amont de Richaldon","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.2339684137022,3.92422794711522
-"O3100001","Ruisseau de Combe Première","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.4059667154479,3.57808662759962
-"O3006711","La Vérié sur le GR 72","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.3837779339182,3.86080702007925
-"V7156225","Le Gardon d'Alès à la rivière","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.2782205016938,3.82102858970248
 "O6930001","La Gaubège à Saint-Léger","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.3024789780583,0.320020626464673
 "O6400011","Le ruisseau de Brimont à Moirax","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.1524454246028,0.604428655130213
 "O8810001","L'Automne à Sainte-Livrade","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.3802488028812,0.573203544099048
@@ -947,7 +935,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O9070001","La Canaule à Agmé","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.4808799009315,0.343281804431028
 "O9070002","Le Trec de la Greffière à Seyches","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.5428227091186,0.32317817542338
 "O9310001","Le ruisseau du Mont-Saint-Jean à Miramont-de-Guyenne","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.6107067953959,0.348428843005333
-"O8740001","La Rètge à Beaugas","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.5278203329975,0.65963878519443
 "O8740003","La Gardonne à Saint-Etienne-de-Villereal","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.5989400439277,0.758150150525927
 "O9260001","Le ruisseau de Lacalège à Lauzun","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.6576307301342,0.508616604000737
 "O9320001","Le ruisseau de Malromé à Pardaillan","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.6453864843048,0.253412394687262
@@ -959,7 +946,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O6420001","Le Mestré-pont à Montesqieu","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.2006588335359,0.480126554580521
 "O9500001","Le ruisseau de Lagoutère à Saumejan","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.2184624124929,-0.0286382931184133
 "O6793331","Le ruisseau de Lascaves à Réaup-lisse","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.1161210015016,0.218881325560815
-"O9100001","L'Avance à La Réunion","Onde OFB",2023-05-23,"3","Assec",44.2896719775092,0.0651464951218918
 "O900 0011","L'Ourbise à Villefranche-du-Queyran","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",44.3261767061682,0.202729295330426
 "J0700001","LE LINON","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.3882181095169,-1.84230317267161
 "J7300002","Le Grenedan","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.1345092979061,-2.23963402716921
@@ -992,11 +978,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "J7054011","LA PEROUSE","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.1984241187487,-1.15467712591544
 "J7024041","Le rouillon","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.1185852508307,-1.08121949867184
 "J8640001","le combs","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.9237927317621,-1.98180522567737
-"Y3100001","La Mosson à Combaillaux","Onde OFB",2023-05-23,"2","Ecoulement non visible",43.6653491878754,3.77827141968048
-"Y3320001","La Cadoule à Castries","Onde OFB",2023-05-23,"1","Ecoulement visible",43.6648011847203,3.98418946582033
-"Y2570051","Le Taurou à Murviel-les-Béziers","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4354714853086,3.15885573725626
-"Y3200031","Le Lirou à Prades-le-Lez","Onde OFB",2023-05-23,"3","Assec",43.7123368322668,3.86511497190451
-"Y2560031","Le Vernazobre à Pierrerue","Onde OFB",2023-05-23,"1","Ecoulement visible",43.4304850684242,2.97290127050042
 "M3323011","Le Cormier à Houdéot","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.1881270627135,-0.852484309912013
 "M3403011","La Planche à Ste-Gemmes-le-Robert","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.1946834708276,-0.369537580877257
 "K4970001","LA PETITE BRESME A LUYNES","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.3812457641584,0.55548969364483
@@ -1006,7 +987,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "K4860001","LE RONDY A MONTHODON","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.6470071655321,0.832031063990062
 "K4880001","LA QUINTAINE A AUZOUER-EN-TOURAINE","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.556027706263,0.931008368587302
 "K4880002","LE MADELON A CROTELLES","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.5426188423013,0.836106277554725
-"M1341611","LE RUISSEAU DE LA FERRIERE A LA FERRIERE","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.6225690923546,0.734533330406518
 "K7400003","LE RUISSEAU DE ROCHE A LOCHE-SUR-INDROIS","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.1146873686316,1.24541867161226
 "K7414012","LA JUBARDIERE A NOUANS-LES-FONTAINES","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.1539951342148,1.29113739879292
 "M0124011","La Vaudelle à Izé","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.231783850423,-0.316311808281077
@@ -1014,7 +994,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "K4853011","LA RAMBERGE A SAINT-OUEN-LES-VIGNES","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.4768149619056,0.991527672903794
 "K4873121","LA GLAISE A MONTHODON","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.6135010108621,0.822799822463383
 "M1341612","LA DEMEE AUX HERMITES","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.6646896383855,0.752331815293675
-"K6710911","LE RUISSEAU DE LA GITONNIERE A AZAY-SUR-CHER","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.347252399098,0.844639083462797
 "K7322611","LE RUISSEAU DE BOUTINEAU A PERRUSSON","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.1174663506115,1.01951742375396
 "K7312622","LE RUISSEAU DE LA COULEE A BRIDORE","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.0240113580484,1.07664618603185
 "K7433031","LE RUISSEAU D'AUBIGNY A CHEMILLE-SUR-INDROIS","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.1611009971202,1.13400612160441
@@ -1025,17 +1004,11 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "M0105612","Le Terrançon à St-Pierre-des-nids","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.4020712368264,-0.0896126697459179
 "K7322613","LE RUISSEAU DE RIGNY A SAINT-HIPPOLYTE","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.0709245187162,1.0883886824369
 "K7322614","LE RUISSEAU DE SENNEVIERES A SAINT-JEAN-SAINT-GERMAIN","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.0820907334065,1.07095854472537
-"K6720001","LE RUISSEAU DE LA FONTAINE MENARD A SAVONNIERES","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.3510041766125,0.586795338582557
-"M3700001","L'Oudon à la sortie du Bourg","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",48.0702565538949,-1.01411659005165
 "K7322615","LE RUISSEAU DE VERNEUIL A VERNEUIL -SUR-INDRE","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.0590387513492,1.05048304661568
-"N3010001","La Maine à Chavagnes les Redoux","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6981446985736,-0.918446513776064
-"N2040001","La Vertonne à Grosbreuil","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.5571815895084,-1.6299743435039
 "M3240001","L'Aron au Pont des Aulnais","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.2648934123377,-0.393386738480002
 "M3504011","le Vicoin à Haut-Plessis","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.1690763593362,-0.947022546653507
 "N2024011","La Ciboule au Girouard","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.5729556022827,-1.6418392760765
-"N2013011","L'Auzance à Sainte-Flaive-des-Loups","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6348368745542,-1.58471581777968
 "N1203021","L'Idavière à Landeronde","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.6546265798871,-1.57240293686027
-"N1203022","Le Jaunay à Venansault","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6894625285686,-1.56994145180785
 "K6700001","LE RUISSEAU DE LA PILETTE A LUZILLE","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.2693022612878,1.04888496693744
 "N1110001","Le Ligneron à Soullans","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.7906825779158,-1.85633244073861
 "M3140001","Le Froulay au pont de la Bettonnière","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.4561312487796,-0.68679238805911
@@ -1054,14 +1027,11 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "B4110001","Le Ruisseau de la Grande Fontaine à Domprix","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.3354211211187,5.75690357262691
 "B4312011","L'Othain à Affléville","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.2586382506123,5.74279691601646
 "A8220001","Le Rawé à Lubey","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",49.2456952565651,5.85759246839439
-"A8210001","Le Petit Rhin à Hatrize","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.200472345927,5.90952429485447
-"A8201011","Le Petit Grijolot à Labry","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.1811453626022,5.87670839683034
 "A7310001","Le Rupt de Mad à Saint Baussant","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.8922777598075,5.78731358616204
 "A7122011","L'Esch à Manonville","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.8327814878284,5.90430147145665
 "A7122012","L'Heymonrupt à Martincourt","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.8545619757788,5.93645923642849
 "A5820001","Le Terrouin à Jaillon","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.7576128589055,5.95719291684207
 "A7020001","La Natagne à Ville au Val","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.8454731776728,6.12156458637296
-"B2030001","L'Aroffe à Barisey au Plain","Onde OFB",2023-05-23,"2","Ecoulement non visible",48.5296423215474,5.84586978091381
 "B2003811","L'Aroffe à Tramont Emy","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.4025014112573,5.95284534773442
 "A5723011","Le ruisseau de Met Fontaine à Choloy Menillot","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.6514087835643,5.80818111507299
 "A5610001","La Bouvade à Cezilles","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.5867655762006,5.89913409191986
@@ -1076,7 +1046,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "A6431121","Le ruisseau de l'étang Gresson à Fremonville","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.5872306088442,6.89575264808247
 "A6812012","Le ruisseau du Haut Clocher à Vaucourt","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.6675080130965,6.69014801948177
 "A6850001","Le ruisseau de Bussy à Einville au Jard","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.6402314677485,6.46964638960545
-"A6550001","Le ruisseau de Frouard à Marainviller","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",48.601761171683,6.63145803706891
 "A6500001","Le ruisseau de Leintrey à Leintrey","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.6208359179226,6.74275639367097
 "A7830001","Le ruisseau de Cendry à Manoncourt sur Seille (Belleau)","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.8776467270112,6.1993789576138
 "A7710001","La Loutre Noire à Juvrecourt","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.7333407922414,6.57295802949267
@@ -1090,15 +1059,11 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "A6300001","Les Grands Feings à Thiaville sur Meurthe","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.4061627222991,6.79337169434303
 "A721 3011","Le Trey à Vilcey-sur-Trey","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",48.9319561251489,5.9646659972196
 "N3100001","La Louisière à Rochetrejoux","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.7970991119622,-0.983448094062817
-"N3113011","La Vouraie à Saint-Hilaire-le-Vouhis","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6743933938339,-1.19286626030749
-"N3210001","La Smagne à Saint-Laurent-de-la-Salle","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.5579686847499,-0.909736597245296
 "N3308211","La Doulaye aux Pineaux","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.6009005159595,-1.16501621725324
 "N3403011","L'Yon à la Ferrière","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.7191602297492,-1.29819830166639
 "N3410001","L'Amboise à Saint-André-d'Ornay","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.6710710985671,-1.45952031442414
-"N3410002","Le Guyon à Venansault","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6912761854281,-1.5093195479705
 "N7114011","La Mère à Breuil-Barret","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.6598038759154,-0.689884205679236
 "N7121811","La Longèves à Fontenay-le-Comte","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.4554081577849,-0.835590789001081
-"N5201711","L'Autize à Saint-Pierre-le-Vieux","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.4021245336341,-0.695806789968452
 "M6214011","La Divatte","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.2726790346138,-1.27824285222285
 "M6204011","Le Hâvre","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.3854995793084,-1.29508700560124
 "M6110001","La Grée","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.4152165195234,-1.16700361089054
@@ -1117,7 +1082,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "J9210001","La Basse Marée","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.5406250341597,-1.87093631077811
 "M8503012","Canal de la Fleur","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.4741504789872,-2.03124839614018
 "M8503011","Le Moulin Foulon","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.4530025284496,-1.95217907461226
-"J9400001","Les Perrières","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.3840436717773,-2.4308344805507
 "M6204012","Le Donneau","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.4709883607084,-1.26322600623939
 "M6230001","Le Gueubert","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.1848872382447,-1.33328464213251
 "M7314011","La Logne de Vallet","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.162371921064,-1.24283599865589
@@ -1129,16 +1093,9 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "N0113031","Le Falleron","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.9888595039342,-1.80969293054287
 "N0010001","Le Haute-Perche","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.1272422950443,-1.95254631014027
 "N0000001","Le Boivre","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",47.2084330479495,-2.01972732296427
-"N0113032","Le Falleron à Falleron","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.8768483133527,-1.66996020112033
 "N0204211","Le Pont Habert à Challans","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.8748129186406,-1.86922772356449
-"K4123011","Le Jourdain à Arquian","Onde OFB",2023-05-23,"1","Ecoulement visible",47.5087157507874,3.00286754615352
-"K4046511","La Sillondre à Chasnay","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2470474729589,3.18325884507603
-"N0210001","Les Godinières à Challans","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.8294024010491,-1.84884901412822
-"K1943011","Ruisseau de St Bonnot à Champlemy","Onde OFB",2023-05-23,"1","Ecoulement visible",47.2629927447003,3.27945395342944
 "M7400001","Le Longuenais à Mesnard-la-Barotière","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.8616642823706,-1.09720376427956
-"M7413011","La Lignée à la Boissière-de-Montaigu","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.9490830848867,-1.17977415128971
 "M7420001","La Petite Maine aux Essarts","Onde OFB",2023-05-23,"1a","Ecoulement visible acceptable",46.7913600315996,-1.22559124958515
-"M7433111","Le Bouvreau aux Brouzils","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.909729820152,-1.3314860484523
 "O4970002","Le Tescounet à Monclar-de-Quercy","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",43.96122014762,1.58515329139479
 "L5223021","La Bazine à St Junien les Combes","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",46.1057588698974,1.11164359892184
 "R1000001","La Tardoire à Chalus","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.6564196539947,0.97751661949341
@@ -1152,27 +1109,15 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O5800001","La Lère à Puylarroque","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.2503704994485,1.6441870390616
 "O5830001","Le Paris à Caussade","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.1447930382438,1.49486495603527
 "O5854011","La Tauge à Saint-Etienne-de-Tulmont","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.0487800937143,1.45555190099149
-"O2670001","La Tessonne à Beaumont-de-Lomagne","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8646863395876,1.0587037433623
 "O2910001","La Sère à Lavit","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",43.9312703321996,0.934384399028792
-"O6000012","Le Cameson à Mansonville","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.007655228965,0.881570084614939
-"O6150002","Le Métau à Dunes","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0865497849373,0.767482331980932
-"O6000011","Le Cameson à Auvillar","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0522874591706,0.916381604564716
-"O6000013","L'Ayroux à Saint-Michel","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0447344123782,0.969633154038207
-"O2940001","La Sère à Castelmayran","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0334535797772,1.0481638752996
-"O5901012","La Maribenne à Mauzac","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0923937656311,1.21498020899691
-"O5901011","Le Bernon à Meauzac","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0907548479992,1.24209412000951
 "L1100002","ruisseau de la Garenne à Mézières sur Issoire","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",46.0808428012146,0.874537781953771
 "O5854012","L'Angle à Saint-Etienne-de-Tulmont","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.0378803411335,1.42533357269005
 "L0513011","La Petite Briance à la Porcherie","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.5870814464369,1.5157884902335
-"O5930001","Le Petit Lembous à Molières","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.1759831632522,1.36414886033144
 "L1100001","L'Issoire","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",46.0951237909027,0.958098924040616
 "L0070001","la Combade à St Gilles la Forêt","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.634939210204,1.69448289432984
 "O2650001","le Lambon à Comberouger","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",43.8602473879102,1.10580784565721
 "L0040001","ruisseau de Planchemouton à eymoutiers","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.7376126456144,1.75445123386175
 "L0420001","La Valoine à Aureil","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.808989439752,1.39487962280848
-"O2610003","Le Marguestaud à Verdun-sur-Garonne","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8068624605745,1.25311143560947
-"O2630001","La Nadesse à verdun-sur-Garonne","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8559013827188,1.19068874432149
-"O4941011","Le Rieu Tort à Campsas","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8927881453964,1.31168035111695
 "P6250001","ruisseau des Baraques à Meuzac","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.5342175267885,1.40052900004295
 "O4941012","Le Guitardio à Corbarieu","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",43.9441913620935,1.38170445054001
 "P601 0001","Le ruisseau Noir à Ladignac le Long","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.582416294938,1.14272980702315
@@ -1182,7 +1127,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "L032 1511","Le Parleur à Ambazac","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.9804907534441,1.3957385016545
 "L053 0001 ","L'Anguienne à St Paul","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.7484818082326,1.43264037306223
 "O4931013","La Pengaline à Nohic","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",43.8747024386767,1.44351346306015
-"O4991031","Le Payrol à Barry-D'Ismelade","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0753375146469,1.26634961285087
 "L1300003","L'Isop à St Barbant","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",46.1746946676213,0.853242027356481
 "L091 4021","La Gorre à Gorre","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.7362504148688,0.984256600103365
 "L511 4012","La Couze à St Léger la Montagne","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",46.0343383510879,1.40183608153729
@@ -1201,7 +1145,6 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O5964021","Le Lembous à Cazes-Mondenard","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.1837853408165,1.21881686236313
 "O6110002","La Barguelonne à Cazes-Mondenard","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.2374412099227,1.20313320216079
 "O6125014","Le Lendou à Lauzerte","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.254881570867,1.1450699086807
-"O6125013","La Petite Barguelonne à Bouloc","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.2797833757831,1.1485131579489
 "O6180003","La Petite Séoune à Roquecor","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.3201172830992,0.9503609654495
 "O4960001","Le Tescou à Varennes","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",43.9326446836326,1.50281471079354
 "L062 4012","L'Arthonnet à Flavignac","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.7123561774393,1.06356074044467
@@ -1210,90 +1153,147 @@ NA,"Le Douctouyre à Carla de Roquefort","Onde OFB",2023-05-24,"1a","Ecoulement 
 "O6180002","Le Montsembosc à Lacour","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.2871300584049,0.950579020000897
 "L531 0002","La Vareille à Magnac Laval","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",46.2427415824141,1.15905291255239
 "O6170003","La Séoune à Brassac","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",44.2004142921158,0.967235778261282
+"L0624011","L'Aixette à Meilhac","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.7261184740305,1.12204570280199
+"P6001511","Isle à la Meyze","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.6142646431673,1.21838709225802
+"P7001511","La Dronne à Bussière Galant","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.6197633440595,1.05391093325792
+"Y5520001","La Camandre à Seillans","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.6458269850482,6.66211486574564
+"Y4615021","La Font de l'Ile à Carnoules","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.3053164426395,6.19103162208414
+"Y5424011","La Giscle à Grimaud","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.2721265018989,6.50295621140062
+"Y5215022","Le Mourrefrey aux Mayons","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.3055948449971,6.35320019233988
+"Y4615022","Le Réal Colobrier à Colobrières","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.2406567499268,6.32074385147745
+"Y4604021","Le Gapeau à Solliès pont","Onde OFB",2023-05-26,"1f","Ecoulement visible faible",43.179924123526,6.04905376673944
+"Y0274012","Le Maureillas à Maureillas Las Illas","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.4891891859661,2.80486928439228
+"K2424011","La Vendage à Beaumont","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.3141961595364,3.34692022902659
+"K2365511","Le Montorgue à Paulhaguet","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.2335174235742,3.52263421424532
+"M0361513","La Ronne à Coudray-au-Perche","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.2206827357404,0.863742635691807
+"M0361514","La Jambette à Nogent-le-Rotrou","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3090970012223,0.815511188074494
+"M1000001","Vallée de la Reuse à Illiers-Combray","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3111188162113,1.2177858240827
+"M1000002","Le Loir à Illiers-Combray","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3229062318176,1.22430277540843
+"M1000003","Vallée du Gros Caillou à Saint-Eman","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",48.3243043640774,1.18405222898465
+"N6003022","Le Mignon à Mauzé-sur-Mignon","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.1844165046762,-0.666904540393331
+"U4240002","Le Bief de la Fontaine de Fer à Saint-Jean-sur-Veyle","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2772277431844,4.91589752114348
+"U4030001","Le Salençon à Malafretaz","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3346828116572,5.15704325469725
+"U3470001","La Sane-Vive à Lescheroux","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.4279673173749,5.13994718800838
+"U4110002","La Grande Loëze à Saint-André-de-Bage","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3080043611346,4.92027798054601
+"N4015211","Le Rabané à Nanteuil","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.4300077398125,-0.165133741505255
+"Y0045012","Le Tarteres à Latour de Carol","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.472763585997,1.87142429664188
+"Y0640001","Le Maury à Maury","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.7885450702723,2.67993518249903
+"Y0466008","la Riberette à Montalba","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.7054860589617,2.56781591284189
+"Y0315021","Le Réart à Passa","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.5872230872108,2.80922112556085
+"Y0284061","le Tech à Ortaffa","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.5771758645234,2.93628322313109
+"Y0255022","La Vallera à Reynes","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",42.4782111840722,2.72747481749087
+"U3446411","La Durlande à Saint-Etienne-du-Bois","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2469909839703,5.27111634185466
+"V3215010","La Vesonne à Estrablin","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.5141255426793,4.96385601839971
+"V3324011","Le Dolon à Pact","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.3535397974347,4.98630148807834
+"V3300001","La Varèze au Gontard","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.4318210087885,4.94489479219843
+"V300 9112","La Chana à Villette-d'Anthon","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.7949671050452,5.0971089387665
+"V162 0001","La Chogne à Bouvesse Quirieu","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.7624330187009,5.42289571437055
+"N6014012","Le Vivier à St Hilaire la palud","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2270917814663,-0.686236022206474
+"N4305211","La Guirande à Aiffres","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2879450644595,-0.420723508901268
+"N6014013","La Courance à Epannes","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2311946175191,-0.600599216972218
+"N4200010","Le Lambon à Mougon","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3077718441183,-0.260764311601183
+"L2103011","La Dive Sud à Rom","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.3007001184162,0.147665608041103
+"R6000001","La Couturette à  Fontenille St-Martin-d'Entraigues","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.1102561944035,-0.128405949918691
+"R6010001","La Béronne à Melle","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.2074277804993,-0.162491635698092
+"L8330001","La Madoire à Bressuire (Noirlieu)","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.9418370374153,-0.414712738159386
+"L8310001","Le Dolo à Bressuire (Breuil chaussé)","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.8282312934517,-0.53166800526107
+"L8320001","L'Ouere à Etusson","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",47.0223781662442,-0.512001173028014
+"L9110001","LE LATHAN A CLERE-LES-PINS","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",47.4497661999792,0.350683370209189
+"U4405024","Le Relevant à Chatillon-sur-Chalaronne","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",46.1062141926704,4.95221760930311
+"P7080001","Le Trincou à Condat","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.3801768443362,0.707344372253507
+"P4100001","Le Pouchard à Saint-Rabier","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.1754054095954,1.15670173042875
+"P6590001","Le Farganaud à Saint-Laurent-des-Hommes","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.0368414638458,0.252311362237905
+"P5130001","Le Cavérieux à Saint Nexans","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",44.7917811974658,0.532216911466167
+"P4100002","Le Douime à Azerat","Onde OFB",2023-05-25,"1f","Ecoulement visible faible",45.1527796762612,1.12200957943723
+"L6320001","LA RIOLLE A BOURNAN","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.0575616594624,0.705883607226332
+"L7000613","LE RUISSEAU DE PARCAY A PARCAY-SUR-VIENNE","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.1067675000141,0.478817429741988
+"K3603011","Le Ruisseau de Pont-Lung à Saint-Plaisir","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",46.5971642742678,2.97196201883046
+"K4860002","LA BRENNE A SAINT AMAND LONGPRE","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.6936125321144,1.02663784818265
+"M1124814","L'EGVONNE A LA FONTENNELLE","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.0579377086593,1.04140557715291
+"M1124813","LE GRATTELOUP A FONTAINE-RAOUL","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.9576492077991,1.12094650708945
+"M1213011","LE ROCLANE A BAILLOU","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.9779278852663,0.854600953878901
+"B0000001","La Meuse à Dammartin-sur-Meuse","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",47.9914911880743,5.57653679146624
+"U0040506","L'Apance à Larivière-Arnoncourt","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.0278317721007,5.7491098675738
+"H4340432","Iton à Villalet","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.9349692530149,1.05305637445116
+"H3219011","Gambon","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",49.2535229540345,1.48075262530464
+"H4250421","Coudanne amont","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.8087176065419,1.30127769524033
+"H4340410","Mort Iton","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.8049917663757,0.921337301610436
+"H6129012","Cosnier","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",49.0822682908083,0.584215924154056
+"H3150001","Lévrière à Bézu","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",49.4077865612937,1.6303807675543
+"H4360611","Rouloir à Conches","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",48.9640017922682,0.938730070009301
+"X1115011","Le Riou de Jabron à St Geniez","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2424406829046,6.04778096140564
+"X1100002","Le Jabron à Noyers sur Jabron","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1671715195787,5.85000276032718
+"V7115012","La Devèze amont Pont Ravagers","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1983800097487,3.71622785546804
+"O3070001","Le Malzac amont pont moulin de Géminard","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2449755571578,3.66706031418123
+"V7105211","le Merlet à l'amont sa confluence avec le Gardon de Saint Germain","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1925310198794,3.84796471398383
+"V7105212","Le Gardon de Saint Germain de Calberte à l'amont du Pont de l'Ancisole","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2208190865148,3.81413652309101
+"V7115011","Le Gardon de Sainte Croix aval du pont de la Boissonnade","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.1656416269763,3.76505276566439
+"V5048812","Le Chassezac à Belvezet","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.5658684026141,3.7425187706982
+"V7156224","Le Galeizon à l'amont du Pont des Ombres","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",44.2095986497009,3.90673847590574
+"V7216512","Le Gaudre d'Auge à Fontvieille","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",43.7299406555799,4.71317797037237
+"V7216515","La Bagnolette en amont de Tarascon","Onde OFB",2023-05-24,"1f","Ecoulement visible faible",43.8273557457033,4.71606269160582
+"M0613011","Le Gast (route de Chammes)","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",48.0498540365607,-0.387504667711452
+"M3610001","Le Béron à Bierné","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.8087976576102,-0.534529895575948
+"U0204002","L'Amance à la Haute-Amance","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.8574112284169,5.54501666163925
+"U0715011","La Resaigne au Pailly","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.7868757775068,5.42423248490206
+"I0360001","Abbesse","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.1988505396479,0.440450640405225
+"I0370001","Douet Tourtelle","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2597249886604,0.430130993429628
+"H7102021","Morelle à Beuzeville","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.3416702031683,0.32063050871885
+"H6211011","Croix Blanche à Livet","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2353956449528,0.657300005893208
+"H6221021","Bec à Bosrobert","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2074143103792,0.75870171777378
+"H6233704","Bédard à Corneville","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.3442515062583,0.589476496337998
+"H6250001","Sébec à St-Siméon","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.2846623928978,0.517160319678756
+"K7120001","Le Ris Blanc à Chassignolles","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.5337119198945,1.93027620255145
+"L5550001","L'Allemette à Chaillac","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.4473418448231,1.27362818355292
+"L6120002","Le Ruisseau des Cinq Bondes à Migné","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.7184910969566,1.30237969819634
+"B7100001","Le ru de la Chaudière à Rocroi","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.9315920579079,4.49971923152921
+"X1510001","La Laye à Forcalquier","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",43.9572221486861,5.73934961290639
+"X0700001","Le Sasse à Bayons","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.3385398181726,6.16958865793475
+"X1500002","Le Largue à Dauphin","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",43.8935517319363,5.77372036797275
+"X1500001","Le Largue à Aubenas","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",43.9360750970919,5.69061371496699
+"K2000001","L'Allier à l'amont du pont de Chabaleyret","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.5635139829933,3.84986335028426
+"K2134011","La Clamouse au pont de Boissanfeuille","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.6477652182916,3.73375191321645
+"V7156223","Ruisseau de Marnonflès à l'amont de Richaldon","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.2339684137022,3.92422794711522
+"O3100001","Ruisseau de Combe Première","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.4059667154479,3.57808662759962
+"O3006711","La Vérié sur le GR 72","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.3837779339182,3.86080702007925
+"V7156225","Le Gardon d'Alès à la rivière","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.2782205016938,3.82102858970248
+"O8740001","La Rètge à Beaugas","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",44.5278203329975,0.65963878519443
+"M1341611","LE RUISSEAU DE LA FERRIERE A LA FERRIERE","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.6225690923546,0.734533330406518
+"K6710911","LE RUISSEAU DE LA GITONNIERE A AZAY-SUR-CHER","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.347252399098,0.844639083462797
+"K6720001","LE RUISSEAU DE LA FONTAINE MENARD A SAVONNIERES","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.3510041766125,0.586795338582557
+"M3700001","L'Oudon à la sortie du Bourg","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",48.0702565538949,-1.01411659005165
+"N3010001","La Maine à Chavagnes les Redoux","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6981446985736,-0.918446513776064
+"N2040001","La Vertonne à Grosbreuil","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.5571815895084,-1.6299743435039
+"N2013011","L'Auzance à Sainte-Flaive-des-Loups","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6348368745542,-1.58471581777968
+"N1203022","Le Jaunay à Venansault","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6894625285686,-1.56994145180785
+"A8210001","Le Petit Rhin à Hatrize","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.200472345927,5.90952429485447
+"A8201011","Le Petit Grijolot à Labry","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",49.1811453626022,5.87670839683034
+"A6550001","Le ruisseau de Frouard à Marainviller","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",48.601761171683,6.63145803706891
+"N3113011","La Vouraie à Saint-Hilaire-le-Vouhis","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6743933938339,-1.19286626030749
+"N3210001","La Smagne à Saint-Laurent-de-la-Salle","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.5579686847499,-0.909736597245296
+"N3410002","Le Guyon à Venansault","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.6912761854281,-1.5093195479705
+"N5201711","L'Autize à Saint-Pierre-le-Vieux","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.4021245336341,-0.695806789968452
+"J9400001","Les Perrières","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",47.3840436717773,-2.4308344805507
+"N0113032","Le Falleron à Falleron","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.8768483133527,-1.66996020112033
+"N0210001","Les Godinières à Challans","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.8294024010491,-1.84884901412822
+"M7413011","La Lignée à la Boissière-de-Montaigu","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.9490830848867,-1.17977415128971
+"M7433111","Le Bouvreau aux Brouzils","Onde OFB",2023-05-23,"1f","Ecoulement visible faible",46.909729820152,-1.3314860484523
+"O2670001","La Tessonne à Beaumont-de-Lomagne","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8646863395876,1.0587037433623
+"O6000012","Le Cameson à Mansonville","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.007655228965,0.881570084614939
+"O6150002","Le Métau à Dunes","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0865497849373,0.767482331980932
+"O6000011","Le Cameson à Auvillar","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0522874591706,0.916381604564716
+"O6000013","L'Ayroux à Saint-Michel","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0447344123782,0.969633154038207
+"O2940001","La Sère à Castelmayran","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0334535797772,1.0481638752996
+"O5901012","La Maribenne à Mauzac","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0923937656311,1.21498020899691
+"O5901011","Le Bernon à Meauzac","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0907548479992,1.24209412000951
+"O5930001","Le Petit Lembous à Molières","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.1759831632522,1.36414886033144
+"O2610003","Le Marguestaud à Verdun-sur-Garonne","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8068624605745,1.25311143560947
+"O2630001","La Nadesse à verdun-sur-Garonne","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8559013827188,1.19068874432149
+"O4941011","Le Rieu Tort à Campsas","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",43.8927881453964,1.31168035111695
+"O4991031","Le Payrol à Barry-D'Ismelade","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0753375146469,1.26634961285087
+"O6125013","La Petite Barguelonne à Bouloc","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.2797833757831,1.1485131579489
 "O6134011","La Barguelonne à Saint-Clair","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.1292314254861,0.928070357810601
 "O6010001","La Saudèze à Saint-Vincent-Lespinasse","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.104682435433,0.963325846499661
 "O5990001","La Madelaine à Moissac","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0974141820407,1.056206588329
 "O5970001","Le Bartac à Moissac","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.1038501663748,1.1199360416242
 "O5870001","Le Mortarieu à Villemade","Onde OFB",2023-05-22,"1f","Ecoulement visible faible",44.0760298441161,1.28318563134661
-"L0624011","L'Aixette à Meilhac","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.7261184740305,1.12204570280199
-"P6001511","Isle à la Meyze","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.6142646431673,1.21838709225802
-"P7001511","La Dronne à Bussière Galant","Onde OFB",2023-05-22,"1a","Ecoulement visible acceptable",45.6197633440595,1.05391093325792
-"V7156221","L'Alzon à Saint-Jean-du-Pin","Onde OFB",2023-05-16,"3","Assec",44.1138128764881,4.04873020765368
-"V7124016","Le ruisseau de Roquefeuil à Mialet","Onde OFB",2023-05-16,"3","Assec",44.109401707114,3.94675620998209
-"V7124017","Le ruisseau des Rules à Mialet","Onde OFB",2023-05-16,"1","Ecoulement visible",44.127163150294,3.91299394475793
-"V7135041","Le ruisseau de Brion à Saint-Jean-du-Gard","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1031286519043,3.88129722906762
-"V7135043","Le ruisseau des Côtes à Saint-Jean-du-Gard","Onde OFB",2023-05-16,"1","Ecoulement visible",44.115541130639,3.85042815334331
-"V7135042","Le valat du Rieu à Saint-Jean-du-Gard","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1144577502789,3.83772134246976
-"V7135040","Le valat de Russiel à Saint-André-de-Valborgne","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1376166011975,3.74107901338315
-"V7135038","Le ruisseau du Rouquet à L'Estréchure","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0867341468132,3.80144386630978
-"V7135039","Le ruisseau de la Jasse à L'Estrechure","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0837834702104,3.80154520765548
-"V7135036","Le Valat de Fontlongue à Corbes","Onde OFB",2023-05-16,"3","Assec",44.0789808822417,3.9567002290937
-"Y3414013","Le Crespenou à Monoblet","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9850588888894,3.89875492002267
-"Y3405011","L'Argentesse à La Cadière-et-Cambo","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.964685850002,3.81094970829677
-"Y3444021","Le Courme à Moulezan","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9375145636252,4.11770635967658
-"Y2000026","Le Valat de Crouzet à Valleraugue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0613433355738,3.65358082144065
-"Y2000025","Le Valat de Valdestours à Valleraugue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0494958076747,3.63287854131106
-"Y2010029","Le Coudoulous à Breau-et-Salagosse","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9817103706466,3.58350874188713
-"Y2010022","Le Coudoulous à Arphy","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0295912263965,3.59023700781861
-"Y2000023","Le valat de Reynus à Valleraugue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0544117457067,3.63252064953882
-"V5474017","La Tave à La Bastide-d'Engras","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.0987373417031,4.4733787996196
-"V5474025","La Veyre à Tresques","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1009340806555,4.57375423747234
-"V5474022","Le ruisseau de Vionne à Sabran","Onde OFB",2023-05-16,"1","Ecoulement visible",44.151105990184,4.51071243947777
-"V5064014","Le ruisseau de Valbonne à Saint-Paulet-de-Caisson","Onde OFB",2023-05-16,"3","Assec",44.2657809089701,4.57982914620218
-"V5474020","Le ruisseau de Rodières à Cornillon","Onde OFB",2023-05-16,"3","Assec",44.2119676103048,4.51647883572747
-"V5465713","L'Aiguillon à Verfeuil","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1779896100294,4.45366966628308
-"V5465712","L'Aiguillon à Lussan","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1727272093664,4.3844756539301
-"V5454012","La Claysse à Saint-Jean-de-Maruejols-et-Avejan","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2590574362749,4.27947419943611
-"V5445022","L'Auzon à Rivières","Onde OFB",2023-05-16,"1","Ecoulement visible",44.224775773951,4.26349367745714
-"V5445021","L'Alauzène à Allegre-les-Fumades","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1851154517656,4.23041811892485
-"V5454011","La Cèze à Rochegude","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2408177968428,4.28634512594527
-"V5425212","Gagnière à BESSEGES","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2843188891116,4.12324078251602
-"Y3435016","Le Crieulon à Saint-Jean-de-Crieulon","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.953629069017,4.00482480556411
-"Y3414011","Le ruisseau de Fressac à Durfot-et-Saint-Martin-de-Sossenac","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.9832326882611,3.92761632709432
-"Y3414014","Le ruisseau de Russargues (Graniers) à Monoblet","Onde OFB",2023-05-16,"3","Assec",43.9850608874578,3.89882653547337
-"Y3414012","Le ruisseau de la Filature à Monoblet","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9861545383277,3.89780195665019
-"Y3420001","Le Brestalou à Brouzet-les-Quissac","Onde OFB",2023-05-16,"1","Ecoulement visible",43.8446204103964,3.98343229316626
-"Y3454022","Le valat des Boutines à la confluence avec valat des Romanes à Salinelles","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.803925154731,4.06974225629478
-"V5410001","Le ruisseau de Cornas ","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2989737682744,4.02683347161839
-"V5410002","La Ribeyrette à Chamborigaud","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2953307002912,3.97758004283354
-"V5410003","Le Luech à Génolhac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3139769997925,3.96695184385814
-"Y3454021","Le ruisseaud'Aigalade à Salinelles","Onde OFB",2023-05-16,"1","Ecoulement visible",43.8033211426612,4.07993416594119
-"V5404035","L'Amalet à Génolhac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3349168577696,3.98293374256125
-"V5404036","Le Valcrouzés à Saint-André-Capcèze","Onde OFB",2023-05-16,"1","Ecoulement visible",44.4106376112573,3.94747907766641
-"V5404026","La Cèze à Aujac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3757630386275,3.98065659422041
-"V5064011","Le valat d'Aiguèze à Saint-Julien-de-Peyrolas","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2954744359471,4.56060942802561
-"V5404031","Le Bournave à PONTEILS-ET-BRESIS","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.3936856740606,3.9800109469757
-"V5404027","La Cönnes à CONCOULES","Onde OFB",2023-05-16,"1","Ecoulement visible",44.3926526323281,3.97850779739018
-"V5454010","La Cèze à Tharaux","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2438369423334,4.29970519900099
-"Y2100021","Le Rieutord à Sumène","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9816714008236,3.71536217766
-"Y2100022","Le Recodier à Sumène","Onde OFB",2023-05-16,"3","Assec",43.9815629899227,3.71556248207251
-"O3354311","Les pertes du Trévezel à Trèves","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0760446665573,3.37228018030839
-"Y2010027","L'Arre à Bez et Esparon","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9702188705207,3.52912167486857
-"O3354312","Le Trévezel dans les gorges","Onde OFB",2023-05-16,"1","Ecoulement visible",44.086636336671,3.39540738547769
-"V5480002","Le Nizon à Lirac","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0413922221568,4.6998758938289
-"V5404037","La Cèze à Ponteils et Brésis","Onde OFB",2023-05-16,"1","Ecoulement visible",44.4130000427938,3.94860718840767
-"Y2010031","Le ruisseau de Gazel à Saint-André-de-Majencoules","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0086984241209,3.64800563982218
-"Y2010033","Le ruisseau de l'Arboux à Saint-André-de-Majencoules","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0008174143437,3.66057724011569
-"Y2010028","Le Merlanson à Bez-et-Esparon","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9710480000273,3.52893274793533
-"V7185017","L'Alzon à Vallabrix","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.052429590499,4.46364515253843
-"V7170002","Le Bourdic à Baron","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.0481679623919,4.29168090486796
-"V7170006","Le Bourdic à Sainte-Anastasie","Onde OFB",2023-05-16,"3","Assec",43.9384469994664,4.30509826013702
-"V7170004","Le ruisseau de Braune à La Calmette","Onde OFB",2023-05-16,"1","Ecoulement visible",43.931650424775,4.25806684934702
-"V7164019","La Droude à Saint-Etienne-de-L'Olm","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0550401396433,4.18335149182616
-"V7164017","La Droude à Saint-Cesaire-de-Gauzignan","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0252641433418,4.19671198840474
-"V7164016","Le Droude à Brignon","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9919431255695,4.21745985645049
-"V7170005","Le Gardon à Dions","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9346319631665,4.30444119165167
-"V7185013","Le Merlançon à Saint-Hippolyte-de-Montaigu","Onde OFB",2023-05-16,"3","Assec",44.0266599866622,4.45971802261033
-"V7185015","Les Seynes à Serviers-et-Labaume","Onde OFB",2023-05-16,"3","Assec",44.0526035461398,4.36038856823323
-"V7185016","Les Seynes à Uzès","Onde OFB",2023-05-16,"1","Ecoulement visible",43.9898054661688,4.40422190614139
-"V7185012","Le ruisseau Aigues Vives à Belvezet","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0717411744279,4.36094705565536
-"V7170007","L'Esquielle à Saint-Genies-de-Malgoires","Onde OFB",2023-05-16,"3","Assec",43.9459412561793,4.22117773589243
-"V7164020","La Candoulières à Saint-Jean-de-Ceyrargues","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0647041913933,4.22813581872916
-"V7170003","Le Lauriol à Boucoiran-et-Nozières","Onde OFB",2023-05-16,"2","Ecoulement non visible",43.9741297835816,4.1897182353722
-"V7156218","Le Ruisseau des Luminières à Sainte-Cécile-d'Andorge","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2314593891027,3.99733815144137
-"V7156217","Le ruisseau de la Tombe à Sainte-Cécile-d'Andorge","Onde OFB",2023-05-16,"2","Ecoulement non visible",44.2330388382164,4.00344169843565
-"V7156212","Le Brémo à Les-Salles-du-Gardon","Onde OFB",2023-05-16,"1","Ecoulement visible",44.2160254738712,4.01573329423679
-"V7156214","Le Galeizon à Cendras","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1552895595455,4.03831153370115
-"V7156213","Le Galeizon à Cendras - Pont de Bouzigue","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1570558755617,4.0243082411741
-"V7156215","Le Galeizon à Cendras - Prés de la station d'épuration","Onde OFB",2023-05-16,"1","Ecoulement visible",44.1523343368483,4.05648347920853
-"V7156219","L'Alzon à Saint-Christol-les-Alès","Onde OFB",2023-05-16,"1","Ecoulement visible",44.0952967347091,4.06772274640136
