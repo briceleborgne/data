@@ -1,4 +1,4 @@
-"departement_label","nom_zone","niveau_label","periode_arrete"
+"Département","Zone concernée","Niveau d'alerte","Période d'application"
 "Ain (01)","Dombes – Certines – Nord","<span style='background:#c65d00; color:#ffffff; display: inline-block; padding: 2px; padding-bottom:0'>Alerte renforcée</span>","Du 1 avril au 31 octobre 2023"
 "Ain (01)","Dombes – Sud","<span style='background:#c65d00; color:#ffffff; display: inline-block; padding: 2px; padding-bottom:0'>Alerte renforcée</span>","Du 1 avril au 31 octobre 2023"
 "Ain (01)","Plaine de l'Ain","<span style='background:#ffff00; display: inline-block; padding: 2px; padding-bottom:0'>Vigilance</span>","Du 1 avril au 31 octobre 2023"
