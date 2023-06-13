@@ -17,10 +17,12 @@ stefan-bissegger,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race
 alfred-wright,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 remi-cavagna,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 matteo-jorgenson,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
+simon-carr,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 simon-carr,15.06,La Route d'Occitanie - La Dépêche du Midi,https://www.procyclingstats.com/race/la-route-d-occitanie/2023/startlist
 simon-carr,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 romain-gregoire1,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 leo-hayter,15.06,La Route d'Occitanie - La Dépêche du Midi,https://www.procyclingstats.com/race/la-route-d-occitanie/2023/startlist
+filippo-zana,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 remco-evenepoel,29.07,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2023/startlist
 remco-evenepoel,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 remco-evenepoel,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
@@ -35,10 +37,9 @@ gerben-thijssen,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.c
 quinn-simmons,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 rui-costa,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 lilian-calmejane,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-kobe-goossens,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
 kobe-goossens,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 kobe-goossens,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-lenny-martinez,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/mont-ventoux-denivele-challenge/2023/startlist
+lenny-martinez,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 lenny-martinez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 gleb-syritsa,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
 lennert-van-eetvelt,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -70,7 +71,6 @@ mikkel-honore,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-
 kevin-vauquelin,29.07,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2023/startlist
 kevin-vauquelin,15.08,Tour du Limousin-Périgord - Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-limousin/2023/startlist
 kevin-vauquelin,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-edoardo-zambanini,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 sam-welsford,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
 sam-welsford,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 gijs-leemreize,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -86,7 +86,7 @@ enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2
 filippo-ganna,22.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2023/startlist
 tiesj-benoot,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 anthony-turgis,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-michael-woods,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/mont-ventoux-denivele-challenge/2023/startlist
+michael-woods,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 andreas-kron,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 olav-kooij,29.07,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2023/startlist
 olav-kooij,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
@@ -99,13 +99,16 @@ juan-pedro-lopez,01.07,Tour de France,https://www.procyclingstats.com/race/tour-
 juan-pedro-lopez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 emanuel-buchmann,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 edvald-boasson-hagen,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
+reuben-thompson,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
+mathias-vacek,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
+harrison-wood,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 primoz-roglic,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mark-cavendish,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
 mark-cavendish,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 mikkel-bjerg,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-christopher-froome,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/mont-ventoux-denivele-challenge/2023/startlist
+christopher-froome,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 christopher-froome,15.06,La Route d'Occitanie - La Dépêche du Midi,https://www.procyclingstats.com/race/la-route-d-occitanie/2023/startlist
 lucas-hamilton,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
+mark-padun,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 pierre-luc-perichon,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 dylan-van-baarle,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 tobias-halland-johannessen,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -127,9 +130,12 @@ yves-lampaert,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/to
 yves-lampaert,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 kevin-geniets,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 nelson-oliveira,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
+cristian-rodriguez,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 cristian-rodriguez,15.06,La Route d'Occitanie - La Dépêche du Midi,https://www.procyclingstats.com/race/la-route-d-occitanie/2023/startlist
 cristian-rodriguez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
+dries-van-gestel,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 sasha-weemaes,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
+wout-poels,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 wout-poels,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 tim-merlier,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 daniel-felipe-martinez,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -152,16 +158,13 @@ matej-mohoric,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-o
 matej-mohoric,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 rasmus-tiller,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
 rasmus-tiller,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-edward-irl-dunbar,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 edward-irl-dunbar,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 tim-wellens,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 simon-yates,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 soren-kragh-andersen,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-matevz-govekar,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 johannes-staune-mittet,20.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2023/startlist
 tobias-foss,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 nick-schultz,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
-guillaume-martin,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/mont-ventoux-denivele-challenge/2023/startlist
 guillaume-martin,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 louis-meintjes,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 louis-meintjes,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -175,7 +178,8 @@ carlos-rodriguez-cano,26.08,La Vuelta Ciclista a España,https://www.procyclings
 stan-van-tricht,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
 warren-barguil,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 pascal-ackermann,02.07,Int. Österreich-Rundfahrt - Tour of Austria,https://www.procyclingstats.com/race/tour-of-austria/2023/startlist
-einer-augusto-rubio-reyes,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/mont-ventoux-denivele-challenge/2023/startlist
+einer-augusto-rubio-reyes,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
+georg-steinhauser,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 ruben-guerreiro,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 aleksey-lutsenko,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 john-degenkolb,14.06,Baloise Belgium Tour,https://www.procyclingstats.com/race/tour-of-belgium/2023/startlist
@@ -188,7 +192,11 @@ giacomo-nizzolo,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingsta
 diego-ulissi,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
 simon-clarke,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 harm-vanhoucke,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
+guillaume-boivin,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 embret-svestad-bardseng,14.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2023/startlist
+diego-andres-camargo,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
+thomas-champion,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
+enzo-paleni,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 harold-tejada,29.07,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2023/startlist
 harold-tejada,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 christophe-laporte,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
@@ -197,6 +205,6 @@ daryl-impey,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-fr
 daryl-impey,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 bryan-coquard,01.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2023/startlist
 jon-aberasturi,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-bastien-tronchon,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/mont-ventoux-denivele-challenge/2023/startlist
+bastien-tronchon,13.06,CIC - Mont Ventoux,https://www.procyclingstats.com/race/cic-mont-ventoux/2023/startlist
 bastien-tronchon,29.07,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2023/startlist
 bastien-tronchon,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
