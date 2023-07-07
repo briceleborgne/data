@@ -12,41 +12,30 @@
 "21","Côte-d'Or",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "22","Côtes-d'Armor",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "23","Creuse",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"24","Dordogne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"24","Dordogne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "25","Doubs",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "26","Drôme",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "27","Eure",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "28","Eure-et-Loir",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "29","Finistère",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "30","Gard",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"31","Haute-Garonne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"32","Gers",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"33","Gironde",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"31","Haute-Garonne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"32","Gers",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"33","Gironde",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "34","Hérault",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "35","Ille-et-Vilaine",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "36","Indre",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "37","Indre-et-Loire",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "38","Isère",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "39","Jura",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"40","Landes",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"40","Landes",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "41","Loir-et-Cher",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "42","Loire",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "43","Haute-Loire",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "44","Loire-Atlantique",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "45","Loiret",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "46","Lot",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"47","Lot-et-Garonne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"47","Lot-et-Garonne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "48","Lozère",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "49","Maine-et-Loire",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "50","Manche",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
@@ -63,12 +52,8 @@
 "61","Orne",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "62","Pas-de-Calais",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "63","Puy-de-Dôme",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"64","Pyrénées-Atlantiques",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"65","Hautes-Pyrénées",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"64","Pyrénées-Atlantiques",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"65","Hautes-Pyrénées",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "66","Pyrénées-Orientales",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "67","Bas-Rhin",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "68","Haut-Rhin",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
@@ -92,11 +77,8 @@
 "78","Yvelines",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "79","Deux-Sèvres",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "80","Somme",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"81","Tarn",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
-"82","Tarn-et-Garonne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"81","Tarn",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
+"82","Tarn-et-Garonne",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--orange"">Orages: vigilance orange </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "83","Var",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "84","Vaucluse",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
 "85","Vendée",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li></ul>",2023-07-07 10:00:56,"7 juillet 2023","10h00"
