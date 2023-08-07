@@ -1,5 +1,4 @@
 coureur_id,date_course,nom_course,url_course
-wout-van-aert,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 wout-van-aert,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 wout-van-aert,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 arnaud-de-lie,13.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2023/startlist
@@ -9,37 +8,26 @@ arnaud-de-lie,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.c
 arnaud-de-lie,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 arnaud-de-lie,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 arnaud-de-lie,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
-julian-alaphilippe,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 julian-alaphilippe,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 biniam-girmay,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 biniam-girmay,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 biniam-girmay,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
-valentin-madouas,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 david-gaudu,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 david-gaudu,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 david-gaudu,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
-neilson-powless,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 jordi-meeus,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-stefan-bissegger,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 stefan-bissegger,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
 stefan-bissegger,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 stefan-bissegger,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 stefan-bissegger,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
-luke-plapp,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-alfred-wright,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-remi-cavagna,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 remi-cavagna,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
 remi-cavagna,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 simon-carr,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 romain-gregoire1,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-samuel-watson,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 filippo-zana,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-remco-evenepoel,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 remco-evenepoel,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 remco-evenepoel,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 remco-evenepoel,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
-mathieu-van-der-poel,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-mattias-skjelmose-jensen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mattias-skjelmose-jensen,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
 gerben-thijssen,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 brandon-mcnulty,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
@@ -49,9 +37,7 @@ brandon-mcnulty,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats
 brandon-mcnulty,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 brandon-mcnulty,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 quinn-simmons,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-kaden-groves,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 ethan-vernon,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
-filippo-baroncini,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 filippo-baroncini,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
 lenny-martinez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 marijn-van-den-berg,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
@@ -63,34 +49,23 @@ lennard-kamna,11.08,World Championships ME - ITT,https://www.procyclingstats.com
 lennard-kamna,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 sepp-kuss,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 thibaut-pinot,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
-ben-turner,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 ben-turner,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
-connor-swift,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 juan-ayuso-pesquera,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 thymen-arensman,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 andrea-piccolo,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-alex-aranburu,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mauri-vansevenant,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-andrea-bagioli,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 giulio-ciccone,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 valentin-ferron,13.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2023/startlist
 attila-valter,15.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2023/startlist
 attila-valter,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 rune-herregodts,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 rune-herregodts,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-michel-hessmann,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-mick-van-dijke,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mick-van-dijke,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
-tadej-pogacar,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 tadej-pogacar,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 tadej-pogacar,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-kasper-asgreen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 kasper-asgreen,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
-santiago-buitrago-sanchez,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 ilan-van-wilder,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 casper-van-uden,12.08,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2023/startlist
-benoit-cosnefroy,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-mikkel-honore,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mikkel-honore,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
 kevin-vauquelin,15.08,Tour du Limousin-Périgord - Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-limousin/2023/startlist
 kevin-vauquelin,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -108,18 +83,14 @@ enric-mas,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/rac
 enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 filippo-ganna,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 filippo-ganna,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-tiesj-benoot,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-jhonatan-narvaez,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 andreas-kron,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-olav-kooij,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 olav-kooij,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 cian-uijtdebroeks,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 joshua-tarling,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 sergio-higuita,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 juan-pedro-lopez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 felix-grossschartner,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
-edvald-boasson-hagen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-mathias-vacek,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
+andres-camilo-ardila,09.08,Volta a Portugal em Bicicleta,https://www.procyclingstats.com/race/volta-a-portugal/2023/startlist
 mathias-vacek,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 mathias-vacek,17.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2023/startlist
 mathias-vacek,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
@@ -132,35 +103,22 @@ mathias-vacek,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.c
 mathias-vacek,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 primoz-roglic,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 rohan-dennis,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
-mikkel-bjerg,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mikkel-bjerg,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
-dylan-van-baarle,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 dylan-van-baarle,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-tobias-halland-johannessen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-andreas-leknessund,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-michal-kwiatkowski,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 nicola-conci,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
-pascal-eenkhoorn,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 michael-leonard1,09.08,World Championships MU - ITT,https://www.procyclingstats.com/race/world-championships-itt-u23/2023/startlist
 michael-leonard1,12.08,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2023/startlist
 franck-bonnamour,15.08,Tour du Limousin-Périgord - Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-limousin/2023/startlist
 franck-bonnamour,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 anthon-charmig,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
-simone-velasco,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-joao-almeida,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 joao-almeida,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 joao-almeida,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 geraint-thomas,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 geraint-thomas,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-alberto-bettiol,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 alberto-bettiol,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
-yves-lampaert,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 jan-tratnik,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-kevin-geniets,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-nelson-oliveira,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 nelson-oliveira,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 cristian-rodriguez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mauro-schmid,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mauro-schmid,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
 sasha-weemaes,15.08,Tour of Leuven - Memorial Jef Scherens,https://www.procyclingstats.com/race/gp-jef-scherens/2023/startlist
 sasha-weemaes,19.08,Druivenkoers - Overijse,https://www.procyclingstats.com/race/druivenkoers-overijse/2023/startlist
@@ -168,39 +126,30 @@ wout-poels,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/ra
 tim-merlier,20.08,BEMER Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2023/startlist
 tim-merlier,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 damien-touze,13.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2023/startlist
-peter-sagan,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 maxim-van-gils,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 maxim-van-gils,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
-mads-pedersen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 mads-pedersen,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
 jensen-plowright,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
-jasper-philipsen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 jasper-philipsen,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 matej-mohoric,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 matej-mohoric,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 matej-mohoric,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matej-mohoric,26.09,Cro Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
-rasmus-tiller,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 matis-louvel,13.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2023/startlist
 max-walscheid,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
 edward-irl-dunbar,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 tim-wellens,20.08,BEMER Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2023/startlist
 tim-wellens,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 tim-wellens,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
-soren-kragh-andersen,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 soren-kragh-andersen,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
-matevz-govekar,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 johannes-staune-mittet,09.08,World Championships MU - ITT,https://www.procyclingstats.com/race/world-championships-itt-u23/2023/startlist
 johannes-staune-mittet,12.08,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2023/startlist
 johannes-staune-mittet,20.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2023/startlist
 jarne-van-de-paar,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
 tobias-foss,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 louis-meintjes,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-florian-senechal,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 hugh-carthy,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 marco-brenner,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-fernando-gaviria,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-ben-healy,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 ben-healy,11.08,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2023/startlist
 ben-healy,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ben-healy,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
@@ -208,19 +157,13 @@ ben-healy,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2
 tobias-lund-andresen,15.08,PostNord Danmark Rundt - Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2023/startlist
 alec-segaert,09.08,World Championships MU - ITT,https://www.procyclingstats.com/race/world-championships-itt-u23/2023/startlist
 alec-segaert,12.08,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2023/startlist
+alec-segaert,20.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2023/startlist
 rein-taaramae,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-ruben-guerreiro,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-aleksey-lutsenko,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-john-degenkolb,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 giacomo-nizzolo,20.08,BEMER Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2023/startlist
 giacomo-nizzolo,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 giacomo-nizzolo,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 giacomo-nizzolo,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
-simon-clarke,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-jefferson-alexander-cepeda,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-marco-haller,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 harm-vanhoucke,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-guillaume-boivin,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 guillaume-boivin,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 guillaume-boivin,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 guillaume-boivin,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
@@ -228,15 +171,11 @@ guillaume-boivin,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingst
 embret-svestad-bardseng,12.08,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2023/startlist
 enzo-paleni,09.08,World Championships MU - ITT,https://www.procyclingstats.com/race/world-championships-itt-u23/2023/startlist
 enzo-paleni,12.08,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2023/startlist
-harold-tejada,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-christophe-laporte,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 bob-jungels,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 bob-jungels,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 bob-jungels,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 bob-jungels,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 bob-jungels,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
-daryl-impey,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
-bryan-coquard,06.08,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2023/startlist
 bryan-coquard,08.08,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championships-mixed-relay-ttt/2023/startlist
 jon-aberasturi,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 david-dekker,22.08,Tour Poitou - Charentes en Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-poitou-charentes-et-de-la-vienne/2023/startlist
