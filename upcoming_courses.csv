@@ -1,6 +1,5 @@
 coureur_id,date_course,nom_course,url_course
 wout-van-aert,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
-arnaud-de-lie,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 arnaud-de-lie,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 arnaud-de-lie,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 arnaud-de-lie,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
@@ -9,24 +8,20 @@ julian-alaphilippe,03.09,Bretagne Classic - Ouest-France,https://www.procyclings
 biniam-girmay,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 biniam-girmay,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 biniam-girmay,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
-valentin-madouas,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 valentin-madouas,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 david-gaudu,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 david-gaudu,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 david-gaudu,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 david-gaudu,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 neilson-powless,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-quinten-hermans,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-jordi-meeus,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 stefan-bissegger,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 stefan-bissegger,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
-luke-plapp,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-alfred-wright,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 matteo-jorgenson,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 matteo-jorgenson,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 matteo-jorgenson,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matteo-jorgenson,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 antonio-tiberi,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
+simon-carr,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 romain-gregoire1,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 leo-hayter,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 hugo-page,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -35,23 +30,18 @@ filippo-zana,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/
 remco-evenepoel,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 remco-evenepoel,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 remco-evenepoel,15.10,Chrono des Nations,https://www.procyclingstats.com/race/chrono-des-nations/2023/startlist
+mathieu-van-der-poel,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 thomas-pidcock,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 mattias-skjelmose-jensen,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 gerben-thijssen,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-brandon-mcnulty,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 brandon-mcnulty,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 brandon-mcnulty,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 brandon-mcnulty,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
-quinn-simmons,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-ethan-vernon,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
+kaden-groves,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 rui-costa,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-filippo-baroncini,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-lilian-calmejane,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 kobe-goossens,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 lenny-martinez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-jonathan-milan,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 oscar-onley,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-gleb-syritsa,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 marijn-van-den-berg,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 lennert-van-eetvelt,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 aleksandr-vlasov,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
@@ -61,128 +51,82 @@ thibaut-pinot,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingst
 thibaut-pinot,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 thibaut-pinot,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 victor-lafay,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-ben-turner,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-cees-bol,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 juan-ayuso-pesquera,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 thymen-arensman,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 andrea-piccolo,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-alex-aranburu,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 andrea-bagioli,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 samuele-battistella,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 giulio-ciccone,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 giulio-ciccone,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 attila-valter,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 rune-herregodts,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mick-van-dijke,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 tadej-pogacar,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-kasper-asgreen,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 santiago-buitrago-sanchez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-ilan-van-wilder,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 ilan-van-wilder,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ilan-van-wilder,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
-casper-van-uden,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-ethan-hayter,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 benoit-cosnefroy,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-axel-zingle,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-mikkel-honore,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
+axel-zingle,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 mikkel-honore,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-pavel-sivakov,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 kevin-vauquelin,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 lewis-askey,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-pierre-gautherat,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-frederik-wandahl,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 jay-vine,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-sam-welsford,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-thibau-nys,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
+thibau-nys,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 enric-mas,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 filippo-ganna,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-anthony-turgis,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 michael-woods,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 andreas-kron,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-olav-kooij,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 cian-uijtdebroeks,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-ben-tulett,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-madis-mihkels,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-joshua-tarling,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 sergio-higuita,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-dylan-groenewegen,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 juan-pedro-lopez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 alberto-dainese,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 emanuel-buchmann,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-stan-dewulf,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-felix-grossschartner,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-mathias-vacek,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
+mathias-vacek,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 mathias-vacek,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 mathias-vacek,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 mathias-vacek,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 mathias-vacek,01.10,Trofeo Baracchi,https://www.procyclingstats.com/race/trofeo-baracchi/2023/startlist
 mathias-vacek,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2023/startlist
 mathias-vacek,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
+harrison-wood,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 primoz-roglic,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 michael-storer,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mikkel-bjerg,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
+lucas-hamilton,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
+pierre-luc-perichon,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 dylan-van-baarle,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-michal-kwiatkowski,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 michal-kwiatkowski,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 michal-kwiatkowski,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 michal-kwiatkowski,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 michal-kwiatkowski,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
-marius-mayrhofer,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-nicola-conci,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-natnael-tesfatsion,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 oier-lazkano,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 joao-almeida,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-pello-bilbao,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 geraint-thomas,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-phil-bauhaus,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 alberto-bettiol,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-yves-lampaert,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 jan-tratnik,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-elia-viviani,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 omar-fraile,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-kevin-geniets,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 nelson-oliveira,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 cristian-rodriguez,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 dries-van-gestel,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mauro-schmid,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
+sasha-weemaes,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 damiano-caruso,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 wout-poels,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-tim-merlier,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-jenthe-biermans,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 damien-touze,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 romain-bardet,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mathieu-burgaudeau,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 maxim-van-gils,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 maxim-van-gils,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 remy-rochas,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-mike-teunissen,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-matteo-moschetti,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-mads-pedersen,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 mads-pedersen,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-arne-marit,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 casper-pedersen,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-jasper-philipsen,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-matej-mohoric,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 matej-mohoric,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 matej-mohoric,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matej-mohoric,26.09,Cro Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
-rasmus-tiller,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-matis-louvel,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 edward-irl-dunbar,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-tim-wellens,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 tim-wellens,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 simon-yates,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-soren-kragh-andersen,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 matevz-govekar,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-tobias-foss,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
-nick-schultz,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 guillaume-martin,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-florian-senechal,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 hugh-carthy,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-stan-van-tricht,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 stan-van-tricht,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-pascal-ackermann,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 max-poole,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 ben-healy,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ben-healy,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
@@ -190,19 +134,13 @@ ben-healy,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2
 einer-augusto-rubio-reyes,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 rein-taaramae,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 ruben-guerreiro,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-john-degenkolb,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 mikel-landa,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-giacomo-nizzolo,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 giacomo-nizzolo,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 giacomo-nizzolo,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 giacomo-nizzolo,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
-diego-ulissi,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-simon-clarke,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
 simon-clarke,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
-marco-haller,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
+jefferson-alexander-cepeda,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 marco-haller,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
-harm-vanhoucke,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
-guillaume-boivin,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 guillaume-boivin,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 guillaume-boivin,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 guillaume-boivin,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
@@ -215,7 +153,5 @@ bob-jungels,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tou
 bob-jungels,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 bryan-coquard,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
 david-dekker,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
-bastien-tronchon,23.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2023/startlist
 bastien-tronchon,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 louis-vervaeke,26.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2023/startlist
-martin-svrcek,23.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2023/startlist
