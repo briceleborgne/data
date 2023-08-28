@@ -1,4 +1,4 @@
-"domain_id","dep_name","max_color_id","final_htmlok","heure_update","jour_publi","heure_publi"
+"domain_id_ok","dep_name","max_color_id","final_htmlok","heure_update","jour_publi","heure_publi"
 "10","Aube",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "11","Aude",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "12","Aveyron",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
@@ -82,6 +82,14 @@
 "95","Val-d'Oise",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "01","Ain",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "02","Aisne",1,"<ul class='leg'><li class='leg__item leg__item--line leg__item--green'> Pas de vigilance </li> </ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+"64","Pyrénées-Atlantiques",1,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+"06","Alpes-Maritimes",1,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+"2B","Haute-Corse",1,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+"83","Var",1,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+"13","Bouches-du-Rhône",1,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "13","Bouches-du-Rhône",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "31","Haute-Garonne",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "38","Isère",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Crues: vigilance jaune </li>
@@ -96,9 +104,14 @@
 "09","Ariège",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "2A","Corse-du-Sud",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li>
 <li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
-<li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+<li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--orange"">Vagues-submersion: vigilance orange </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "83","Var",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "84","Vaucluse",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
 "2B","Haute-Corse",2,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li>
 <li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
 <li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
+"2A","Corse-du-Sud",3,"<ul class=""leg""><li class=""leg__item leg__item--line leg__item--yellow"">Vent: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--yellow"">Orages: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--yellow"">Pluie-inondations: vigilance jaune </li>
+<li class=""leg__item leg__item--line leg__item--orange"">Vagues-submersion: vigilance orange </li></ul>",2023-08-28 14:00:35,"28 août 2023","14h00"
