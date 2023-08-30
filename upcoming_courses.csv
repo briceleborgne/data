@@ -8,6 +8,8 @@ arnaud-de-lie,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats
 arnaud-de-lie,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 arnaud-de-lie,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 julian-alaphilippe,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
+julian-alaphilippe,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
+julian-alaphilippe,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 biniam-girmay,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 biniam-girmay,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 biniam-girmay,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
@@ -41,6 +43,7 @@ brandon-mcnulty,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstat
 brandon-mcnulty,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 brandon-mcnulty,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 brandon-mcnulty,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
+ethan-vernon,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 lilian-calmejane,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 jonathan-milan,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 thibaut-pinot,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
@@ -54,9 +57,9 @@ alex-aranburu,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.
 giulio-ciccone,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 giulio-ciccone,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 mick-van-dijke,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
-tadej-pogacar,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 ilan-van-wilder,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ilan-van-wilder,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+casper-van-uden,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 ethan-hayter,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 fabio-jakobsen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 benoit-cosnefroy,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
@@ -70,11 +73,13 @@ enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2
 tiesj-benoot,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 anthony-turgis,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 michael-woods,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
+olav-kooij,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 olav-kooij,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.com/race/elfsteden-race/2023/startlist
 joshua-tarling,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 dylan-groenewegen,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
 dylan-groenewegen,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.com/race/elfsteden-race/2023/startlist
 stan-dewulf,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
+stan-dewulf,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 felix-grossschartner,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 edvald-boasson-hagen,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 mathias-vacek,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
@@ -88,12 +93,15 @@ harrison-wood,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",ht
 marc-sarreau,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 lucas-hamilton,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 pierre-luc-perichon,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
+tobias-halland-johannessen,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 andreas-leknessund,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 michal-kwiatkowski,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 michal-kwiatkowski,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 michal-kwiatkowski,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 michal-kwiatkowski,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 marius-mayrhofer,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
+nicola-conci,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
+nicola-conci,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 pascal-eenkhoorn,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 simone-velasco,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 alberto-bettiol,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
@@ -105,9 +113,11 @@ sasha-weemaes,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",ht
 sasha-weemaes,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 sasha-weemaes,17.09,Ixina Gooikse Pijl p/b Lotto,https://www.procyclingstats.com/race/gooikse-pijl/2023/startlist
 sasha-weemaes,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
+steven-kruijswijk,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 caleb-ewan,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 caleb-ewan,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
 jenthe-biermans,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
+damien-touze,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 peter-sagan,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 mathieu-burgaudeau,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 maxim-van-gils,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
@@ -124,6 +134,7 @@ jasper-philipsen,08.10,Presidential Cycling Tour of Türkiye,https://www.procycl
 matej-mohoric,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 matej-mohoric,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matej-mohoric,26.09,Cro Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
+rasmus-tiller,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 matis-louvel,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 tim-wellens,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 simon-yates,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
@@ -132,6 +143,8 @@ nick-schultz,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.c
 guillaume-martin,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 florian-senechal,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 anthony-perez,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
+marco-brenner,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
+marco-brenner,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 stan-van-tricht,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 warren-barguil,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 sam-oomen,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
@@ -139,11 +152,13 @@ ben-healy,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/
 ben-healy,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ben-healy,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 ben-healy,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+tobias-lund-andresen,03.09,Tour of Britain,https://www.procyclingstats.com/race/tour-of-britain/2023/startlist
 aleksey-lutsenko,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 john-degenkolb,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 giacomo-nizzolo,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 giacomo-nizzolo,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 giacomo-nizzolo,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+giacomo-nizzolo,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 simon-clarke,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare",https://www.procyclingstats.com/race/maryland-cycling-classic/2023/startlist
 jefferson-alexander-cepeda,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 marco-haller,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
@@ -151,6 +166,10 @@ guillaume-boivin,03.09,"Maryland Cycling Classic, presented by UnitedHealthcare"
 guillaume-boivin,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 guillaume-boivin,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 thomas-champion,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
+harold-tejada,13.09,Giro della Toscana - Memorial Alfredo Martini,https://www.procyclingstats.com/race/giro-di-toscana/2023/startlist
+harold-tejada,14.09,Gran Premio città di Peccioli - Coppa Sabatini,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2023/startlist
+harold-tejada,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
+harold-tejada,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 christophe-laporte,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 bob-jungels,03.09,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2023/startlist
 bob-jungels,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
