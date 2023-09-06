@@ -1,5 +1,6 @@
 coureur_id,date_course,nom_course,url_course
 wout-van-aert,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+wout-van-aert,20.09,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2023/startlist
 wout-van-aert,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 arnaud-de-lie,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 arnaud-de-lie,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
@@ -14,9 +15,13 @@ valentin-madouas,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingst
 david-gaudu,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
 david-gaudu,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 david-gaudu,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+stefan-bissegger,20.09,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2023/startlist
+stefan-bissegger,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 stefan-bissegger,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 jack-haig,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 jack-haig,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+aurelien-paret-peintre,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
+aurelien-paret-peintre,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matteo-jorgenson,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 matteo-jorgenson,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matteo-jorgenson,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
@@ -33,15 +38,20 @@ gerben-thijssen,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.
 brandon-mcnulty,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 brandon-mcnulty,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 brandon-mcnulty,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
+paul-penhoet,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 ben-o-connor,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ben-o-connor,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 thibaut-pinot,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
 thibaut-pinot,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 thibaut-pinot,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+davide-ballerini,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
+jason-tesson,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 alex-aranburu,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 alex-aranburu,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 giulio-ciccone,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 mick-van-dijke,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+tadej-pogacar,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+tadej-pogacar,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 tadej-pogacar,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 ilan-van-wilder,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ilan-van-wilder,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
@@ -59,9 +69,12 @@ frederik-wandahl,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingst
 frederik-wandahl,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 thibau-nys,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 thibau-nys,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+soren-waerenskjold,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 tiesj-benoot,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+anthony-turgis,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 olav-kooij,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.com/race/elfsteden-race/2023/startlist
+madis-mihkels,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 dylan-groenewegen,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 dylan-groenewegen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 dylan-groenewegen,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
@@ -75,15 +88,23 @@ mathias-vacek,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-d
 mathias-vacek,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2023/startlist
 mathias-vacek,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 marc-sarreau,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
+mikkel-bjerg,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 mikkel-bjerg,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+lucas-hamilton,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
+lucas-hamilton,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 michal-kwiatkowski,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 michal-kwiatkowski,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 michal-kwiatkowski,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 nicola-conci,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 nicola-conci,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+niccolo-bonifazio,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 pello-bilbao,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 pello-bilbao,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+yves-lampaert,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 yves-lampaert,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
+yves-lampaert,20.09,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2023/startlist
+yves-lampaert,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
+sasha-weemaes,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 sasha-weemaes,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 sasha-weemaes,17.09,Ixina Gooikse Pijl p/b Lotto,https://www.procyclingstats.com/race/gooikse-pijl/2023/startlist
 sasha-weemaes,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
@@ -93,8 +114,10 @@ caleb-ewan,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/om
 damien-touze,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 maxim-van-gils,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 maxim-van-gils,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+matteo-moschetti,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 mads-pedersen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 mads-pedersen,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+arne-marit,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 jasper-philipsen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 jasper-philipsen,17.09,Ixina Gooikse Pijl p/b Lotto,https://www.procyclingstats.com/race/gooikse-pijl/2023/startlist
 jasper-philipsen,24.09,Classique Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
@@ -104,13 +127,17 @@ jasper-philipsen,08.10,Presidential Cycling Tour of Türkiye,https://www.procycl
 matej-mohoric,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 matej-mohoric,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 matej-mohoric,26.09,Cro Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
+max-walscheid,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
+tim-wellens,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 tim-wellens,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 tim-wellens,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 tim-wellens,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 simon-yates,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 simon-yates,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+florian-senechal,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 marco-brenner,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 marco-brenner,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+stan-van-tricht,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 fernando-gaviria,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 pascal-ackermann,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 pascal-ackermann,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -119,16 +146,21 @@ fran-miholjevic,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingsta
 ben-healy,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 ben-healy,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 ben-healy,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+alec-segaert,20.09,European Continental Championships MU - ITT,https://www.procyclingstats.com/race/european-continental-championships-u23-itt/2023/startlist
+alec-segaert,22.09,European Continental Championships MU - Road Race,https://www.procyclingstats.com/race/european-championships/2023/startlist
 john-degenkolb,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 john-degenkolb,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 john-degenkolb,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
 giacomo-nizzolo,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 giacomo-nizzolo,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+giacomo-nizzolo,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 giacomo-nizzolo,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 jefferson-alexander-cepeda,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 marco-haller,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 guillaume-boivin,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2023/startlist
 guillaume-boivin,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
+thomas-boudat,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
+enzo-paleni,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 harold-tejada,13.09,Giro della Toscana - Memorial Alfredo Martini,https://www.procyclingstats.com/race/giro-di-toscana/2023/startlist
 harold-tejada,14.09,Gran Premio città di Peccioli - Coppa Sabatini,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2023/startlist
 harold-tejada,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
@@ -138,5 +170,7 @@ bob-jungels,08.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com
 bob-jungels,10.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2023/startlist
 bob-jungels,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 bob-jungels,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+david-dekker,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 david-dekker,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
+bastien-tronchon,10.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2023/startlist
 bastien-tronchon,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
