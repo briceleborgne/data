@@ -2,6 +2,8 @@ coureur_id,date_course,nom_course,url_course
 wout-van-aert,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 wout-van-aert,20.09,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2023/startlist
 wout-van-aert,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
+wout-van-aert,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2023/startlist
+wout-van-aert,05.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2023/startlist
 arnaud-de-lie,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 arnaud-de-lie,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 arnaud-de-lie,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
@@ -17,7 +19,7 @@ stefan-bissegger,20.09,European Continental Championships ME - ITT,https://www.p
 stefan-bissegger,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 stefan-bissegger,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 remi-cavagna,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
-matteo-jorgenson,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
+remi-cavagna,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 matteo-jorgenson,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 simon-carr,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 leo-hayter,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
@@ -29,6 +31,7 @@ mathieu-van-der-poel,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/
 mathieu-van-der-poel,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 mathieu-van-der-poel,08.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2023/startlist
 magnus-sheffield,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
+gerben-thijssen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 gerben-thijssen,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.com/race/elfsteden-race/2023/startlist
 brandon-mcnulty,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 ethan-vernon,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
@@ -36,12 +39,14 @@ filippo-baroncini,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/r
 lilian-calmejane,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
 paul-penhoet,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 gleb-syritsa,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
+marijn-van-den-berg,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 richard-carapaz,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 richard-carapaz,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 thibaut-pinot,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
 thibaut-pinot,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 thibaut-pinot,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 davide-ballerini,13.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2023/startlist
+davide-ballerini,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 victor-lafay,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 jason-tesson,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 lorenzo-fortunato,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
@@ -50,16 +55,19 @@ giulio-ciccone,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombar
 valentin-ferron,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
 mick-van-dijke,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 mick-van-dijke,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+tadej-pogacar,14.09,Gran Premio città di Peccioli - Coppa Sabatini,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2023/startlist
 tadej-pogacar,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 tadej-pogacar,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 tadej-pogacar,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 ilan-van-wilder,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
+casper-van-uden,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 fabio-jakobsen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 axel-zingle,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 axel-zingle,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 pavel-sivakov,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
 axel-laurance,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 axel-laurance,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
+pierre-gautherat,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 pierre-gautherat,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 pierre-gautherat,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 pierre-gautherat,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -73,12 +81,15 @@ enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2
 tiesj-benoot,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 anthony-turgis,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 anthony-turgis,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+anthony-turgis,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+olav-kooij,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 olav-kooij,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.com/race/elfsteden-race/2023/startlist
 madis-mihkels,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 madis-mihkels,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 dylan-groenewegen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 dylan-groenewegen,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
 dylan-groenewegen,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.com/race/elfsteden-race/2023/startlist
+stan-dewulf,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 stan-dewulf,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 stan-dewulf,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 stan-dewulf,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -89,20 +100,25 @@ felix-grossschartner,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/
 edvald-boasson-hagen,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 edvald-boasson-hagen,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 edvald-boasson-hagen,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
+edvald-boasson-hagen,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 mathias-vacek,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 mathias-vacek,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2023/startlist
 mathias-vacek,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
+marc-sarreau,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 marc-sarreau,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 mikkel-bjerg,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 mikkel-bjerg,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 michal-kwiatkowski,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 pascal-eenkhoorn,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 niccolo-bonifazio,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
+franck-bonnamour,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 simone-velasco,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
 yves-lampaert,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 yves-lampaert,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 yves-lampaert,20.09,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2023/startlist
 yves-lampaert,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
+yves-lampaert,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+dries-van-gestel,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 sasha-weemaes,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 sasha-weemaes,17.09,Ixina Gooikse Pijl p/b Lotto,https://www.procyclingstats.com/race/gooikse-pijl/2023/startlist
 sasha-weemaes,23.09,Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
@@ -112,19 +128,22 @@ caleb-ewan,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/ra
 caleb-ewan,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
 jenthe-biermans,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 jenthe-biermans,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+jenthe-biermans,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 damien-touze,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 peter-sagan,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 peter-sagan,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 fausto-masnada,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
 mike-teunissen,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 mike-teunissen,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+mike-teunissen,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 mike-teunissen,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+matteo-moschetti,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 matteo-moschetti,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
-mads-pedersen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 mads-pedersen,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 mads-pedersen,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 arne-marit,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 arne-marit,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+casper-pedersen,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 jensen-plowright,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 jasper-philipsen,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 jasper-philipsen,17.09,Ixina Gooikse Pijl p/b Lotto,https://www.procyclingstats.com/race/gooikse-pijl/2023/startlist
@@ -133,6 +152,7 @@ jasper-philipsen,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats
 jasper-philipsen,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 jasper-philipsen,08.10,Presidential Cycling Tour of Türkiye,https://www.procyclingstats.com/race/tour-of-turkey/2023/startlist
 matej-mohoric,26.09,Cro Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
+max-walscheid,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 max-walscheid,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 max-walscheid,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 tim-wellens,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
@@ -145,11 +165,16 @@ nick-schultz,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/g
 guillaume-martin,13.09,Giro della Toscana - Memorial Alfredo Martini,https://www.procyclingstats.com/race/giro-di-toscana/2023/startlist
 guillaume-martin,14.09,Gran Premio città di Peccioli - Coppa Sabatini,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2023/startlist
 guillaume-martin,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
+florian-senechal,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 florian-senechal,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+florian-senechal,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 benjamin-thomas-2,13.09,Giro della Toscana - Memorial Alfredo Martini,https://www.procyclingstats.com/race/giro-di-toscana/2023/startlist
 benjamin-thomas-2,14.09,Gran Premio città di Peccioli - Coppa Sabatini,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2023/startlist
 benjamin-thomas-2,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2023/startlist
+stan-van-tricht,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 stan-van-tricht,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+stan-van-tricht,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+fernando-gaviria,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 pascal-ackermann,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 pascal-ackermann,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 pascal-ackermann,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -162,6 +187,7 @@ aleksey-lutsenko,16.09,Memorial Marco Pantani,https://www.procyclingstats.com/ra
 john-degenkolb,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 john-degenkolb,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 john-degenkolb,20.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2023/startlist
+giacomo-nizzolo,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 giacomo-nizzolo,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
 giacomo-nizzolo,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 simon-clarke,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
@@ -169,6 +195,8 @@ jefferson-alexander-cepeda,23.09,Le Tour de Langkawi,https://www.procyclingstats
 marco-haller,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 harm-vanhoucke,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 guillaume-boivin,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2023/startlist
+hugo-hofstetter,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+thomas-boudat,15.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen/2023/startlist
 thomas-boudat,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
 thomas-champion,13.09,Giro della Toscana - Memorial Alfredo Martini,https://www.procyclingstats.com/race/giro-di-toscana/2023/startlist
 thomas-champion,14.09,Gran Premio città di Peccioli - Coppa Sabatini,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2023/startlist
@@ -182,6 +210,8 @@ christophe-laporte,16.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp
 christophe-laporte,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 bob-jungels,20.09,Skoda Tour Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2023/startlist
 bob-jungels,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+bryan-coquard,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
+david-dekker,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 david-dekker,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 bastien-tronchon,13.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2023/startlist
 bastien-tronchon,17.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2023/startlist
