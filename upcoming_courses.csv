@@ -1,22 +1,22 @@
 coureur_id,date_course,nom_course,url_course
 wout-van-aert,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 wout-van-aert,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2023/startlist
+wout-van-aert,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 wout-van-aert,05.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2023/startlist
 arnaud-de-lie,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 arnaud-de-lie,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 arnaud-de-lie,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 arnaud-de-lie,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 julian-alaphilippe,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+julian-alaphilippe,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 julian-alaphilippe,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
 biniam-girmay,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 biniam-girmay,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 biniam-girmay,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 david-gaudu,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 jordi-meeus,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
-stefan-bissegger,21.09,European Continental Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/european-continental-championships-mixed-relay-ttt/2023/startlist
 stefan-bissegger,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 stefan-bissegger,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
-remi-cavagna,21.09,European Continental Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/european-continental-championships-mixed-relay-ttt/2023/startlist
 remi-cavagna,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 matteo-jorgenson,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 simon-carr,23.09,PETRONAS Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
@@ -24,9 +24,11 @@ simon-carr,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/
 romain-gregoire1,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 romain-gregoire1,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 leo-hayter,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
+hugo-page,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 hugo-page,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 samuel-watson,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 filippo-zana,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+filippo-zana,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 remco-evenepoel,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 remco-evenepoel,15.10,Chrono des Nations,https://www.procyclingstats.com/race/chrono-des-nations/2023/startlist
 mathieu-van-der-poel,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
@@ -37,30 +39,35 @@ gerben-thijssen,04.10,Visit Friesland Elfstedenrace,https://www.procyclingstats.
 quinn-simmons,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
 kaden-groves,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 ethan-vernon,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
-lilian-calmejane,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 lenny-martinez,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 lenny-martinez,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
+paul-penhoet,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 gleb-syritsa,23.09,PETRONAS Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 lennert-van-eetvelt,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 lennert-van-eetvelt,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 aleksandr-vlasov,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+aleksandr-vlasov,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 richard-carapaz,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+richard-carapaz,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 richard-carapaz,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 ben-o-connor,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 lennard-kamna,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+lennard-kamna,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 thibaut-pinot,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+thibaut-pinot,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 thibaut-pinot,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 davide-ballerini,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+quentin-pacher,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
+jason-tesson,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 ben-turner,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
-lorenzo-fortunato,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 lorenzo-fortunato,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
-connor-swift,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 connor-swift,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
 cees-bol,08.10,Presidential Cycling Tour of Türkiye,https://www.procyclingstats.com/race/tour-of-turkey/2023/startlist
 thymen-arensman,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 andrea-piccolo,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
 andrea-bagioli,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 giulio-ciccone,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+giulio-ciccone,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 giulio-ciccone,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 giulio-ciccone,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
 attila-valter,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
@@ -72,9 +79,10 @@ tadej-pogacar,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-
 tadej-pogacar,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 kasper-asgreen,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 ilan-van-wilder,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
+casper-van-uden,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 casper-van-uden,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 ethan-hayter,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
-benoit-cosnefroy,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
+benoit-cosnefroy,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 axel-zingle,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 axel-zingle,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 axel-zingle,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -86,18 +94,22 @@ axel-laurance,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-
 axel-laurance,05.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2023/startlist
 lewis-askey,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 lewis-askey,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
+pierre-gautherat,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 pierre-gautherat,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 pierre-gautherat,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 frederik-wandahl,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 jay-vine,08.10,Presidential Cycling Tour of Türkiye,https://www.procyclingstats.com/race/tour-of-turkey/2023/startlist
+sam-welsford,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 soren-waerenskjold,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 soren-waerenskjold,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 soren-waerenskjold,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 enric-mas,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+enric-mas,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 enric-mas,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 filippo-ganna,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 tiesj-benoot,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
-anthony-turgis,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
+tiesj-benoot,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
+anthony-turgis,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 anthony-turgis,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 anthony-turgis,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 michael-woods,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
@@ -116,18 +128,22 @@ juan-pedro-lopez,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/gir
 juan-pedro-lopez,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
 alberto-dainese,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 alberto-dainese,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
+stan-dewulf,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 stan-dewulf,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 stan-dewulf,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 felix-grossschartner,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 edvald-boasson-hagen,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+reuben-thompson,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 mathias-vacek,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 mathias-vacek,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 mathias-vacek,02.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2023/startlist
 mathias-vacek,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 harrison-wood,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 primoz-roglic,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+primoz-roglic,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 primoz-roglic,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 mark-cavendish,08.10,Presidential Cycling Tour of Türkiye,https://www.procyclingstats.com/race/tour-of-turkey/2023/startlist
+marc-sarreau,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 marc-sarreau,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 marc-sarreau,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 mikkel-bjerg,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
@@ -139,13 +155,12 @@ pierre-luc-perichon,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.
 dylan-van-baarle,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 dylan-van-baarle,08.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2023/startlist
 andreas-leknessund,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
-michal-kwiatkowski,21.09,European Continental Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/european-continental-championships-mixed-relay-ttt/2023/startlist
 michal-kwiatkowski,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 michal-kwiatkowski,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 nicola-conci,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 pascal-eenkhoorn,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
-niccolo-bonifazio,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 simone-velasco,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+simone-velasco,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 yves-lampaert,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 yves-lampaert,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 elia-viviani,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
@@ -155,7 +170,6 @@ kevin-geniets,08.10,Paris - Tours Elite,https://www.procyclingstats.com/race/par
 nelson-oliveira,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 dries-van-gestel,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 dries-van-gestel,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
-mauro-schmid,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 mauro-schmid,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 mauro-schmid,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 mauro-schmid,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
@@ -168,8 +182,10 @@ damien-touze,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/cir
 damien-touze,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 damien-touze,03.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,https://www.procyclingstats.com/race/memorial-frank-vandenbroucke/2023/startlist
 romain-bardet,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+romain-bardet,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 peter-sagan,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 mathieu-burgaudeau,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
+mathieu-burgaudeau,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 maxim-van-gils,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 maxim-van-gils,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
 fausto-masnada,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
@@ -181,6 +197,7 @@ matteo-moschetti,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race
 matteo-moschetti,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 mads-pedersen,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 mads-pedersen,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
+arne-marit,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 arne-marit,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 casper-pedersen,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 casper-pedersen,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -193,29 +210,26 @@ rasmus-tiller,24.09,European Continental Championships ME - Road Race,https://ww
 matis-louvel,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 matis-louvel,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 matis-louvel,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
-max-walscheid,21.09,European Continental Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/european-continental-championships-mixed-relay-ttt/2023/startlist
 max-walscheid,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 max-walscheid,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 edward-irl-dunbar,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
 tim-wellens,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 tim-wellens,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 simon-yates,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
-matevz-govekar,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
+simon-yates,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 matevz-govekar,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
 jarne-van-de-paar,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
-tobias-foss,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 guillaume-martin,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
 guillaume-martin,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
-louis-meintjes,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 florian-senechal,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 florian-senechal,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 florian-senechal,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
-benjamin-thomas-2,21.09,European Continental Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/european-continental-championships-mixed-relay-ttt/2023/startlist
 anthony-perez,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 stan-van-tricht,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 stan-van-tricht,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 stan-van-tricht,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 warren-barguil,30.09,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2023/startlist
+warren-barguil,03.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2023/startlist
 pascal-ackermann,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
 fran-miholjevic,22.09,European Continental Championships MU - Road Race,https://www.procyclingstats.com/race/european-championships/2023/startlist
 fran-miholjevic,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
@@ -224,9 +238,7 @@ tobias-lund-andresen,24.09,European Continental Championships ME - Road Race,htt
 alec-segaert,22.09,European Continental Championships MU - Road Race,https://www.procyclingstats.com/race/european-championships/2023/startlist
 alec-segaert,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 henri-vandenabeele,26.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2023/startlist
-rein-taaramae,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 rein-taaramae,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
-aleksey-lutsenko,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 aleksey-lutsenko,08.10,Presidential Cycling Tour of Türkiye,https://www.procyclingstats.com/race/tour-of-turkey/2023/startlist
 john-degenkolb,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 john-degenkolb,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
@@ -238,10 +250,11 @@ harm-vanhoucke,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/r
 guillaume-boivin,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
 embret-svestad-bardseng,23.09,PETRONAS Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2023/startlist
 hugo-hofstetter,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
+thomas-boudat,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 thomas-boudat,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 thomas-champion,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 thomas-champion,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
-harold-tejada,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
+enzo-paleni,24.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2023/startlist
 harold-tejada,07.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2023/startlist
 christophe-laporte,24.09,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2023/startlist
 christophe-laporte,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2023/startlist
@@ -256,6 +269,5 @@ david-dekker,01.10,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com
 david-dekker,12.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2023/startlist
 bastien-tronchon,01.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2023/startlist
 louis-vervaeke,28.09,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2023/startlist
-martin-svrcek,22.09,Adriatica Ionica Race / Sulle Rotte della Serenissima,https://www.procyclingstats.com/race/adriatica-ionica-race/2023/startlist
 martin-svrcek,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2023/startlist
 martin-svrcek,15.10,Japan Cup Cycle Road Race,https://www.procyclingstats.com/race/japan-cup/2023/startlist
