@@ -1,6 +1,10 @@
 coureur_id,date_course,nom_course,url_course
 wout-van-aert,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2024/startlist
 wout-van-aert,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
+wout-van-aert,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
+julian-alaphilippe,02.03,Strade Bianche,https://www.procyclingstats.com/race/strade-bianche/2024/startlist
+julian-alaphilippe,16.03,Milano-Sanremo,https://www.procyclingstats.com/race/milano-sanremo/2024/startlist
+julian-alaphilippe,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2024/startlist
 mathieu-van-der-poel,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2024/startlist
 thomas-pidcock,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
 mattias-skjelmose-jensen,14.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2024/startlist
@@ -20,6 +24,8 @@ filippo-ganna,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-it
 cian-uijtdebroeks,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 primoz-roglic,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
 mark-cavendish,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+wout-poels,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
+wout-poels,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
 caleb-ewan,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 jasper-philipsen,16.03,Milano-Sanremo,https://www.procyclingstats.com/race/milano-sanremo/2024/startlist
 jasper-philipsen,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
@@ -27,4 +33,7 @@ jasper-philipsen,29.06,Tour de France,https://www.procyclingstats.com/race/tour-
 matej-mohoric,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2024/startlist
 matej-mohoric,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
 matej-mohoric,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+guillaume-martin,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+guillaume-martin,17.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2024/startlist
 louis-meintjes,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+bryan-coquard,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
