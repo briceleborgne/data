@@ -15,11 +15,17 @@ arnaud-de-lie,10.02,"Vuelta Ciclista a la Region de Murcia ""Costa Calida""",htt
 arnaud-de-lie,11.02,Clasica de Almeria,https://www.procyclingstats.com/race/clasica-de-almeria/2024/startlist
 arnaud-de-lie,24.02,Omloop Nieuwsblad ME,https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2024/startlist
 arnaud-de-lie,27.02,Le Samyn,https://www.procyclingstats.com/race/gp-samyn/2024/startlist
+arnaud-de-lie,03.03,Paris - Nice,https://www.procyclingstats.com/race/paris-nice/2024/startlist
+arnaud-de-lie,16.03,Milano-Sanremo,https://www.procyclingstats.com/race/milano-sanremo/2024/startlist
+arnaud-de-lie,22.03,E3 Saxo Classic,https://www.procyclingstats.com/race/e3-harelbeke/2024/startlist
 arnaud-de-lie,24.03,Gent-Wevelgem in Flanders Fields ME,https://www.procyclingstats.com/race/gent-wevelgem/2024/startlist
 arnaud-de-lie,27.03,Dwars door Vlaanderen - A travers la Flandre ME,https://www.procyclingstats.com/race/dwars-door-vlaanderen/2024/startlist
-arnaud-de-lie,10.04,De Brabantse Pijl - La Flèche Brabançonne ME,https://www.procyclingstats.com/race/brabantse-pijl/2024/startlist
-arnaud-de-lie,14.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2024/startlist
+arnaud-de-lie,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2024/startlist
+arnaud-de-lie,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
 arnaud-de-lie,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2024/startlist
+arnaud-de-lie,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+arnaud-de-lie,13.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2024/startlist
+arnaud-de-lie,15.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2024/startlist
 julian-alaphilippe,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 julian-alaphilippe,02.03,Strade Bianche,https://www.procyclingstats.com/race/strade-bianche/2024/startlist
 julian-alaphilippe,16.03,Milano-Sanremo,https://www.procyclingstats.com/race/milano-sanremo/2024/startlist
@@ -35,7 +41,6 @@ stefan-bissegger,14.02,Volta ao Algarve em Bicicleta,https://www.procyclingstats
 stefan-bissegger,24.02,Omloop Nieuwsblad ME,https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2024/startlist
 stefan-bissegger,03.03,Paris - Nice,https://www.procyclingstats.com/race/paris-nice/2024/startlist
 stefan-bissegger,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
-luke-plapp,04.01,National Championships Australia ME - ITT,https://www.procyclingstats.com/race/australian-open-road-championships-itt/2024/startlist
 luke-plapp,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 luke-plapp,28.01,Cadel Evans Great Ocean Road Race,https://www.procyclingstats.com/race/great-ocean-race/2024/startlist
 luke-plapp,19.02,UAE Tour,https://www.procyclingstats.com/race/uae-tour/2024/startlist
@@ -54,8 +59,11 @@ remi-cavagna,02.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/
 remi-cavagna,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
 tao-geoghegan-hart,14.02,Volta ao Algarve em Bicicleta,https://www.procyclingstats.com/race/volta-ao-algarve/2024/startlist
 tao-geoghegan-hart,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+matteo-jorgenson,24.02,Omloop Nieuwsblad ME,https://www.procyclingstats.com/race/omloop-het-nieuwsblad/2024/startlist
+matteo-jorgenson,25.02,Kuurne - Brussel - Kuurne,https://www.procyclingstats.com/race/kuurne-brussel-kuurne/2024/startlist
 matteo-jorgenson,03.03,Paris - Nice,https://www.procyclingstats.com/race/paris-nice/2024/startlist
 matteo-jorgenson,22.03,E3 Saxo Classic,https://www.procyclingstats.com/race/e3-harelbeke/2024/startlist
+matteo-jorgenson,27.03,Dwars door Vlaanderen - A travers la Flandre ME,https://www.procyclingstats.com/race/dwars-door-vlaanderen/2024/startlist
 matteo-jorgenson,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2024/startlist
 matteo-jorgenson,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
 matteo-jorgenson,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
@@ -118,6 +126,8 @@ jonathan-milan,31.03,Ronde van Vlaanderen - Tour des Flandres ME,https://www.pro
 jonathan-milan,07.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2024/startlist
 jonathan-milan,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 oscar-onley,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
+gleb-syritsa,20.01,Clàssica Comunitat Valenciana 1969 - Gran Premi València,https://www.procyclingstats.com/race/gp-de-valence/2024/startlist
+gleb-syritsa,30.01,AlUla Tour,https://www.procyclingstats.com/race/alula-tour/2024/startlist
 marijn-van-den-berg,24.01,Trofeo Calvià,https://www.procyclingstats.com/race/trofeo-calvia/2024/startlist
 marijn-van-den-berg,26.01,Trofeo Serra Tramuntana,https://www.procyclingstats.com/race/deia-trophy/2024/startlist
 marijn-van-den-berg,27.01,Trofeo Pollença - Port d'Andratx,https://www.procyclingstats.com/race/trofeo-cala-millor/2024/startlist
@@ -187,6 +197,11 @@ pavel-sivakov,31.01,Volta a la Comunitat Valenciana,https://www.procyclingstats.
 pavel-sivakov,03.03,Paris - Nice,https://www.procyclingstats.com/race/paris-nice/2024/startlist
 pavel-sivakov,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
 kevin-vauquelin,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+axel-laurance,28.01,Grand Prix Cycliste de Marseille La Marseillaise,https://www.procyclingstats.com/race/gp-d-ouverture/2024/startlist
+axel-laurance,31.01,Etoile de Bessèges - Tour du Gard,https://www.procyclingstats.com/race/etoile-de-besseges/2024/startlist
+axel-laurance,14.02,Vuelta a Andalucia Ruta Ciclista Del Sol,https://www.procyclingstats.com/race/ruta-del-sol/2024/startlist
+axel-laurance,16.03,Milano-Sanremo,https://www.procyclingstats.com/race/milano-sanremo/2024/startlist
+axel-laurance,18.03,Volta Ciclista a Catalunya,https://www.procyclingstats.com/race/volta-a-catalunya/2024/startlist
 edoardo-zambanini,08.05,Tour de Hongrie,https://www.procyclingstats.com/race/tour-de-hongrie/2024/startlist
 jay-vine,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 jay-vine,17.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2024/startlist
@@ -218,8 +233,11 @@ michael-woods,17.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-
 michael-woods,21.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2024/startlist
 michael-woods,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 jhonatan-narvaez,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
+olav-kooij,11.02,Clasica de Almeria,https://www.procyclingstats.com/race/clasica-de-almeria/2024/startlist
 olav-kooij,19.02,UAE Tour,https://www.procyclingstats.com/race/uae-tour/2024/startlist
 olav-kooij,03.03,Paris - Nice,https://www.procyclingstats.com/race/paris-nice/2024/startlist
+olav-kooij,16.03,Milano-Sanremo,https://www.procyclingstats.com/race/milano-sanremo/2024/startlist
+olav-kooij,24.03,Gent-Wevelgem in Flanders Fields ME,https://www.procyclingstats.com/race/gent-wevelgem/2024/startlist
 olav-kooij,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 cian-uijtdebroeks,22.02,O Gran Camiño - The Historical Route,https://www.procyclingstats.com/race/gran-camino/2024/startlist
 cian-uijtdebroeks,04.03,Tirreno-Adriatico,https://www.procyclingstats.com/race/tirreno-adriatico/2024/startlist
@@ -235,6 +253,9 @@ juan-pedro-lopez,16.01,Santos Tour Down Under,https://www.procyclingstats.com/ra
 juan-pedro-lopez,19.02,UAE Tour,https://www.procyclingstats.com/race/uae-tour/2024/startlist
 juan-pedro-lopez,15.04,Tour of the Alps,https://www.procyclingstats.com/race/tour-of-the-alps/2024/startlist
 juan-pedro-lopez,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
+alberto-dainese,25.01,Trofeo Ses Salines-Felanitx,https://www.procyclingstats.com/race/trofeo-andratx-mirador-d-es-colomer/2024/startlist
+alberto-dainese,28.01,Trofeo Palma,https://www.procyclingstats.com/race/trofeo-palma/2024/startlist
+alberto-dainese,11.02,Clasica de Almeria,https://www.procyclingstats.com/race/clasica-de-almeria/2024/startlist
 felix-grossschartner,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 reuben-thompson,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 mathias-vacek,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
@@ -259,7 +280,6 @@ mark-cavendish,13.03,Milano - Torino,https://www.procyclingstats.com/race/milano
 mark-cavendish,20.03,Classic Brugge-De Panne,https://www.procyclingstats.com/race/oxyclean-classic-brugge-de-panne/2024/startlist
 mark-cavendish,03.04,Scheldeprijs,https://www.procyclingstats.com/race/scheldeprijs/2024/startlist
 mark-cavendish,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
-michael-storer,04.01,National Championships Australia ME - ITT,https://www.procyclingstats.com/race/australian-open-road-championships-itt/2024/startlist
 michael-storer,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 mikkel-bjerg,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 christopher-froome,18.02,Tour du Rwanda,https://www.procyclingstats.com/race/tour-of-rwanda/2024/startlist
@@ -277,6 +297,8 @@ tobias-halland-johannessen,02.03,Strade Bianche,https://www.procyclingstats.com/
 nicola-conci,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 natnael-tesfatsion,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 franck-bonnamour,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
+anthon-charmig,09.02,Muscat Classic,https://www.procyclingstats.com/race/muscat-classic/2024/startlist
+anthon-charmig,10.02,Tour of Oman,https://www.procyclingstats.com/race/tour-of-oman/2024/startlist
 oier-lazkano,21.01,Ruta de la Cerámica - Gran Premio Castellón,https://www.procyclingstats.com/race/ruta-de-la-ceramica-gran-premio-castellon/2024/startlist
 oier-lazkano,24.01,Trofeo Calvià,https://www.procyclingstats.com/race/trofeo-calvia/2024/startlist
 oier-lazkano,25.01,Trofeo Ses Salines-Felanitx,https://www.procyclingstats.com/race/trofeo-andratx-mirador-d-es-colomer/2024/startlist
@@ -303,6 +325,7 @@ phil-bauhaus,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/t
 phil-bauhaus,19.02,UAE Tour,https://www.procyclingstats.com/race/uae-tour/2024/startlist
 phil-bauhaus,04.03,Tirreno-Adriatico,https://www.procyclingstats.com/race/tirreno-adriatico/2024/startlist
 phil-bauhaus,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+jan-tratnik,04.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2024/startlist
 jan-tratnik,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
 elia-viviani,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 elia-viviani,28.01,Cadel Evans Great Ocean Road Race,https://www.procyclingstats.com/race/great-ocean-race/2024/startlist
@@ -438,6 +461,19 @@ bryan-coquard,21.01,Ruta de la Cerámica - Gran Premio Castellón,https://www.pr
 bryan-coquard,30.01,AlUla Tour,https://www.procyclingstats.com/race/alula-tour/2024/startlist
 bryan-coquard,04.03,Tirreno-Adriatico,https://www.procyclingstats.com/race/tirreno-adriatico/2024/startlist
 bryan-coquard,29.06,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2024/startlist
+jon-aberasturi,20.01,Clàssica Comunitat Valenciana 1969 - Gran Premi València,https://www.procyclingstats.com/race/gp-de-valence/2024/startlist
+jon-aberasturi,21.01,Ruta de la Cerámica - Gran Premio Castellón,https://www.procyclingstats.com/race/ruta-de-la-ceramica-gran-premio-castellon/2024/startlist
+jon-aberasturi,25.01,Trofeo Ses Salines-Felanitx,https://www.procyclingstats.com/race/trofeo-andratx-mirador-d-es-colomer/2024/startlist
+jon-aberasturi,28.01,Trofeo Palma,https://www.procyclingstats.com/race/trofeo-palma/2024/startlist
+jon-aberasturi,31.01,Volta a la Comunitat Valenciana,https://www.procyclingstats.com/race/vuelta-a-la-comunidad-valenciana/2024/startlist
+jon-aberasturi,10.02,"Vuelta Ciclista a la Region de Murcia ""Costa Calida""",https://www.procyclingstats.com/race/vuelta-ciclista-a-la-region-de-murcia/2024/startlist
+jon-aberasturi,11.02,Clasica de Almeria,https://www.procyclingstats.com/race/clasica-de-almeria/2024/startlist
+jon-aberasturi,02.03,Grand Prix Criquielion,https://www.procyclingstats.com/race/grand-prix-criquielion/2024/startlist
+jon-aberasturi,03.03,Grote prijs Jean - Pierre Monseré,https://www.procyclingstats.com/race/grote-prijs-jean-pierre-monsere/2024/startlist
+jon-aberasturi,13.03,Danilith Nokere Koerse,https://www.procyclingstats.com/race/nokere-koers/2024/startlist
+jon-aberasturi,14.03,Grand Prix de Denain - Porte du Hainaut,https://www.procyclingstats.com/race/gp-de-denain/2024/startlist
+jon-aberasturi,16.03,Classic Loire Atlantique,https://www.procyclingstats.com/race/classic-loire-atlantique/2024/startlist
+jon-aberasturi,17.03,Cholet Agglo Tour,https://www.procyclingstats.com/race/cholet-pays-de-loire/2024/startlist
 bastien-tronchon,16.01,Santos Tour Down Under,https://www.procyclingstats.com/race/tour-down-under/2024/startlist
 martin-svrcek,30.01,AlUla Tour,https://www.procyclingstats.com/race/alula-tour/2024/startlist
 martin-svrcek,19.03,Settimana Internazionale Coppi e Bartali,https://www.procyclingstats.com/race/settimana-internazionale-coppi-e-bartali/2024/startlist
