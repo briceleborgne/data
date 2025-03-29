@@ -13,7 +13,6 @@ alan-hatherly,15.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-
 matthew-riccitello,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 egan-bernal,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
 egan-bernal,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-jelte-krijnsen,30.03,Gent-Wevelgem in Flanders Fields ME,https://www.procyclingstats.com/race/gent-wevelgem/2025/startlist
 jelte-krijnsen,02.04,Dwars door Vlaanderen - A travers la Flandre ME,https://www.procyclingstats.com/race/dwars-door-vlaanderen/2025/startlist
 jelte-krijnsen,13.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2025/startlist
 jakob-fuglsang,21.04,Tour of the Alps,https://www.procyclingstats.com/race/tour-of-the-alps/2025/startlist
@@ -83,6 +82,7 @@ francisco-galván,04.05,Lotto Famenne Ardenne Classic,https://www.procyclingstat
 francesco-busatto,30.03,La Roue Tourangelle Centre Val de Loire - Groupama P.V.L.,https://www.procyclingstats.com/race/la-roue-tourangelle/2025/startlist
 francesco-busatto,02.04,Paris - Camembert,https://www.procyclingstats.com/race/paris-camembert/2025/startlist
 francesco-busatto,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
+davide-bomboi,30.03,La Roue Tourangelle Centre Val de Loire - Groupama P.V.L.,https://www.procyclingstats.com/race/la-roue-tourangelle/2025/startlist
 davide-bomboi,09.04,Scheldeprijs ME,https://www.procyclingstats.com/race/scheldeprijs/2025/startlist
 davide-bomboi,13.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2025/startlist
 davide-bomboi,16.04,Ronde van Limburg,https://www.procyclingstats.com/race/ronde-van-limburg/2025/startlist
@@ -130,6 +130,7 @@ victor-lafay,07.04,Itzulia Basque Country,https://www.procyclingstats.com/race/i
 victor-lafay,23.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2025/startlist
 victor-lafay,27.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2025/startlist
 valentin-paret-peintre,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
+valentin-madouas,30.03,Gent-Wevelgem in Flanders Fields ME,https://www.procyclingstats.com/race/gent-wevelgem/2025/startlist
 valentin-madouas,02.04,Dwars door Vlaanderen - A travers la Flandre ME,https://www.procyclingstats.com/race/dwars-door-vlaanderen/2025/startlist
 valentin-madouas,06.04,Ronde van Vlaanderen ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2025/startlist
 valentin-madouas,20.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2025/startlist
@@ -374,6 +375,7 @@ matej-mohoric,30.03,Gent-Wevelgem in Flanders Fields ME,https://www.procyclingst
 matej-mohoric,06.04,Ronde van Vlaanderen ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2025/startlist
 matej-mohoric,13.04,Paris-Roubaix,https://www.procyclingstats.com/race/paris-roubaix/2025/startlist
 matej-mohoric,20.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2025/startlist
+matej-mohoric,08.05,Boucles de l'Aulne - Châteaulin,https://www.procyclingstats.com/race/boucles-de-l-aulne/2025/startlist
 marijn-van-den-berg,08.04,Région Pays de la Loire Tour,https://www.procyclingstats.com/race/region-pays-de-la-loire/2025/startlist
 marijn-van-den-berg,18.04,De Brabantse Pijl - La Flèche Brabançonne ME,https://www.procyclingstats.com/race/brabantse-pijl/2025/startlist
 marijn-van-den-berg,20.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-gold-race/2025/startlist
@@ -411,7 +413,6 @@ louis-barre,20.04,Amstel Gold Race,https://www.procyclingstats.com/race/amstel-g
 louis-barre,23.04,La Flèche Wallonne,https://www.procyclingstats.com/race/la-fleche-wallone/2025/startlist
 louis-barre,27.04,Liège-Bastogne-Liège,https://www.procyclingstats.com/race/liege-bastogne-liege/2025/startlist
 louis-barre,29.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2025/startlist
-lewis-askey,30.03,Gent-Wevelgem in Flanders Fields ME,https://www.procyclingstats.com/race/gent-wevelgem/2025/startlist
 lewis-askey,02.04,Dwars door Vlaanderen - A travers la Flandre ME,https://www.procyclingstats.com/race/dwars-door-vlaanderen/2025/startlist
 lewis-askey,06.04,Ronde van Vlaanderen ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2025/startlist
 leo-bisiaux,02.04,Paris - Camembert,https://www.procyclingstats.com/race/paris-camembert/2025/startlist
@@ -703,6 +704,7 @@ axel-laurance,07.04,Itzulia Basque Country,https://www.procyclingstats.com/race/
 aurelien-paret-peintre,06.04,Ronde van Vlaanderen ME,https://www.procyclingstats.com/race/ronde-van-vlaanderen/2025/startlist
 aurelien-paret-peintre,29.04,Tour de Romandie,https://www.procyclingstats.com/race/tour-de-romandie/2025/startlist
 aurelien-paret-peintre,08.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2025/startlist
+arne-marit,30.03,La Roue Tourangelle Centre Val de Loire - Groupama P.V.L.,https://www.procyclingstats.com/race/la-roue-tourangelle/2025/startlist
 arne-marit,02.04,Dwars door Vlaanderen - A travers la Flandre ME,https://www.procyclingstats.com/race/dwars-door-vlaanderen/2025/startlist
 arne-marit,09.04,Scheldeprijs ME,https://www.procyclingstats.com/race/scheldeprijs/2025/startlist
 arne-marit,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
