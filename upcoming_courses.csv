@@ -1,5 +1,7 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
+per-strand-hagenes,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
+per-strand-hagenes,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https://www.procyclingstats.com/race/4-jours-de-dunkerque/2025/startlist
 per-strand-hagenes,29.05,Tour of Norway,https://www.procyclingstats.com/race/tour-of-norway/2025/startlist
 alan-hatherly,15.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-suisse/2025/startlist
 matthew-riccitello,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
@@ -431,6 +433,7 @@ bryan-coquard,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https:
 bryan-coquard,29.05,Boucles de la Mayenne - Crédit Mutuel,https://www.procyclingstats.com/race/boucles-de-la-mayenne/2025/startlist
 brandon-mcnulty,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
 biniam-girmay,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
+biniam-girmay,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
 biniam-girmay,18.05,Rund um Köln,https://www.procyclingstats.com/race/rund-um-koln/2025/startlist
 biniam-girmay,29.05,Boucles de la Mayenne - Crédit Mutuel,https://www.procyclingstats.com/race/boucles-de-la-mayenne/2025/startlist
 biniam-girmay,09.06,Antwerp Port Epic / Sels Trophy,https://www.procyclingstats.com/race/antwerp-port-epic/2025/startlist
@@ -488,6 +491,7 @@ alec-segaert,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/g
 alec-segaert,11.05,Tro-Bro Léon,https://www.procyclingstats.com/race/tro-bro-leon/2025/startlist
 alec-segaert,07.06,Heylen Vastgoed Heistse Pijl,https://www.procyclingstats.com/race/heist-op-den-berg/2025/startlist
 alberto-dainese,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
+alberto-dainese,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https://www.procyclingstats.com/race/4-jours-de-dunkerque/2025/startlist
 adam-yates,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
 adam-yates,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
 aaron-gate,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
