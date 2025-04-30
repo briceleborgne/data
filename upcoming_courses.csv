@@ -20,7 +20,6 @@ lukáš-kubiš,11.05,Tro-Bro Léon,https://www.procyclingstats.com/race/tro-bro-
 lukáš-kubiš,07.06,Heylen Vastgoed Heistse Pijl,https://www.procyclingstats.com/race/heist-op-den-berg/2025/startlist
 lukáš-kubiš,09.06,Antwerp Port Epic / Sels Trophy,https://www.procyclingstats.com/race/antwerp-port-epic/2025/startlist
 jasper-stuyven,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
-pelayo-sanchez-mayo,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 ivan-garcia-cortina,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 ivan-garcia-cortina,08.05,Boucles de l'Aulne - Châteaulin,https://www.procyclingstats.com/race/boucles-de-l-aulne/2025/startlist
 ivan-garcia-cortina,09.05,Tour du Finistère Pays de Quimper,https://www.procyclingstats.com/race/tour-du-finistere/2025/startlist
@@ -46,7 +45,6 @@ stian-fredheim,09.06,Antwerp Port Epic / Sels Trophy,https://www.procyclingstats
 igor-arrieta-lizarraga,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
 igor-arrieta-lizarraga,25.07,Prueba Villafranca - Ordiziako Klasika,https://www.procyclingstats.com/race/prueba-villafranca/2025/startlist
 igor-arrieta-lizarraga,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
-carlos-canal,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 carlos-canal,08.05,Boucles de l'Aulne - Châteaulin,https://www.procyclingstats.com/race/boucles-de-l-aulne/2025/startlist
 carlos-canal,09.05,Tour du Finistère Pays de Quimper,https://www.procyclingstats.com/race/tour-du-finistere/2025/startlist
 carlos-canal,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
@@ -74,14 +72,15 @@ alberto-bruttomesso,08.05,Boucles de l'Aulne - Châteaulin,https://www.procyclin
 alberto-bruttomesso,09.05,Tour du Finistère Pays de Quimper,https://www.procyclingstats.com/race/tour-du-finistere/2025/startlist
 alberto-bruttomesso,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
 giosuè-epis,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
+giosuè-epis,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https://www.procyclingstats.com/race/4-jours-de-dunkerque/2025/startlist
 christian-scaroni,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
+jon-barrenetxea-golzarri,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 pablo-castrillo-zapater,15.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-suisse/2025/startlist
 pablo-castrillo-zapater,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
 filippo-magli2,09.06,Antwerp Port Epic / Sels Trophy,https://www.procyclingstats.com/race/antwerp-port-epic/2025/startlist
 michael-valgren-andersen,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 yves-lampaert,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
 yves-lampaert,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https://www.procyclingstats.com/race/4-jours-de-dunkerque/2025/startlist
-yevgeniy-fedorov,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 yevgeniy-fedorov,04.05,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2025/startlist
 yevgeniy-fedorov,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
 yevgeniy-fedorov,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
@@ -109,6 +108,7 @@ tobias-lund-andresen,22.06,Copenhagen Sprint,https://www.procyclingstats.com/rac
 tobias-lund-andresen,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
 tobias-foss,15.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-suisse/2025/startlist
 tobias-foss,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
+timo-kielich,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 timo-kielich,07.06,Heylen Vastgoed Heistse Pijl,https://www.procyclingstats.com/race/heist-op-den-berg/2025/startlist
 tim-torn-teutenberg,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 tim-torn-teutenberg,14.05,Tour de Hongrie,https://www.procyclingstats.com/race/tour-de-hongrie/2025/startlist
@@ -133,6 +133,7 @@ steffen-de-schuyteneer,07.06,Heylen Vastgoed Heistse Pijl,https://www.procycling
 steffen-de-schuyteneer,09.06,Antwerp Port Epic / Sels Trophy,https://www.procyclingstats.com/race/antwerp-port-epic/2025/startlist
 stefan-bissegger,15.06,Tour de Suisse,https://www.procyclingstats.com/race/tour-de-suisse/2025/startlist
 soren-waerenskjold,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
+sjoerd-bax,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 sjoerd-bax,04.05,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2025/startlist
 sjoerd-bax,09.05,Tour du Finistère Pays de Quimper,https://www.procyclingstats.com/race/tour-du-finistere/2025/startlist
 sjoerd-bax,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
@@ -199,6 +200,7 @@ nils-politt,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschbo
 nils-politt,18.05,Rund um Köln,https://www.procyclingstats.com/race/rund-um-koln/2025/startlist
 nils-politt,08.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2025/startlist
 nils-politt,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
+niklas-behrens,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https://www.procyclingstats.com/race/4-jours-de-dunkerque/2025/startlist
 niklas-behrens,04.06,Tour of Slovenia,https://www.procyclingstats.com/race/tour-of-slovenia/2025/startlist
 neilson-powless,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 nairo-quintana,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
@@ -236,7 +238,6 @@ matis-louvel,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://
 matis-louvel,14.05,4 Jours de Dunkerque / Grand Prix des Hauts de France,https://www.procyclingstats.com/race/4-jours-de-dunkerque/2025/startlist
 mathieu-van-der-poel,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
 mathias-vacek,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
-matevz-govekar,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 matevz-govekar,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
 matej-mohoric,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 matej-mohoric,08.05,Boucles de l'Aulne - Châteaulin,https://www.procyclingstats.com/race/boucles-de-l-aulne/2025/startlist
@@ -262,7 +263,6 @@ lennert-van-eetvelt,05.07,Tour de France,https://www.procyclingstats.com/race/to
 lennert-van-eetvelt,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 lennard-kamna,09.07,Tour of Austria,https://www.procyclingstats.com/race/tour-of-austria/2025/startlist
 lars-boven,07.06,Heylen Vastgoed Heistse Pijl,https://www.procyclingstats.com/race/heist-op-den-berg/2025/startlist
-kobe-goossens,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 kobe-goossens,09.05,Giro d'Italia,https://www.procyclingstats.com/race/giro-d-italia/2025/startlist
 kobe-goossens,05.07,Tour de France,https://www.procyclingstats.com/race/tour-de-france/2025/startlist
 kobe-goossens,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
@@ -412,6 +412,7 @@ bastien-tronchon,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/ra
 axel-laurance,29.05,Tour of Norway,https://www.procyclingstats.com/race/tour-of-norway/2025/startlist
 axel-laurance,08.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2025/startlist
 aurelien-paret-peintre,08.06,Critérium du Dauphiné,https://www.procyclingstats.com/race/dauphine/2025/startlist
+arne-marit,01.05,Eschborn-Frankfurt,https://www.procyclingstats.com/race/eschborn-frankfurt/2025/startlist
 arne-marit,04.05,Lotto Famenne Ardenne Classic,https://www.procyclingstats.com/race/famenne-ardenne-classic/2025/startlist
 arne-marit,10.05,Grand Prix du Morbihan,https://www.procyclingstats.com/race/gp-de-plumelec/2025/startlist
 arne-marit,13.05,Classique Dunkerque / Grand prix des Hauts de France,https://www.procyclingstats.com/race/Classique-Dunkerque/2025/startlist
