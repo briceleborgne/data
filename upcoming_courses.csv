@@ -1,6 +1,7 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2025/startlist
 matthew-riccitello,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
+egan-bernal,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 egan-bernal,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 jelte-krijnsen,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2025/startlist
 jakob-fuglsang,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
@@ -34,6 +35,10 @@ robin-orins,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/t
 richard-carapaz,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 remi-cavagna,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 remco-evenepoel,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
+remco-evenepoel,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
+remco-evenepoel,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+remco-evenepoel,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
+remco-evenepoel,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 rasmus-tiller,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2025/startlist
 quinten-hermans,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 paul-seixas,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
@@ -46,6 +51,16 @@ paul-magnier,14.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tou
 nairo-quintana,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 milan-menten,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2025/startlist
 milan-fretin,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2025/startlist
+milan-fretin,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
+milan-fretin,17.08,ADAC Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
+milan-fretin,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
+milan-fretin,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+milan-fretin,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
+milan-fretin,21.09,Gooikse Pijl,https://www.procyclingstats.com/race/gooikse-pijl/2025/startlist
+milan-fretin,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
+milan-fretin,28.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2025/startlist
+milan-fretin,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
+milan-fretin,07.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,https://www.procyclingstats.com/race/memorial-frank-vandenbroucke/2025/startlist
 michal-kwiatkowski,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 michal-kwiatkowski,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 michal-kwiatkowski,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
@@ -117,6 +132,9 @@ edward-irl-dunbar,28.09,World Championships ME - Road Race,https://www.procyclin
 eddy-le-huitouze,26.07,Ethias-Tour de Wallonie,https://www.procyclingstats.com/race/tour-de-wallonie/2025/startlist
 dylan-van-baarle,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 dylan-van-baarle,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
+dries-de-bondt,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
+dries-de-bondt,17.08,ADAC Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
+dries-de-bondt,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 dorian-godon,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 dorian-godon,19.08,Tour du Limousin-Périgord - Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-limousin/2025/startlist
 dorian-godon,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
