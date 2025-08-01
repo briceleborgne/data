@@ -1,10 +1,12 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 alan-hatherly,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
+matthew-riccitello,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 matthew-riccitello,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 egan-bernal,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 egan-bernal,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 gil-gelders,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
+gil-gelders,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 jelte-krijnsen,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 jelte-krijnsen,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 jakob-fuglsang,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
@@ -12,6 +14,7 @@ jordan-jegat,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-
 lukáš-kubiš,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 lukáš-kubiš,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
 tom-donnenwirth,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
+toms-skujins,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 toms-skujins,03.08,Circuito de Getxo - Memorial Hermanos Otxoa,https://www.procyclingstats.com/race/circuito-de-getxo/2025/startlist
 sam-bennett,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 emil-herzog,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
@@ -35,6 +38,7 @@ christian-scaroni,07.08,Arctic Race of Norway,https://www.procyclingstats.com/ra
 jon-barrenetxea-golzarri,03.08,Circuito de Getxo - Memorial Hermanos Otxoa,https://www.procyclingstats.com/race/circuito-de-getxo/2025/startlist
 jon-barrenetxea-golzarri,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 pablo-castrillo-zapater,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
+yves-lampaert,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 wout-van-aert,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 wout-van-aert,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 wout-van-aert,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -50,7 +54,6 @@ tijmen-graat,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-
 tibor-del-grosso,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 thomas-pidcock,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 thomas-pidcock,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-tao-geoghegan-hart,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 tao-geoghegan-hart,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 tadej-pogacar,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 tadej-pogacar,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -67,9 +70,10 @@ remco-evenepoel,01.10,European Continental Championships ME - ITT,https://www.pr
 remco-evenepoel,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 quinten-hermans,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 quinten-hermans,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
+primoz-roglic,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 pierre-gautherat,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
+pier-andre-cote,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 pello-bilbao,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
-pavel-sivakov,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 paul-seixas,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
 paul-seixas,23.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2025/startlist
 paul-seixas,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
@@ -105,7 +109,6 @@ maxim-van-gils,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats
 max-poole,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 max-poole,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 mauro-schmid,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
-mattias-skjelmose-jensen,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 matthew-brennan,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 matteo-jorgenson,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 mathias-vacek,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
@@ -121,15 +124,17 @@ matej-mohoric,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.
 matej-mohoric,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 matej-mohoric,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 marijn-van-den-berg,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
+magnus-sheffield,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 magnus-cort-nielsen,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 mads-wurtz-schmidt,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 mads-pedersen,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 mads-pedersen,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 luke-plapp,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 luke-lamperti,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
+luke-lamperti,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 lukas-nerurkar,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
+lucas-hamilton,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 louis-meintjes,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
-louis-barre,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 louis-barre,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 louis-barre,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 leo-bisiaux,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
@@ -197,6 +202,7 @@ edward-irl-dunbar,28.09,World Championships ME - Road Race,https://www.procyclin
 eddy-le-huitouze,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 dylan-van-baarle,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 dylan-van-baarle,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
+dries-van-gestel,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 dries-de-bondt,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 dries-de-bondt,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 dries-de-bondt,17.08,ADAC Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
@@ -219,6 +225,7 @@ brieuc-rolland,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.co
 biniam-girmay,17.08,ADAC Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 biniam-girmay,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 biniam-girmay,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
+ben-turner,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 ben-healy,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 axel-laurance,17.08,ADAC Cyclassics,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 axel-laurance,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
@@ -240,8 +247,6 @@ andreas-kron,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.c
 andreas-kron,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 alex-aranburu,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 alex-aranburu,03.08,Circuito de Getxo - Memorial Hermanos Otxoa,https://www.procyclingstats.com/race/circuito-de-getxo/2025/startlist
-aleksandr-vlasov,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 aleksandr-vlasov,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-albert-withen-philipsen,02.08,Donostia San Sebastian Klasikoa,https://www.procyclingstats.com/race/san-sebastian/2025/startlist
 albert-withen-philipsen,03.08,Circuito de Getxo - Memorial Hermanos Otxoa,https://www.procyclingstats.com/race/circuito-de-getxo/2025/startlist
 albert-withen-philipsen,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
