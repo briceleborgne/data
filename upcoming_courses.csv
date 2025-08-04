@@ -22,18 +22,15 @@ carlos-canal,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/
 darren-van-bekkum,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 francesco-busatto,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 mathys-rondel,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
-alberto-bruttomesso,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 giosuè-epis,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 gianmarco-garofoli,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 lorenzo-germani,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
-junior-lecerf,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 christian-scaroni,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 jon-barrenetxea-golzarri,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 yves-lampaert,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 wout-van-aert,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 wout-van-aert,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 wout-van-aert,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
-victor-lafay,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 valentin-paret-peintre,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 valentin-madouas,17.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2025/startlist
 tobias-lund-andresen,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
@@ -45,6 +42,7 @@ tim-van-dijke,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de
 tim-van-dijke,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 tim-torn-teutenberg,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 tim-torn-teutenberg,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
+tim-merlier,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 tijmen-graat,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
 thomas-pidcock,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 thomas-pidcock,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
@@ -53,6 +51,7 @@ tadej-pogacar,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.c
 tadej-pogacar,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 tadej-pogacar,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 steff-cras,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
+sjoerd-bax,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 richard-carapaz,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 remi-cavagna,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 remi-cavagna,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
@@ -71,6 +70,8 @@ paul-seixas,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/
 paul-seixas,14.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 paul-magnier,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 paul-magnier,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
+paul-magnier,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
+paul-magnier,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 paul-magnier,14.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 paul-lapeira,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 olav-kooij,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
@@ -126,7 +127,6 @@ louis-barre,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.c
 leo-bisiaux,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 leo-bisiaux,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 lennert-van-eetvelt,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-lennard-kamna,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 lars-boven,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
 kobe-goossens,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 kobe-goossens,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -219,7 +219,9 @@ antonio-tiberi,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-d
 antonio-tiberi,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 antonio-morgado,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 anthony-perez,04.08,Tour de Pologne,https://www.procyclingstats.com/race/tour-de-pologne/2025/startlist
+anthon-charmig,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 andreas-leknessund,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 andreas-kron,05.08,Vuelta a Burgos,https://www.procyclingstats.com/race/vuelta-a-burgos/2025/startlist
 aleksandr-vlasov,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 albert-withen-philipsen,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
+aaron-gate,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
