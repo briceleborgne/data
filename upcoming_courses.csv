@@ -1,8 +1,8 @@
 coureur_id,date_course,nom_course,url_course
+alan-hatherly,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 matthew-riccitello,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 egan-bernal,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 gil-gelders,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
-jelte-krijnsen,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 jelte-krijnsen,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 jakob-fuglsang,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 jordan-jegat,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
@@ -49,6 +49,7 @@ remco-evenepoel,21.09,World Championships ME - ITT,https://www.procyclingstats.c
 remco-evenepoel,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 remco-evenepoel,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
 remco-evenepoel,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
+rasmus-tiller,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 quinten-hermans,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 paul-seixas,23.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2025/startlist
 paul-seixas,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
@@ -61,6 +62,8 @@ olav-kooij,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclass
 olav-kooij,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 olav-kooij,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 noa-isidore,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
+nils-politt,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
+nick-schultz,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 nairo-quintana,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 milan-fretin,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 milan-fretin,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
@@ -74,6 +77,7 @@ milan-fretin,07.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,http
 michal-kwiatkowski,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 max-poole,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 mattias-skjelmose-jensen,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
+matthew-brennan,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 matteo-jorgenson,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 mathias-vacek,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 mathias-vacek,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
@@ -104,8 +108,11 @@ juan-ayuso-pesquera,05.10,European Continental Championships ME - Road Race,http
 juan-ayuso-pesquera,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 jorgen-nordhagen,06.08,Tour de l'Ain,https://www.procyclingstats.com/race/tour-de-l-ain/2025/startlist
 jorgen-nordhagen,23.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2025/startlist
+jonathan-milan,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 jonas-vingegaard,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 joao-almeida,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
+jenthe-biermans,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
+javier-romo,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 jasper-philipsen,12.08,PostNord Tour of Denmark,https://www.procyclingstats.com/race/tour-of-denmark/2025/startlist
 jarno-widar,23.08,Tour de l'Avenir,https://www.procyclingstats.com/race/tour-de-l-avenir/2025/startlist
 jarno-widar,26.09,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2025/startlist
@@ -152,6 +159,7 @@ ben-healy,28.09,World Championships ME - Road Race,https://www.procyclingstats.c
 axel-laurance,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 axel-laurance,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 axel-laurance,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
+arne-marit,07.08,Arctic Race of Norway,https://www.procyclingstats.com/race/arctic-race-of-norway/2025/startlist
 arne-marit,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 arnaud-de-lie,15.08,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2025/startlist
 arnaud-de-lie,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
