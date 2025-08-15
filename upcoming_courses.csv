@@ -1,7 +1,6 @@
 coureur_id,date_course,nom_course,url_course
 matthew-riccitello,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 egan-bernal,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-gil-gelders,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 jelte-krijnsen,15.08,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2025/startlist
 jelte-krijnsen,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 lukáš-kubiš,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
@@ -25,13 +24,11 @@ francisco-galván,17.08,La Polynormande,https://www.procyclingstats.com/race/la-
 alberto-bruttomesso,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 giosuè-epis,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 lorenzo-germani,19.08,Tour du Limousin-Périgord - Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-limousin/2025/startlist
-junior-lecerf,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 jon-barrenetxea-golzarri,15.08,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2025/startlist
 jon-barrenetxea-golzarri,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 filippo-magli2,17.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2025/startlist
 filippo-magli2,19.08,Tour du Limousin-Périgord - Nouvelle Aquitaine,https://www.procyclingstats.com/race/tour-du-limousin/2025/startlist
 michael-valgren-andersen,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
-yves-lampaert,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 yevgeniy-fedorov,27.08,Muur Classic Geraardsbergen,https://www.procyclingstats.com/race/muur-classic-geraardsbergen/2025/startlist
 wout-van-aert,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 wout-van-aert,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
@@ -58,12 +55,10 @@ tim-van-dijke,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com
 tim-torn-teutenberg,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 tim-torn-teutenberg,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 tim-merlier,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
-tijmen-graat,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 thomas-pidcock,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 thomas-pidcock,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 thomas-pesenti,15.08,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2025/startlist
 thomas-pesenti,27.08,Muur Classic Geraardsbergen,https://www.procyclingstats.com/race/muur-classic-geraardsbergen/2025/startlist
-thomas-gloag,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 thibau-nys,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 tao-geoghegan-hart,20.08,Deutschland Tour,https://www.procyclingstats.com/race/deutschland-tour/2025/startlist
 tao-geoghegan-hart,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
@@ -153,7 +148,6 @@ matej-mohoric,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats
 martin-svrcek,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 mads-pedersen,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 mads-pedersen,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
-luke-lamperti,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 louis-barre,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 louis-barre,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 lewis-askey,17.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2025/startlist
@@ -232,7 +226,6 @@ edward-irl-dunbar,23.08,La Vuelta Ciclista a España,https://www.procyclingstats
 edward-irl-dunbar,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 eddy-le-huitouze,17.08,La Polynormande,https://www.procyclingstats.com/race/la-poly-normande/2025/startlist
 dylan-van-baarle,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-dries-van-gestel,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 dries-de-bondt,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 dries-de-bondt,20.08,Renewi Tour,https://www.procyclingstats.com/race/renewi-tour/2025/startlist
 dries-de-bondt,21.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2025/startlist
@@ -242,7 +235,6 @@ dorian-godon,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.co
 dorian-godon,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 derek-gee,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
 david-gaudu,23.08,La Vuelta Ciclista a España,https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist
-cian-uijtdebroeks,14.08,Czech Tour,https://www.procyclingstats.com/race/czech-tour/2025/startlist
 christophe-laporte,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
 bryan-coquard,15.08,Circuit Franco-Belge,https://www.procyclingstats.com/race/circuit-franco-belge/2025/startlist
 bryan-coquard,17.08,Cyclassics Hamburg,https://www.procyclingstats.com/race/cyclassics-hamburg/2025/startlist
