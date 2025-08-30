@@ -1,10 +1,10 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
-per-strand-hagenes,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 gil-gelders,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 jelte-krijnsen,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 lukáš-kubiš,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
 jasper-stuyven,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
+pelayo-sanchez-mayo,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 tom-donnenwirth,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 sam-bennett,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 emil-herzog,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
@@ -17,6 +17,7 @@ mathys-rondel,28.09,Petronas Le Tour de Langkawi,https://www.procyclingstats.com
 davide-bomboi,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 alberto-bruttomesso,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 lorenzo-germani,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
+jon-barrenetxea-golzarri,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 filippo-magli2,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 filippo-magli2,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 michael-valgren-andersen,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
@@ -42,6 +43,7 @@ tim-merlier,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.c
 tim-merlier,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 tim-merlier,21.09,Gooikse Pijl,https://www.procyclingstats.com/race/gooikse-pijl/2025/startlist
 tim-merlier,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
+tijmen-graat,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 tibor-del-grosso,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 thymen-arensman,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 thymen-arensman,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
@@ -60,6 +62,7 @@ tadej-pogacar,28.09,World Championships ME - Road Race,https://www.procyclingsta
 tadej-pogacar,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 tadej-pogacar,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 steffen-de-schuyteneer,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
+steffen-de-schuyteneer,04.09,Tour of İstanbul,https://www.procyclingstats.com/race/tour-of-istanbul/2025/startlist
 steffen-de-schuyteneer,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 steffen-de-schuyteneer,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 steffen-de-schuyteneer,21.09,Gooikse Pijl,https://www.procyclingstats.com/race/gooikse-pijl/2025/startlist
@@ -86,7 +89,6 @@ quentin-pacher,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats
 pier-andre-cote,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 pello-bilbao,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 pello-bilbao,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
-pavel-sivakov,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 paul-seixas,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 paul-penhoet,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 paul-magnier,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
@@ -100,7 +102,6 @@ oscar-onley,28.09,World Championships ME - Road Race,https://www.procyclingstats
 olav-kooij,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 olav-kooij,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 noa-isidore,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
-niklas-behrens,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 niklas-behrens,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 nick-schultz,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 neilson-powless,06.09,Maryland Cycling Classic,https://www.procyclingstats.com/race/maryland-cycling-classic/2025/startlist
@@ -114,6 +115,7 @@ milan-fretin,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/
 milan-fretin,07.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,https://www.procyclingstats.com/race/memorial-frank-vandenbroucke/2025/startlist
 mikkel-honore,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 maxim-van-gils,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
+max-kanter,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 mauro-schmid,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 mauro-schmid,06.09,Maryland Cycling Classic,https://www.procyclingstats.com/race/maryland-cycling-classic/2025/startlist
 mattias-skjelmose-jensen,06.09,Maryland Cycling Classic,https://www.procyclingstats.com/race/maryland-cycling-classic/2025/startlist
@@ -121,7 +123,6 @@ matthew-brennan,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstat
 matis-louvel,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 mathias-vacek,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
 mathias-vacek,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
-matevz-govekar,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 matevz-govekar,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 matevz-govekar,21.09,Gooikse Pijl,https://www.procyclingstats.com/race/gooikse-pijl/2025/startlist
 matej-mohoric,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
@@ -176,6 +177,7 @@ jarno-widar,04.10,European Continental Championships MU - Road Race,https://www.
 jan-tratnik,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 jan-christen,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 jai-hindley,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+ivan-romeo,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 isaac-del-toro,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 ilan-van-wilder,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 ilan-van-wilder,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
@@ -197,6 +199,7 @@ filippo-ganna,01.10,European Continental Championships ME - ITT,https://www.proc
 fabio-jakobsen,28.09,Petronas Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2025/startlist
 ethan-hayter,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 emilien-jeanniere,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
+emilien-jeanniere,04.09,Tour of İstanbul,https://www.procyclingstats.com/race/tour-of-istanbul/2025/startlist
 embret-svestad-bardseng,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 embret-svestad-bardseng,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 edward-irl-dunbar,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
@@ -238,6 +241,7 @@ anthon-charmig,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats
 andreas-leknessund,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 andreas-leknessund,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
 andreas-leknessund,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+alfred-wright,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 alex-aranburu,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 aleksey-lutsenko,31.08,Bretagne Classic - Ouest-France,https://www.procyclingstats.com/race/bretagne-classic/2025/startlist
 alberto-dainese,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
