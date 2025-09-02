@@ -1,6 +1,8 @@
 coureur_id,date_course,nom_course,url_course
+egan-bernal,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 lukáš-kubiš,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
 emil-herzog,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
+victor-campenaerts,24.09,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2025/startlist
 victor-campenaerts,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 igor-arrieta-lizarraga,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 francisco-galván,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
@@ -61,6 +63,7 @@ remco-evenepoel,01.10,European Continental Championships ME - ITT,https://www.pr
 remco-evenepoel,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 remco-evenepoel,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 rasmus-tiller,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
+quinten-hermans,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 quentin-pacher,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 pier-andre-cote,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 pello-bilbao,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
@@ -125,16 +128,21 @@ jenno-berckmoes,07.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,h
 jenno-berckmoes,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
 jenno-berckmoes,15.10,Giro del Veneto,https://www.procyclingstats.com/race/giro-del-veneto/2025/startlist
 jenno-berckmoes,19.10,Veneto Classic,https://www.procyclingstats.com/race/veneto-classic/2025/startlist
+jarno-widar,22.09,World Championships MU - ITT,https://www.procyclingstats.com/race/world-championships-itt-u23/2025/startlist
 jarno-widar,26.09,World Championships MU - Road Race,https://www.procyclingstats.com/race/world-championships-u23/2025/startlist
 jarno-widar,04.10,European Continental Championships MU - Road Race,https://www.procyclingstats.com/race/european-championships-mu/2025/startlist
 jai-hindley,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 ilan-van-wilder,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
+ilan-van-wilder,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
 ilan-van-wilder,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 ilan-van-wilder,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 hugo-hofstetter,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 giulio-ciccone,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 geraint-thomas,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
 florian-vermeersch,02.09,Lloyds Bank Tour of Britain Men,https://www.procyclingstats.com/race/tour-of-britain/2025/startlist
+florian-vermeersch,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
+florian-vermeersch,24.09,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2025/startlist
+florian-vermeersch,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 florian-vermeersch,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 florian-lipowitz,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 florian-lipowitz,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -156,6 +164,7 @@ dries-de-bondt,21.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procycli
 dorian-godon,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 dorian-godon,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 cian-uijtdebroeks,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
+cian-uijtdebroeks,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 cian-uijtdebroeks,04.10,Giro dell'Emilia,https://www.procyclingstats.com/race/giro-dell-emilia/2025/startlist
 cian-uijtdebroeks,07.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2025/startlist
 cian-uijtdebroeks,14.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
