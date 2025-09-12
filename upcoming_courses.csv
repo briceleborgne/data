@@ -1,6 +1,7 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 roger-adria/,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+roger-adria/,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 egan-bernal,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 gil-gelders,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 gil-gelders,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -16,7 +17,9 @@ jasper-stuyven,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.co
 jasper-stuyven,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 pelayo-sanchez-mayo,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 tom-donnenwirth,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
+toms-skujins,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 sam-bennett,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+florian-samuel-kajamini,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 florian-samuel-kajamini,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 emil-herzog,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 emil-herzog,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
@@ -35,7 +38,7 @@ maximilian-schachmann,21.09,World Championships ME - ITT,https://www.procyclings
 maximilian-schachmann,24.09,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2025/startlist
 maximilian-schachmann,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 francisco-galván,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
-darren-van-bekkum,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
+francesco-busatto,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 mathys-rondel,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 mathys-rondel,28.09,Petronas Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2025/startlist
 davide-bomboi,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
@@ -47,12 +50,15 @@ alberto-bruttomesso,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/g
 alberto-bruttomesso,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 alberto-bruttomesso,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 giosuè-epis,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+giosuè-epis,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 giosuè-epis,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 gianmarco-garofoli,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 lorenzo-germani,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
+christian-scaroni,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 christian-scaroni,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 jon-barrenetxea-golzarri,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 jon-barrenetxea-golzarri,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+filippo-magli2,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 filippo-magli2,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 filippo-magli2,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 michael-valgren-andersen,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
@@ -61,6 +67,7 @@ michael-valgren-andersen,28.09,World Championships ME - Road Race,https://www.pr
 yves-lampaert,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 yves-lampaert,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
 yevgeniy-fedorov,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+yevgeniy-fedorov,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 yevgeniy-fedorov,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 yevgeniy-fedorov,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 wout-van-aert,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
@@ -72,9 +79,11 @@ vito-braet,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/
 vito-braet,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 vito-braet,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 vito-braet,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
+vincent-van-hemelen,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 vincent-van-hemelen,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 victor-lafay,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 victor-lafay,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+victor-lafay,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 victor-lafay,14.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 valentin-paret-peintre,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 valentin-paret-peintre,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -82,9 +91,8 @@ valentin-madouas,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstat
 valentin-madouas,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 tobias-lund-andresen,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 tobias-lund-andresen,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
-tobias-foss,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
-tobias-foss,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 timo-kielich,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+timo-kielich,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 timo-kielich,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 tim-torn-teutenberg,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 tim-torn-teutenberg,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
@@ -126,8 +134,10 @@ ruben-guerreiro,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats
 ruben-guerreiro,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 romain-gregoire1,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 robin-orins,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+robin-orins,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 richard-carapaz,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 richard-carapaz,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
+richard-carapaz,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 richard-carapaz,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 richard-carapaz,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 remco-evenepoel,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
@@ -143,8 +153,10 @@ quinten-hermans,28.09,World Championships ME - Road Race,https://www.procyclings
 quentin-pacher,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 quentin-pacher,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 primoz-roglic,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+pierre-gautherat,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 pier-andre-cote,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 phil-bauhaus,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+phil-bauhaus,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 phil-bauhaus,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 phil-bauhaus,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 pello-bilbao,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
@@ -161,10 +173,10 @@ paul-magnier,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia
 paul-magnier,14.10,Gree-Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 paul-lapeira,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 paul-lapeira,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+paul-lapeira,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 paul-double,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
 patrick-konrad,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 patrick-konrad,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
-patrick-konrad,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 oscar-onley,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 oscar-onley,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 oscar-onley,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
@@ -176,10 +188,12 @@ nils-politt,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.c
 nils-politt,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 nils-politt,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 niklas-behrens,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
+nick-schultz,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 neilson-powless,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 neilson-powless,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 nairo-quintana,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 milan-menten,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+milan-menten,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 milan-menten,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 milan-fretin,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 milan-fretin,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
@@ -191,6 +205,7 @@ milan-fretin,07.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,http
 mikkel-honore,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 mikkel-honore,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 mikkel-honore,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+michal-kwiatkowski,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 max-kanter,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 max-kanter,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 max-kanter,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
@@ -202,6 +217,7 @@ mauro-schmid,28.09,World Championships ME - Road Race,https://www.procyclingstat
 mauro-schmid,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 mattias-skjelmose-jensen,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 mattias-skjelmose-jensen,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+mattias-skjelmose-jensen,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 mattias-skjelmose-jensen,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 matthew-brennan,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 matteo-moschetti,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
@@ -213,6 +229,7 @@ mathias-vacek,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impa
 mathias-vacek,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
 mathias-vacek,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 matevz-govekar,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+matevz-govekar,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 matevz-govekar,21.09,Gooikse Pijl,https://www.procyclingstats.com/race/gooikse-pijl/2025/startlist
 matevz-govekar,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 matevz-govekar,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
@@ -220,9 +237,11 @@ matej-mohoric,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.c
 matej-mohoric,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 matej-mohoric,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 martin-svrcek,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
+marijn-van-den-berg,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 marco-brenner,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 magnus-sheffield,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
 magnus-sheffield,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+magnus-sheffield,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 luke-plapp,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 luke-lamperti,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 luke-lamperti,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -232,6 +251,7 @@ lucas-hamilton,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.
 lucas-hamilton,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 louis-barre,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 louis-barre,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+louis-barre,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 lewis-askey,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 lewis-askey,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 lennard-kamna,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
@@ -247,6 +267,7 @@ julian-alaphilippe,14.09,Grand Prix Cycliste de Montréal,https://www.procycling
 juan-ayuso-pesquera,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 juan-ayuso-pesquera,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 juan-ayuso-pesquera,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
+joshua-tarling,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 joshua-tarling,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 joshua-huppertz,14.09,GP Rik Van Looy,https://www.procyclingstats.com/race/grote-prijs-rik-van-looy/2025/startlist
 joshua-huppertz,27.09,Grand Prix Cerami,https://www.procyclingstats.com/race/gp-cerami/2025/startlist
@@ -280,19 +301,24 @@ jarno-widar,04.10,European Continental Championships MU - Road Race,https://www.
 jannik-steimle,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 jan-tratnik,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 jan-tratnik,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+jan-christen,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 jan-christen,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 jan-christen,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 jan-christen,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 jai-hindley,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+isaac-del-toro,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 isaac-del-toro,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
 ilan-van-wilder,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
 ilan-van-wilder,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 ilan-van-wilder,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 huub-artz,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 hugo-page,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+hugo-page,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 hugo-page,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 hugo-hofstetter,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 hugo-hofstetter,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
+giulio-pellizzari,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+giulio-ciccone,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 giulio-ciccone,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 giacomo-nizzolo,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 giacomo-nizzolo,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
@@ -300,6 +326,7 @@ giacomo-nizzolo,24.09,Omloop van het Houtland,https://www.procyclingstats.com/ra
 gerben-thijssen,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 gerben-thijssen,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 gerben-thijssen,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
+florian-vermeersch,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 florian-vermeersch,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 florian-vermeersch,21.09,World Championships ME - ITT,https://www.procyclingstats.com/race/world-championship-itt/2025/startlist
 florian-vermeersch,24.09,World Championships - Mixed Relay TTT,https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2025/startlist
@@ -314,6 +341,7 @@ filippo-zana,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.co
 filippo-zana,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 filippo-zana,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 filippo-ganna,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
+fernando-gaviria,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 fernando-gaviria,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 fabio-jakobsen,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 fabio-jakobsen,28.09,Petronas Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2025/startlist
@@ -322,6 +350,7 @@ emils-liepins,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats
 emils-liepins,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 emils-liepins,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 emilien-jeanniere,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
+emilien-jeanniere,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 emilien-jeanniere,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 embret-svestad-bardseng,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 embret-svestad-bardseng,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -343,6 +372,7 @@ dries-de-bondt,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstat
 dries-de-bondt,21.09,Grand Prix d'Isbergues - Pas de Calais,https://www.procyclingstats.com/race/gp-d-isbergues/2025/startlist
 dorian-godon,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 dorian-godon,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+davide-piganzoli,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
 davide-piganzoli,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 cian-uijtdebroeks,17.09,Okolo Slovenska / Tour de Slovaquie,https://www.procyclingstats.com/race/okolo-slovenska/2025/startlist
 cian-uijtdebroeks,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
@@ -355,28 +385,36 @@ christophe-laporte,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp
 casper-van-uden,14.09,GP de Fourmies / La Voix du Nord,https://www.procyclingstats.com/race/gp-de-fourmies/2025/startlist
 casper-van-uden,19.09,Kampioenschap van Vlaanderen,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2025/startlist
 casper-van-uden,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
+bryan-coquard,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 bryan-coquard,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 brandon-mcnulty,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 brandon-mcnulty,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 brandon-mcnulty,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 biniam-girmay,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 biniam-girmay,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+biniam-girmay,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 biniam-girmay,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 biniam-girmay,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+ben-healy,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 ben-healy,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 bastien-tronchon,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 bastien-tronchon,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 axel-laurance,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 axel-laurance,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+axel-laurance,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 axel-laurance,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
-axel-laurance,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 aurelien-paret-peintre,17.09,Skoda Tour de Luxembourg,https://www.procyclingstats.com/race/tour-de-luxembourg/2025/startlist
 arne-marit,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 arnaud-de-lie,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 arnaud-de-lie,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
 arnaud-de-lie,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 arnaud-de-lie,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
+arnaud-de-lie,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
+antonio-morgado,13.09,Memorial Marco Pantani,https://www.procyclingstats.com/race/memorial-marco-pantani/2025/startlist
+antonio-morgado,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
+antonio-morgado,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 antonio-morgado,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
+anthony-turgis,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 anthony-turgis,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 anthony-perez,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 anthony-perez,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
@@ -387,10 +425,14 @@ andreas-leknessund,21.09,World Championships ME - ITT,https://www.procyclingstat
 andreas-leknessund,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 alfred-wright,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 alfred-wright,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+alfred-wright,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 alfred-wright,20.09,SUPER 8 Classic,https://www.procyclingstats.com/race/gp-impanis-van-petegem/2025/startlist
 alex-aranburu,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
 alex-aranburu,14.09,Grand Prix Cycliste de Montréal,https://www.procyclingstats.com/race/gp-montreal/2025/startlist
+alex-aranburu,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
+aleksey-lutsenko,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 aleksandr-vlasov,14.09,Trofeo Matteotti,https://www.procyclingstats.com/race/trofeo-matteotti/2025/startlist
+alberto-dainese,17.09,Grand Prix de Wallonie,https://www.procyclingstats.com/race/gp-de-wallonie/2025/startlist
 alberto-dainese,24.09,Omloop van het Houtland,https://www.procyclingstats.com/race/omloop-van-het-houtland-lichtervelde/2025/startlist
 alberto-dainese,28.09,Petronas Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2025/startlist
 albert-torres,12.09,Grand Prix Cycliste de Québec,https://www.procyclingstats.com/race/gp-quebec/2025/startlist
