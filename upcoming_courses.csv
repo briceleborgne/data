@@ -1,10 +1,12 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 roger-adria/,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
+roger-adria/,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 egan-bernal,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 egan-bernal,05.10,Coppa Agostoni - Giro delle Brianze,https://www.procyclingstats.com/race/coppa-agostoni/2025/startlist
 egan-bernal,06.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2025/startlist
 egan-bernal,07.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2025/startlist
+gil-gelders,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 jelte-krijnsen,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
 jordan-jegat,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 jordan-jegat,11.10,Tour de Kyushu,https://www.procyclingstats.com/race/tour-de-kyushu/2025/startlist
@@ -24,13 +26,13 @@ igor-arrieta-lizarraga,30.09,CRO Race,https://www.procyclingstats.com/race/tour-
 igor-arrieta-lizarraga,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 carlos-canal,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 laurenz-rex,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
+francisco-galván,28.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2025/startlist
 francisco-galván,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 mathys-rondel,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
 davide-bomboi,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
 davide-bomboi,07.10,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,https://www.procyclingstats.com/race/memorial-frank-vandenbroucke/2025/startlist
 davide-bomboi,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2025/startlist
 gianmarco-garofoli,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
-gianmarco-garofoli,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 gianmarco-garofoli,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 junior-lecerf,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 junior-lecerf,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
@@ -96,6 +98,7 @@ primoz-roglic,28.09,World Championships ME - Road Race,https://www.procyclingsta
 primoz-roglic,05.10,Coppa Agostoni - Giro delle Brianze,https://www.procyclingstats.com/race/coppa-agostoni/2025/startlist
 primoz-roglic,06.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2025/startlist
 primoz-roglic,07.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2025/startlist
+pierre-gautherat,28.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2025/startlist
 pier-andre-cote,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 pavel-sivakov,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 pavel-sivakov,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
@@ -130,7 +133,6 @@ mattias-skjelmose-jensen,05.10,European Continental Championships ME - Road Race
 matthew-brennan,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
 matteo-moschetti,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
 matteo-moschetti,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
-matis-louvel,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
 mathias-vacek,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
 mathias-vacek,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 mathias-vacek,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
@@ -152,6 +154,7 @@ madis-mihkels,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com
 madis-mihkels,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 luke-plapp,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 luke-lamperti,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+luke-lamperti,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 louis-barre,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 louis-barre,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 louis-barre,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
@@ -251,6 +254,7 @@ edward-irl-dunbar,28.09,World Championships ME - Road Race,https://www.procyclin
 dylan-van-baarle,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 dylan-groenewegen,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 dries-van-gestel,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
+dries-de-bondt,28.09,Paris-Chauny,https://www.procyclingstats.com/race/paris-chauny-classique/2025/startlist
 davide-piganzoli,05.10,Coppa Agostoni - Giro delle Brianze,https://www.procyclingstats.com/race/coppa-agostoni/2025/startlist
 davide-piganzoli,06.10,Coppa Bernocchi - GP Banco BPM,https://www.procyclingstats.com/race/coppa-bernocchi/2025/startlist
 davide-piganzoli,07.10,Tre Valli Varesine,https://www.procyclingstats.com/race/tre-valli-varesine/2025/startlist
@@ -265,6 +269,7 @@ christophe-laporte,14.10,Tour of Holland,https://www.procyclingstats.com/race/to
 casper-van-uden,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
 brandon-mcnulty,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 biniam-girmay,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
+ben-turner,30.09,CRO Race,https://www.procyclingstats.com/race/tour-of-croatia/2025/startlist
 ben-healy,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 aurelien-paret-peintre,05.10,European Continental Championships ME - Road Race,https://www.procyclingstats.com/race/uec-road-european-championships/2025/startlist
 arne-marit,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
@@ -285,5 +290,6 @@ andreas-leknessund,28.09,World Championships ME - Road Race,https://www.procycli
 alfred-wright,28.09,World Championships ME - Road Race,https://www.procyclingstats.com/race/world-championship/2025/startlist
 alfred-wright,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
 alec-segaert,01.10,European Continental Championships ME - ITT,https://www.procyclingstats.com/race/uec-road-european-championships-itt/2025/startlist
+alec-segaert,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 alberto-dainese,03.10,Sparkassen Münsterland Giro,https://www.procyclingstats.com/race/munsterland-giro/2025/startlist
 aaron-gate,28.09,Petronas Le Tour de Langkawi,https://www.procyclingstats.com/race/tour-de-langkawi/2025/startlist
