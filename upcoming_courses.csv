@@ -1,18 +1,22 @@
 coureur_id,date_course,nom_course,url_course
 roger-adria/,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+alan-hatherly,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 alan-hatherly,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+egan-bernal,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 jordan-jegat,11.10,Tour de Kyushu,https://www.procyclingstats.com/race/tour-de-kyushu/2025/startlist
 lukáš-kubiš,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
-pelayo-sanchez-mayo,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 pelayo-sanchez-mayo,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 toms-skujins,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 sam-bennett,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 florian-samuel-kajamini,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 emil-herzog,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 igor-arrieta-lizarraga,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+carlos-canal,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 francesco-busatto,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 francesco-busatto,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+mathys-rondel,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 mathys-rondel,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
+giosuè-epis,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 christian-scaroni,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 christian-scaroni,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 christian-scaroni,15.10,Giro del Veneto,https://www.procyclingstats.com/race/giro-del-veneto/2025/startlist
@@ -29,6 +33,7 @@ tobias-lund-andresen,14.10,Tour of Holland,https://www.procyclingstats.com/race/
 tim-van-dijke,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 tim-torn-teutenberg,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 tim-merlier,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
+tijmen-graat,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 tijmen-graat,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 thomas-pidcock,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 thomas-gloag,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
@@ -36,6 +41,7 @@ tao-geoghegan-hart,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/to
 tadej-pogacar,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 steffen-de-schuyteneer,09.10,Tour of Taihu Lake,https://www.procyclingstats.com/race/tour-of-taihu-lake/2025/startlist
 steffen-de-schuyteneer,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+sjoerd-bax,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 robin-orins,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 richard-carapaz,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 remi-cavagna,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2025/startlist
@@ -54,7 +60,6 @@ niklas-behrens,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-o
 nick-schultz,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 neilson-powless,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 milan-menten,09.10,Tour of Taihu Lake,https://www.procyclingstats.com/race/tour-of-taihu-lake/2025/startlist
-milan-fretin,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2025/startlist
 mikkel-honore,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 michal-kwiatkowski,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 maxim-van-gils,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
@@ -66,16 +71,20 @@ mathias-vacek,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.c
 matej-mohoric,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 matej-mohoric,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
 marijn-van-den-berg,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+marco-brenner,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 marco-brenner,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
 luke-lamperti,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 lukas-nerurkar,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+louis-barre,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 louis-barre,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
+lenny-martinez,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 lennard-kamna,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 kobe-goossens,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 kevin-geniets,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 julien-bernard,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 julien-bernard,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
 julian-alaphilippe,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
+joshua-tarling,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 jorgen-nordhagen,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 jordi-meeus,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 jordi-meeus,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
@@ -84,6 +93,7 @@ jenthe-biermans,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-
 jenno-berckmoes,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
 jenno-berckmoes,15.10,Giro del Veneto,https://www.procyclingstats.com/race/giro-del-veneto/2025/startlist
 jenno-berckmoes,19.10,Veneto Classic,https://www.procyclingstats.com/race/veneto-classic/2025/startlist
+javier-romo,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 jasper-philipsen,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
 jannik-steimle,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 jan-tratnik,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
@@ -103,7 +113,9 @@ emils-liepins,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of
 emilien-jeanniere,11.10,Tour de Kyushu,https://www.procyclingstats.com/race/tour-de-kyushu/2025/startlist
 emilien-jeanniere,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2025/startlist
 emilien-jeanniere,19.10,Chrono des Nations,https://www.procyclingstats.com/race/chrono-des-nations/2025/startlist
+embret-svestad-bardseng,11.10,Il Lombardia,https://www.procyclingstats.com/race/il-lombardia/2025/startlist
 emanuel-buchmann,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
+edward-irl-dunbar,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 eddy-le-huitouze,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 dylan-van-baarle,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
 dries-van-gestel,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
@@ -113,7 +125,7 @@ cian-uijtdebroeks,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tou
 christophe-laporte,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
 christophe-laporte,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-of-holland/2025/startlist
 casper-van-uden,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
-bryan-coquard,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2025/startlist
+axel-laurance,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 aurelien-paret-peintre,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 arne-marit,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 arnaud-de-lie,12.10,Paris - Tours Elite,https://www.procyclingstats.com/race/paris-tours/2025/startlist
@@ -122,6 +134,7 @@ anthony-turgis,14.10,Tour of Holland,https://www.procyclingstats.com/race/tour-o
 anthony-perez,11.10,Tour de Vendée,https://www.procyclingstats.com/race/tour-de-vendee/2025/startlist
 anthon-charmig,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
 andreas-leknessund,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
+alfred-wright,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 alfred-wright,19.10,Utsunomiya Japan Cup Road Race,https://www.procyclingstats.com/race/japan-cup/2025/startlist
 alex-aranburu,09.10,Gran Piemonte,https://www.procyclingstats.com/race/gran-piemonte/2025/startlist
 aleksey-lutsenko,14.10,Tour of Guangxi,https://www.procyclingstats.com/race/tour-of-guangxi/2025/startlist
